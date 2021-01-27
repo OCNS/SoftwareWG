@@ -1,4 +1,4 @@
-= Software WG: Home
+# Software WG: Home
 
 This repository is used for housekeeping by the INCF/OCNS Software Working Group (WG).
 
