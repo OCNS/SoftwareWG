@@ -7,7 +7,12 @@ INPUTDIR=$(BASEDIR)/content
 OUTPUTDIR=$(BASEDIR)/output
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
-
+PAGESDIR=$(INPUTDIR)/pages
+DATE := $(shell date +'%Y-%m-%d %H:%M:%S')
+DATEYYMMDD := $(shell date +'%Y%m%d')
+SLUG := $(shell echo '${NAME}' | sed -e 's/[^[:alnum:]]/-/g' | tr -s '-' | tr A-Z a-z)
+EXT ?= rst
+AUTHOR := addauthor
 GITHUB_PAGES_BRANCH=gh-pages
 
 
@@ -76,5 +81,60 @@ github: publish
 	ghp-import -m "Generate Pelican site" -b $(GITHUB_PAGES_BRANCH) "$(OUTPUTDIR)"
 	git push origin $(GITHUB_PAGES_BRANCH)
 
+newpost:
+ifdef NAME
+	echo "$(NAME)" >  $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
+	echo -n "$(NAME)" | sed "s/./#/g" >>  $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
+	echo >>  $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
+	echo ":date: $(DATE)" >> $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
+	echo ":author: $(AUTHOR)" >> $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
+	echo ":category: " >> $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
+	echo ":tags: " >> $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
+	echo ":slug: $(SLUG)" >> $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
+	echo ":status: draft" >> $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
+	echo ":summary: " >> $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
+	echo ""              >> $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
+	echo ""              >> $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
+	${EDITOR} ${INPUTDIR}/$(DATEYYMMDD)-${SLUG}.${EXT}
+else
+	@echo 'Variable NAME is not defined.'
+	@echo 'Do make newpost NAME='"'"'Post Name'"'"
+endif
 
-.PHONY: html help clean regenerate serve serve-global devserver publish github
+editpost:
+ifdef NAME
+	${EDITOR} ${INPUTDIR}/$(DATEYYMMDD)-${SLUG}.${EXT}
+else
+	@echo 'Variable NAME is not defined.'
+	@echo 'Do make editpost NAME='"'"'Post Name'"'"
+endif
+
+newpage:
+ifdef NAME
+	echo "$(NAME)" >  $(PAGESDIR)/$(SLUG).$(EXT)
+	echo -n "$(NAME)" | sed "s/./#/g" >>  $(PAGESDIR)/$(SLUG).$(EXT)
+	echo >> $(PAGESDIR)/$(SLUG).$(EXT)
+	echo ":date: $(DATE)" >> $(PAGESDIR)/$(SLUG).$(EXT)
+	echo ":author: $(AUTHOR)" >> $(PAGESDIR)/$(SLUG).$(EXT)
+	echo ":slug: $(SLUG)" >> $(PAGESDIR)/$(SLUG).$(EXT)
+	echo ""              >> $(PAGESDIR)/$(SLUG).$(EXT)
+	echo ""              >> $(PAGESDIR)/$(SLUG).$(EXT)
+	${EDITOR} ${PAGESDIR}/${SLUG}.$(EXT)
+else
+	@echo 'Variable NAME is not defined.'
+	@echo 'Do make newpage NAME='"'"'Page Name'"'"
+endif
+
+editpage:
+ifdef NAME
+	${EDITOR} ${PAGESDIR}/${SLUG}.$(EXT)
+else
+	@echo 'Variable NAME is not defined.'
+	@echo 'Do make editpage NAME='"'"'Page Name'"'"
+endif
+
+listdrafts:
+	grep -nrH "^:status:.* draft" $(INPUTDIR)/*rst | cut -d : -f 1 | sed 's|$(BASEDIR)/||'
+
+
+.PHONY: html help clean regenerate serve serve-global devserver publish github newpost editpost newpage editpage listdrafts
