@@ -12,6 +12,8 @@ You will then need to have the Python packages listed in `requirements.txt` inst
 The `bulrush` theme also requires the installation of the `less` node module: `npm install less`.
 Please see the [Bulrush theme documentation](https://github.com/textbook/bulrush/tree/master) for more information.
 
+The website is published on GitHub pages, using `ghp-import`.
+
 ## License
 
 The content here is licensed under the [CC by SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/).
