@@ -9,6 +9,24 @@ WG meeting 26 January 2021
 :summary: These are the minutes from the first working group meeting on 26th January, 2021.
 
 
+.. raw:: html
+
+   <center>
+
+.. figure:: {static}/images/20210107-meeting-logs.jpg
+    :alt: Photo by Daria Nepriakhina on Unsplash
+    :width: 40%
+    :class: img-responsive
+    :target: #
+
+    Photo by `Daria Nepriakhina <https://unsplash.com/@epicantus?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText>`__ on Unsplash.
+
+.. raw:: html
+
+   </center>
+   <br />
+
+
 These are the meeting logs from the Software WG meeting that was held on 26th January 2021 at 1000 UTC using INCF's BlueJeans account.
 The next progress meeting will be held in ~4 weeks time.
 For any clarifications and suggestions, please feel free to contact the current WG chairs at `webmaster AT cnsorg DOT org`.
