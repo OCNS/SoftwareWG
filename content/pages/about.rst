@@ -19,7 +19,7 @@ OCNS_ is also a member of the INCF_.
 Aims
 ====
 
-The WG is designed to not be linked to any one particular goal to allow it remain flexible enough so that it can take on projects that its members are interested in working on. 
+The WG is designed to not be linked to any one particular goal to allow it remain flexible enough so that it can take on projects that its members are interested in working on.
 Currently, the goals of the WG are to:
 
 * write up a set of best practices in software development and encourage software developers in the research community to check their tools against there;
