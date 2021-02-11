@@ -48,7 +48,8 @@ Members
 
 The founding members, in no particular order are:
 
-- Ankur Sinha: Silver Lab, University College London & OCNS Board
+- Ankur Sinha: Silver Lab, University College London & OCNS Board (Co-chair)
+- Shailesh Appukuttan, Neuro-PSI, CNRS, France & OCNS Board (Co-chair)
 - Stewart Heitmann: Victor Chang Cardiac Research Institute
 - Caglar Cakan: Neural Information Processing Group, TU Berlin
 - Nikola Jajcay: Neural Information Processing Group, TU Berlin
