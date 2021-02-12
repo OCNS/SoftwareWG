@@ -11,7 +11,7 @@ Dev session: Caglar Cakan: neurolib
 
 `Caglar Cakan`_ will introduce neurolib_ and discuss its development in this developer session.
 
-- Date: February 22, 2021. 1700 UTC/ 1800 Berlin time
+- Date: February 22, 2021. 1700 UTC/ 1800 Berlin time (Click `here <https://www.timeanddate.com/worldclock/fixedtime.html?msg=Dev+session%3A+Caglar+Cakan%3A+neurolib&iso=20210222T17&p1=136&ah=1>`__  to see your local time).
 - Location (Zoom): https://tu-berlin.zoom.us/j/68960683644?pwd=a2JTTS8xZXhwY0ZtQ0J0aktRVW52Zz09
 
 
