@@ -1,12 +1,28 @@
 Dev session: Caglar Cakan: neurolib
 ###################################
 :date: 2021-02-12 20:27:22
-:modified: 2021-02-12 20:27:22
+:modified: 2021-02-16 09:13:49
 :authors: Ankur Sinha
 :category: Events
 :tags: Dev session, neurolib, Python, Whole-brain modelling
 :slug: dev-session-caglar-cakan-neurolib
 :summary: `Caglar Cakan`_ will introduce neurolib_ and discuss its development in this developer session.
+
+
+.. raw:: html
+
+   <center>
+
+.. figure:: {static}/images/20210216-neurolib.png
+    :alt: neurolib
+    :width: 75%
+    :class: img-responsive
+    :target: https://neurolib-dev.github.io/
+
+.. raw:: html
+
+   </center>
+   <br />
 
 
 `Caglar Cakan`_ will introduce neurolib_ and discuss its development in this developer session.
@@ -27,5 +43,5 @@ An optimization module allows for fitting a model to multimodal empirical data u
 Besides its included functionality, neurolib_ is designed to be extendable such that custom neural mass models can be implemented easily.
 neurolib_ offers a versatile platform for computational neuroscientists for prototyping models, managing large numerical experiments, studying the structure-function relationship of brain networks, and for in-silico optimization of whole-brain models.
 
-.. _neurolib: https://github.com/neurolib-dev/neurolib
+.. _neurolib: https://neurolib-dev.github.io
 .. _Caglar Cakan: https://caglorithm.github.io/notebooks/
