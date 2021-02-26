@@ -2,3 +2,4 @@ pelican
 bulrush
 ghp-import
 pelican[markdown]
+typogrify
