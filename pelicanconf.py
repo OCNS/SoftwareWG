@@ -20,11 +20,13 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('INCF website', 'https://www.incf.org/'),
-         ('Follow INCF on Twitter', 'https://twitter.com/INCForg/'),
-         ('OCNS website', 'https://www.cnsorg.org/'),
-         ('Follow OCNS on Twitter', 'https://twitter.com/CNSorg/'),
-         )
+LINKS = (
+    ('Join us!', 'https://github.com/OCNS/SoftwareWG/discussions/12'),
+    ('INCF website', 'https://www.incf.org/'),
+    ('INCF (Twitter)', 'https://twitter.com/INCForg/'),
+    ('OCNS website', 'https://www.cnsorg.org/'),
+    ('OCNS (Twitter)', 'https://twitter.com/CNSorg/'),
+)
 
 # Social widget
 SOCIAL = (('GitHub', 'https://github.com/OCNS/SoftwareWG'),
