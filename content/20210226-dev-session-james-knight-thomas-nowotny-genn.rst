@@ -1,12 +1,28 @@
 Dev session: James Knight, Thomas Nowotny: GeNN
 ###############################################
 :date: 2021-02-26 18:33:55
-:modified: 2021-02-26 18:33:55
+:modified: 2021-03-04 12:08:39
 :authors: Ankur Sinha
 :category: Events
 :tags: GeNN, Dev session, GPU, Python, C++, CUDA, Nvidia, Simulation, Code generation
 :slug: dev-session-james-knight-thomas-nowotny-genn
 :summary: `James Knight`_ and `Thomas Nowotny`_ will introduce the GeNN_ simulation environment and discuss its development in this dev session.
+
+
+.. raw:: html
+
+   <center>
+
+.. figure:: {static}/images/20210304-genn.png
+    :alt: The GeNN simulator
+    :width: 50%
+    :class: img-responsive
+    :target: http://genn-team.github.io/genn/
+
+.. raw:: html
+
+   </center>
+   <br />
 
 
 `James Knight`_ and `Thomas Nowotny`_ will introduce the GeNN_ simulation environment and discuss its development in this dev session.
