@@ -5,7 +5,7 @@ About
 :authors: Ankur Sinha
 :slug: about
 
-Computational neuroscience cannot exist without the tools that we all rely on.
+Neuroscience cannot exist without the tools that we all rely on.
 So, this Working Group (WG) will focus on these.
 We'll find and discuss tools, we will learn how to use them, we will test and review them, we will file bugs to inform the developers of issues, and finally we will try to learn how they work and try to get involved in their development—to ensure that these tools that we rely on remain in good shape by having communities looking after them.
 Since many members of the WG are themselves tool developers, we will also learn from each other and will work towards improving interoperability between related tools.
