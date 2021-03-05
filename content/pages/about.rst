@@ -1,7 +1,7 @@
 About
 #####
 :date: 2021-02-07 19:00:14
-:modified: 2021-02-07 19:00:14
+:modified: 2021-03-05 12:42:35
 :authors: Ankur Sinha
 :slug: about
 
@@ -28,8 +28,8 @@ Currently, the goals of the WG are to:
 Contact
 ========
 
-- We are reachable at the `OCNS category on Neurostars <https://neurostars.org/c/institutions/ocns/30>`__.
-- You can also follow us on `GitHub <https://github.com/orgs/OCNS/teams/software-wg>`__.
+- We use `GitHub discussions <https://github.com/OCNS/SoftwareWG/discussions>`__ as our primary discussion channel. `Say hello! <https://github.com/OCNS/SoftwareWG/discussions/12>`__.
+- We are also reachable at the `OCNS category on Neurostars <https://neurostars.org/c/institutions/ocns/30>`__.
 - Both WG chairs are also reachable at the OCNS Webmaster's e-mail address at `webmaster AT cnsorg.org`.
 
 
@@ -44,7 +44,7 @@ Members
 
 **The WG is open to everyone, without any formal on-boarding process or requirements (academic or otherwise)**.
 
-- Current members can be seen `here on GitHub <https://github.com/orgs/OCNS/teams/software-sig/members>`__.
+The current membership can be seen `here on GitHub <https://github.com/orgs/OCNS/teams/software-sig/members>`__.
 
 The founding members, in no particular order are:
 
