@@ -55,7 +55,7 @@ The founding members, in no particular order are:
 - Nikola Jajcay: Neural Information Processing Group, TU Berlin
 - Christoph Metzner, Neural Information Processing Group, TU Berlin
 - Felix Kern, International Research Center for Neurointelligence, U Tokyo
-- Zohreh Vaziri, Neuroscience research center, Kerman medical university
+- Zohreh Vaziri, Neuroscience Research Center, Kerman Medical University
 - Amelie Aussel, Boston University
 - Robert A McDougal, Yale University
 - Brent Huisman, Forschungszentrum Jülich, Germany
@@ -63,9 +63,12 @@ The founding members, in no particular order are:
 - Malin Sandström, INCF & OCNS Board
 - Daniele Avitabile, VU Amsterdam
 - Joe Graham, SUNY Downstate Medical Center
-- Thomas Nowotny, University of Sussex & OCNS Board
+- Thomas Nowotny, University of Sussex
+- James Knight, University of Sussex
 - Charl Linssen, Forschungszentrum Jülich, Germany
 - Andrew Davidson, Paris-Saclay Institute of Neuroscience
+- Anca Doloc-Mihu, Georgia Gwinnett College, Lawrenceville, United States
+- Shavika Rastogi, International Centre for Neuromorphic Systems, MARCS Institute of Brain, Behavior and Development, Western Sydney University, Australia
 
 
 Please get in touch if you'd like to join the WG.
