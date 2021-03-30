@@ -44,9 +44,8 @@ Members
 
 **The WG is open to everyone, without any formal on-boarding process or requirements (academic or otherwise)**.
 
-The current membership can be seen `here on GitHub <https://github.com/orgs/OCNS/teams/software-sig/members>`__.
-
-The founding members, in no particular order are:
+The current membership is below.
+It can also be seen `here on GitHub <https://github.com/orgs/OCNS/teams/software-wg/members>`__.
 
 - Ankur Sinha: Silver Lab, University College London & OCNS Board (Co-chair)
 - Shailesh Appukuttan, Neuro-PSI, CNRS, France & OCNS Board (Co-chair)
