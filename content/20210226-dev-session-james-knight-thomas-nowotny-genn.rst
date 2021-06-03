@@ -1,7 +1,7 @@
 Dev session: James Knight, Thomas Nowotny: GeNN
 ###############################################
 :date: 2021-02-26 18:33:55
-:modified: 2021-03-04 12:08:39
+:modified: 2021-06-03 11:35:23
 :authors: Ankur Sinha
 :category: Events
 :tags: GeNN, Dev session, GPU, Python, C++, CUDA, Nvidia, Simulation, Code generation
@@ -24,11 +24,15 @@ Dev session: James Knight, Thomas Nowotny: GeNN
    </center>
    <br />
 
+   <center>
+    <iframe width="560" height="315" style="height: 315px;" src="https://www.youtube.com/embed/1ZHpKG41kp8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   </center>
+   <br />
 
 `James Knight`_ and `Thomas Nowotny`_ will introduce the GeNN_ simulation environment and discuss its development in this dev session.
 
 - Date: March 9, 2021, 1700 UTC (Click `here <https://www.timeanddate.com/worldclock/fixedtime.html?msg=Dev+session%3A+James+Knight%2CThomas+Nowotny%3A+GeNN&iso=20210309T17&p1=136&ah=1>`__ to see your local time).
-- Location (Zoom): https://universityofsussex.zoom.us/j/97956408800?pwd=by9yVnhCZTJlenY0bVI4OEc5QWVFQT09
+- Location (Zoom): (link no longer valid)
 
 The abstract for the talk is below:
 
