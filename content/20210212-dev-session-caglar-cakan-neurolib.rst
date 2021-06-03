@@ -1,7 +1,7 @@
 Dev session: Caglar Cakan: neurolib
 ###################################
 :date: 2021-02-12 20:27:22
-:modified: 2021-02-18 09:19:04
+:modified: 2021-06-03 11:12:57
 :authors: Ankur Sinha
 :category: Events
 :tags: Dev session, neurolib, Python, Whole-brain modelling
@@ -19,8 +19,14 @@ Dev session: Caglar Cakan: neurolib
     :class: img-responsive
     :target: https://neurolib-dev.github.io/
 
+
 .. raw:: html
 
+   </center>
+   <br />
+
+   <center>
+       <iframe width="500" height="320" style="height: 320px;" src="https://www.youtube.com/embed/ngvVtqiilVk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
    </center>
    <br />
 
@@ -28,7 +34,7 @@ Dev session: Caglar Cakan: neurolib
 `Caglar Cakan`_ will introduce neurolib_ and discuss its development in this developer session.
 
 - Date: February 23, 2021. 1700 UTC/ 1800 Berlin time (Click `here <https://www.timeanddate.com/worldclock/fixedtime.html?msg=Dev+session%3A+Caglar+Cakan%3A+neurolib&iso=20210223T17&p1=136&ah=1>`__  to see your local time).
-- Location (Zoom): https://tu-berlin.zoom.us/j/68960683644?pwd=a2JTTS8xZXhwY0ZtQ0J0aktRVW52Zz09
+- Location (Zoom): (link no longer valid)
 
 
 The abstract for the talk is below:
