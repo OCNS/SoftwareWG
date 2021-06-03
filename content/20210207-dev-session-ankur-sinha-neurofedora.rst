@@ -1,6 +1,7 @@
 Dev session: Ankur Sinha: NeuroFedora
 #####################################
 :date: 2021-02-07 17:27:54
+:modified: 2021-06-03 11:33:33
 :authors: Ankur Sinha
 :category: Events
 :tags: NeuroFedora, Linux, Free/Open Source Software, Python, Neuroscience, Computational Neuroscience
@@ -23,10 +24,15 @@ Dev session: Ankur Sinha: NeuroFedora
    </center>
    <br />
 
+   <center>
+    <iframe width="560" height="315" style="height: 315px" src="https://www.youtube.com/embed/d8wO-ekFw5M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   </center>
+   <br />
+
 `Ankur Sinha`_ will introduce the `Free/Open Source Software`_ NeuroFedora_ project and discuss its development in this developer session.
 
 - Date: Feb 16, 2021 1700 UTC (Click `here <https://www.timeanddate.com/worldclock/fixedtime.html?msg=Dev+session%3A+Ankur+Sinha%3A+NeuroFedora&iso=20210216T17&p1=136&ah=1>`__  to see your local time).
-- Location (Zoom): https://ucl.zoom.us/j/94964460359?pwd=MTJmWEY1NHRxd3l4ZGdtTS9NQ1FaZz09
+- Location (Zoom): (link no longer valid)
 
 The abstract for the talk is below:
 
