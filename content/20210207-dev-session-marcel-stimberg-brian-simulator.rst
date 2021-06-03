@@ -24,7 +24,7 @@ Dev session: Marcel Stimberg: Brian Simulator
    <br />
 
    <center>
-       <iframe width="560" height="315" style="height: 315px" src="https://www.youtube.com/embed/fy6Hs5uQ7aQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+       <iframe width="560" height="315" style="height: 315px;" src="https://www.youtube.com/embed/fy6Hs5uQ7aQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
    </center>
    <br />
 

@@ -25,7 +25,7 @@ Dev session: Ankur Sinha: NeuroFedora
    <br />
 
    <center>
-    <iframe width="560" height="315" style="height: 315px" src="https://www.youtube.com/embed/d8wO-ekFw5M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" style="height: 315px;" src="https://www.youtube.com/embed/d8wO-ekFw5M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
    </center>
    <br />
 
