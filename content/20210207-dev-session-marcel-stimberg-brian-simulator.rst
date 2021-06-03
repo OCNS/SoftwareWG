@@ -1,6 +1,7 @@
 Dev session: Marcel Stimberg: Brian Simulator
 #############################################
 :date: 2021-02-07 16:55:48
+:modified: 2021-06-03 11:31:44
 :author: Ankur Sinha
 :category: Events
 :tags: Dev session, Brian Simulator, Code generation, Python, Free/Open Source Software, Neuroscience, Computational Neuroscience, Automation, Documentation
@@ -22,10 +23,15 @@ Dev session: Marcel Stimberg: Brian Simulator
    </center>
    <br />
 
+   <center>
+       <iframe width="560" height="315" style="height: 315px" src="https://www.youtube.com/embed/fy6Hs5uQ7aQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   </center>
+   <br />
+
 `Marcel Stimberg`_ will introduce the `Brian Simulator`_ and discuss its development for the first developer session of the year.
 
 - Date: Feb 11, 2021 1700 UTC (Click `here <https://www.timeanddate.com/worldclock/fixedtime.html?msg=Dev+session%3A+Marcel+Stimberg%3A+Brian+Simulator&iso=20210211T17&p1=136&ah=1>`__  to see your local time).
-- Location (Zoom): https://ucl.zoom.us/j/91389216854?pwd=cFVWaXRYVFRUdll2c09Xb3dBS2FWQT09.
+- Location (Zoom): (link no longer valid)
 
 The abstract for the talk is below:
 
