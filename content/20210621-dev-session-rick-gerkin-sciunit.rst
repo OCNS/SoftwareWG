@@ -27,7 +27,7 @@ Dev session: Rick Gerkin: SciUnit
 `Rick Gerkin`_ will introduce the SciUnit_ framework and discuss its development in this dev session.
 
 - Date: June 21, 2021, 1600 UTC (Click `here <https://www.timeanddate.com/worldclock/fixedtime.html?msg=Dev+session%3A+Rick+Gerkin+%3A+SciUnit&iso=20210621T18&p1=195&ah=1>`__ to see your local time).
-- Location (Zoom): (to be added)
+- Location (Zoom): https://ucl.zoom.us/j/91246735902?pwd=WVdVK3I5SGdlaDFZdllDQ0w2djVBdz09
 
 The abstract for the talk is below:
 
