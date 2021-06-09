@@ -24,7 +24,7 @@ INDEX_SAVE_AS = 'blog_index.html'
 LINKS = (
     ('Home', '/index.html'),
     ('Updates', '/blog_index.html'),
-    ('Members', '/pages/members.html'),
+    ('Membership', '/pages/members.html'),
     ('Contact', '/pages/contact.html'),
     ('INCF', 'https://www.incf.org/'),
     ('OCNS', 'https://www.cnsorg.org/'),
