@@ -1,7 +1,7 @@
 Dev session: Rick Gerkin: SciUnit
 #################################
-:date: 2021-06-21 18:00:00
-:modified: 2021-06-04 12:30:00
+:date: 2021-06-04 18:00:00
+:modified: 2021-06-09 10:53:24
 :authors: Shailesh Appukuttan
 :category: Events
 :tags: SciUnit, Dev session, Python, Validation, Verification, Framework
