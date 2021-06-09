@@ -12,7 +12,7 @@ The current membership is below.
 It can also be seen `here on GitHub <https://github.com/orgs/OCNS/teams/software-wg/members>`__.
 
 - Ankur Sinha: Silver Lab, University College London & OCNS Board (Co-chair)
-- Shailesh Appukuttan, Neuro-PSI, CNRS, France & OCNS Board (Co-chair)
+- Shailesh Appukuttan, Paris-Saclay Institute of Neuroscience, CNRS - Université Paris-Saclay, France & OCNS Board (Co-chair)
 - Stewart Heitmann: Victor Chang Cardiac Research Institute
 - Caglar Cakan: Neural Information Processing Group, TU Berlin
 - Nikola Jajcay: Neural Information Processing Group, TU Berlin
@@ -29,7 +29,7 @@ It can also be seen `here on GitHub <https://github.com/orgs/OCNS/teams/software
 - Thomas Nowotny, University of Sussex
 - James Knight, University of Sussex
 - Charl Linssen, Forschungszentrum Jülich, Germany
-- Andrew Davidson, Paris-Saclay Institute of Neuroscience
+- Andrew Davison, Paris-Saclay Institute of Neuroscience, CNRS - Université Paris-Saclay
 - Anca Doloc-Mihu, Georgia Gwinnett College, Lawrenceville, United States
 - Shavika Rastogi, International Centre for Neuromorphic Systems, MARCS Institute of Brain, Behavior and Development, Western Sydney University, Australia
 
