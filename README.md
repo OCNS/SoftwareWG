@@ -6,11 +6,9 @@ For discussions on activities, please refer to [Latest Institutions/OCNS topics 
 
 ## Setup
 
-This website uses the [Pelican static website generator](https://docs.getpelican.com/en/latest/).
+This website uses the [Pelican static website generator](https://docs.getpelican.com/en/latest/) along with  the [Pelican-Alchemy theme](https://github.com/nairobilug/pelican-alchemy).
 To obtain the sources, please clone the repository recursively to ensure that included git submodule repositories are also cloned.
 You will then need to have the Python packages listed in `requirements.txt` installed (preferably in a virtual environment).
-The `bulrush` theme also requires the installation of the `less` node module: `npm install less`.
-Please see the [Bulrush theme documentation](https://github.com/textbook/bulrush/tree/master) for more information.
 
 The website is published on GitHub pages, using `ghp-import`.
 
