@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 
-import bulrush
-
 
 AUTHOR = 'INCF/OCNS members'
 SITENAME = 'INCF/OCNS Software WG'
@@ -19,18 +17,28 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+DISPLAY_PAGES_ON_MENU = False
+INDEX_SAVE_AS = 'blog_index.html'
+
 # Blogroll
 LINKS = (
-    ('Join us!', 'https://github.com/OCNS/SoftwareWG/discussions/12'),
-    ('INCF website', 'https://www.incf.org/'),
-    ('INCF (Twitter)', 'https://twitter.com/INCForg/'),
-    ('OCNS website', 'https://www.cnsorg.org/'),
-    ('OCNS (Twitter)', 'https://twitter.com/CNSorg/'),
+    ('Home', '/index.html'),
+    ('Updates', '/blog_index.html'),
+    ('Members', '/pages/members.html'),
+    ('Contact', '/pages/contact.html'),
+    ('INCF', 'https://www.incf.org/'),
+    ('OCNS', 'https://www.cnsorg.org/'),
 )
 
+
 # Social widget
-SOCIAL = (('GitHub', 'https://github.com/OCNS/SoftwareWG'),
-          )
+ICONS = (
+    ('fas fa-comments', 'https://github.com/OCNS/SoftwareWG/discussions/12'),
+    ('fab fa-github', 'https://github.com/OCNS/SoftwareWG'),
+    ('fab fa-twitter', 'https://twitter.com/INCForg/'),
+    ('fab fa-twitter', 'https://twitter.com/CNSorg/'),
+    ('fas fa-rss', '/feeds/all.atom.xml'),
+)
 
 DEFAULT_PAGINATION = 10
 
@@ -49,22 +57,25 @@ TAG_SAVE_AS = 'tag/{slug}/index.html'
 CATEGORY_URL = 'category/{slug}/'
 CATEGORY_SAVE_AS = 'category/{slug}/index.html'
 
+STATIC_PATHS = [
+    'images',
+    'extras'
+]
+
+EXTRA_PATH_METADATA = {
+    'extras/yeti-bootstrap.min.css': {'path': 'theme/css/bootstrap.min.css'},
+}
+
 
 # Theme
-# https://github.com/textbook/bulrush/tree/19b2fc4d79e7c060218172ae5484a4a216b40921
 PLUGIN_PATHS = ['pelican-plugins']
 PLUGINS = ['assets']
 
-THEME = bulrush.PATH
-JINJA_ENVIRONMENT = bulrush.ENVIRONMENT
-JINJA_FILTERS = bulrush.FILTERS
-
-GITHUB_URL = "https://github.com/OCNS/SoftwareWG"
+THEME = 'themes/pelican-alchemy/alchemy'
+BOOTSTRAP_CSS = '/theme/css/bootstrap.min.css'
 
 SITESUBTITLE = "The OCNS/INCF Software Working Group"
-TWITTER_USERNAME = "INCForg"
-BULRUSH_SHOW_SUMMARY = True
-LICENSE = "CC BY-SA 4.0"
+DESCRIPTION = "The OCNS/INCF Software Working GrouP"
 
 FILENAME_METADATA = ''
 
