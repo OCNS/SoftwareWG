@@ -1,7 +1,7 @@
 [submodule "pelican-plugins"]
 	path = pelican-plugins
 	url = git@github.com:getpelican/pelican-plugins.git
-[submodule "themes/pelican-alchemy/"]
-	url = git@github.com:OCNS/pelican-alchemy.git
+[submodule "pelican-alchemy"]
 	path = themes/pelican-alchemy
+	url = git@github.com:OCNS/pelican-alchemy.git
 	branch = main-softwarewg
