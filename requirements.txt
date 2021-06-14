@@ -2,3 +2,4 @@ pelican
 ghp-import
 pelican[markdown]
 typogrify
+bs4
