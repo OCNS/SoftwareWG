@@ -6,7 +6,7 @@ For discussions on activities, please refer to [Latest Institutions/OCNS topics 
 
 ## Setup
 
-This website uses the [Pelican static website generator](https://docs.getpelican.com/en/latest/) along with  the [Pelican-Alchemy theme](https://github.com/nairobilug/pelican-alchemy).
+This website uses the [Pelican static website generator](https://docs.getpelican.com/en/latest/) along with our fork of the  [Pelican-Alchemy theme](https://github.com/OCNS/pelican-alchemy).
 To obtain the sources, please clone the repository recursively to ensure that included git submodule repositories are also cloned.
 You will then need to have the Python packages listed in `requirements.txt` installed (preferably in a virtual environment).
 
