@@ -4,3 +4,4 @@
 [submodule "themes/pelican-alchemy/"]
 	url = git@github.com:OCNS/pelican-alchemy.git
 	path = themes/pelican-alchemy
+	branch = main-softwarewg
