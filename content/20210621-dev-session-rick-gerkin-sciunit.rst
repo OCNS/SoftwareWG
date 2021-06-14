@@ -1,7 +1,7 @@
 Dev session: Rick Gerkin: SciUnit
 #################################
 :date: 2021-06-04 18:00:00
-:modified: 2021-06-09 10:53:24
+:modified: 2021-06-14 16:21:12
 :authors: Shailesh Appukuttan
 :category: Events
 :tags: SciUnit, Dev session, Python, Validation, Verification, Framework
@@ -31,7 +31,11 @@ Dev session: Rick Gerkin: SciUnit
 
 The abstract for the talk is below:
 
-SciUnit is a discipline-agnostic framework for model validation, handling all of the testing workflow by using a implementation-independent interface to models. SciUnit also contains code for visualization of model results, and command line tools for incorporating testing into continuous integration workflows.
+SciUnit_ is a discipline-agnostic framework for model validation, handling all of the testing workflow by using a implementation-independent interface to models.
+SciUnit_ also contains code for visualization of model results, and command line tools for incorporating testing into continuous integration workflows.
+
+SciUnit_ is used in model validation in neuroscience via NeuronUnit_, which implements an interface to several simulators and model description languages, handles test calculations according to domain standards, and enables automated construction of tests based on data from several major public data repositories.
 
 .. _SciUnit: https://scidash.org/sciunit.html
 .. _Rick Gerkin: https://sols.asu.edu/richard-gerkin
+.. _NeuronUnit: http://sciunit.io/neuronunit.html
