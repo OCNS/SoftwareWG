@@ -16,7 +16,8 @@ To attend these, and other tutorials at `CNS*2021`_, please register for the con
 Effective use of Bash
 ---------------------
 
-Instructor(s): Felix B. Kern (`@kernfel <https://github.com/kernfel>`__)
+- Instructor(s): Felix B. Kern (`@kernfel <https://github.com/kernfel>`__)
+- Date/Time: `28 June, 2021 1200 UTC <https://www.timeanddate.com/worldclock/fixedtime.html?msg=CNS%2A2021%3A+Effective+use+of+Bash&iso=20210628T08&p1=179&ah=3>`__
 
 **Abstract**
 
@@ -57,7 +58,8 @@ Participants on Windows have several options to get hold of a bash environment w
 Effective use of Git
 ---------------------
 
-Instructor(s): Ankur Sinha (`@sanjayankur31 <https://github.com/sanjayankur31>`__)
+- Instructor(s): Ankur Sinha (`@sanjayankur31 <https://github.com/sanjayankur31>`__)
+- Date/time: `June 28, 2021 1700 UTC <https://www.timeanddate.com/worldclock/fixedtime.html?msg=CNS%2A2021%3A+Effective+use+of+Git&iso=20210628T13&p1=179&ah=3>`__
 
 **Abstract**
 
@@ -121,7 +123,8 @@ More information on installing Git can be found on the project website: https://
 Python for beginners
 ---------------------
 
-Instructors: Joe Graham (`@joewgraham <https://github.com/joewgraham>`__), Shailesh Appukuttan (`@appukuttan-shailesh <https://github.com/appukuttan-shailesh>`__), Ankur Sinha (`@sanjayankur31 <https://github.com/sanjayankur31>`__)
+- Instructors: Joe Graham (`@joewgraham <https://github.com/joewgraham>`__), Shailesh Appukuttan (`@appukuttan-shailesh <https://github.com/appukuttan-shailesh>`__), Ankur Sinha (`@sanjayankur31 <https://github.com/sanjayankur31>`__)
+- Date/time: `29 June, 2021 1300 UTC <https://www.timeanddate.com/worldclock/fixedtime.html?msg=CNS%2A2021%3A+Python+for+beginners&iso=20210629T09&p1=179&ah=3>`__
 
 
 **Abstract**
