@@ -79,8 +79,8 @@ So a GitHub account will also be required.
 
 - Linux users can generally install Git from their default package manager:
 
-  - Fedora::code:`sudo dnf install git`
-  - Ubuntu::code:`sudo apt-get install git`
+  - Fedora: :code:`sudo dnf install git`
+  - Ubuntu: :code:`sudo apt-get install git`
 
 - Windows users should use `Git for Windows <https://gitforwindows.org/>`__.
 - MacOS users should use :code:`brew` to install :code:`git`: :code:`brew install git`.
