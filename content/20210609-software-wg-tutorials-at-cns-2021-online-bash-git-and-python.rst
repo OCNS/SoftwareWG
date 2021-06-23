@@ -6,10 +6,10 @@ Software WG tutorials at CNS*2021 Online: Bash, Git, and Python
 :category: Events
 :tags: CNS2021Online, Community, Linux, Python, Software development, Bash, Tutorials, Git, GitHub
 :slug: software-wg-tutorials-at-cns-2021-online-bash-git-and-python
-:summary: The Software Working Group is holding three beginner level tutorials at the upcoming CNS*2021 Online conference. These will cover using the command line (Bash_), using Git_ and GitHub_, and development in the Python_ programming language.
+:summary: The Software Working Group is holding three beginner/intermediate level tutorials at the upcoming CNS*2021 Online conference. These will cover using the command line (Bash_), using Git_ and GitHub_, and development in the Python_ programming language.
 
 
-The Software Working Group is holding three beginner level tutorials at the upcoming CNS*2021 Online conference. These will cover using the command line (Bash_), using Git_ and GitHub_, and development in the Python_ programming language.
+The Software Working Group is holding three beginner/intermediate level tutorials at the upcoming CNS*2021 Online conference. These will cover using the command line (Bash_), using Git_ and GitHub_, and development in the Python_ programming language.
 
 To attend these, and other tutorials at `CNS*2021`_, please register for the conference `here <https://www.cnsorg.org/cns-2021-registration-fees>`__.
 
