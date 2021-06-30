@@ -1,7 +1,7 @@
 Software WG tutorials at CNS*2021 Online: Bash, Git, and Python
 ###############################################################
 :date: 2021-06-09 10:47:23
-:modified: 2021-06-09 10:47:23
+:modified: 2021-06-30 11:16:12
 :authors: Ankur Sinha
 :category: Events
 :tags: CNS2021Online, Community, Linux, Python, Software development, Bash, Tutorials, Git, GitHub
@@ -18,6 +18,7 @@ Effective use of Bash
 
 - Instructor(s): Felix B. Kern (`@kernfel <https://github.com/kernfel>`__)
 - Date/Time: `28 June, 2021 1200 UTC <https://www.timeanddate.com/worldclock/fixedtime.html?msg=CNS%2A2021%3A+Effective+use+of+Bash&iso=20210628T08&p1=179&ah=3>`__
+- Recording link (subject to change): https://www.youtube.com/watch?v=M8Qp38g4blU
 
 **Abstract**
 
@@ -60,6 +61,8 @@ Effective use of Git
 
 - Instructor(s): Ankur Sinha (`@sanjayankur31 <https://github.com/sanjayankur31>`__)
 - Date/time: `June 28, 2021 1700 UTC <https://www.timeanddate.com/worldclock/fixedtime.html?msg=CNS%2A2021%3A+Effective+use+of+Git&iso=20210628T13&p1=179&ah=3>`__
+- Recording link (subject to change): https://ucl.zoom.us/rec/share/IIv4781-A1DJlh8gsBKSm9PXKdJ0cSXem3Uj7yCCVWw-XZKdvCsls7JPVQpOpbIz.4wCav4saSMc55Zct
+- Notes: https://hackmd.io/@sanjayankur31/SkpuMdDh_
 
 **Abstract**
 
@@ -125,7 +128,8 @@ Python for beginners
 
 - Instructors: Joe Graham (`@joewgraham <https://github.com/joewgraham>`__), Shailesh Appukuttan (`@appukuttan-shailesh <https://github.com/appukuttan-shailesh>`__), Ankur Sinha (`@sanjayankur31 <https://github.com/sanjayankur31>`__)
 - Date/time: `29 June, 2021 1300 UTC <https://www.timeanddate.com/worldclock/fixedtime.html?msg=CNS%2A2021%3A+Python+for+beginners&iso=20210629T09&p1=179&ah=3>`__
-
+- Recording link (subject to change): https://ucl.zoom.us/rec/share/hWvcaOkH4D1MPhKnfKpVjfpXh_CBjmeRgYfEngqQF7g7lAIBSii-VqgkLZ85bPf3.yJwUM8wxhBEcfgM6
+- Jupyter notebooks: https://github.com/OCNS/SoftwareWG-events/blob/main/20210703-CNS2021/03_python/
 
 **Abstract**
 
