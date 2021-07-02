@@ -62,7 +62,7 @@ Effective use of Git
 - Instructor(s): Ankur Sinha (`@sanjayankur31 <https://github.com/sanjayankur31>`__)
 - Date/time: `June 28, 2021 1700 UTC <https://www.timeanddate.com/worldclock/fixedtime.html?msg=CNS%2A2021%3A+Effective+use+of+Git&iso=20210628T13&p1=179&ah=3>`__
 - Recording link (subject to change): https://ucl.zoom.us/rec/share/IIv4781-A1DJlh8gsBKSm9PXKdJ0cSXem3Uj7yCCVWw-XZKdvCsls7JPVQpOpbIz.4wCav4saSMc55Zct
-- Notes: https://hackmd.io/@sanjayankur31/SkpuMdDh_
+- `Notes <https://hackmd.io/@sanjayankur31/SkpuMdDh_>`__
 
 **Abstract**
 
