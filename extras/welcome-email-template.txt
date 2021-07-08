@@ -1,0 +1,33 @@
+Dear <new member>
+
+Thanks for your interest in the INCF/OCNS Software Working group.
+Welcome!
+
+The group is designed to be open to all, so there isn't any real formal
+on-boarding process. Since most of our members tend to use GitHub quite
+a bit, we thought we'd use GitHub for issues/discussion and other
+organisation tasks. So, we have a GitHub team here:
+https://github.com/orgs/OCNS/teams/software-wg/members
+
+and multiple repositories under the OCNS organization account:
+- https://github.com/OCNS/SoftwareWG
+- https://github.com/OCNS/SoftwareWG-events
+
+If you could please tell us your GitHub username, we'll send you the
+team invite. The next step would be to introduce yourself to the community
+on this GitHub discussion:
+https://github.com/OCNS/SoftwareWG/discussions/12
+
+Finally, we need to add you to the list of members on the website. So could you
+please send us the information you'd like listed there:
+https://ocns.github.io/SoftwareWG/pages/members.html
+
+It's just a static GitHub pages website, so you can even open a PR yourself
+if you'd like. The source for the page is here:
+https://github.com/OCNS/SoftwareWG/blob/main/content/pages/members.rst
+
+That's pretty much it in terms of membership :)
+
+Please do let us know if there's anything else we can help with. If you
+have any ideas for tasks/projects the WG should undertake please just
+start a new discussion on our GitHub repository and folks will chime in.
