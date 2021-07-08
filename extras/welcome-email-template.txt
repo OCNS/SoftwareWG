@@ -31,3 +31,6 @@ That's pretty much it in terms of membership :)
 Please do let us know if there's anything else we can help with. If you
 have any ideas for tasks/projects the WG should undertake please just
 start a new discussion on our GitHub repository and folks will chime in.
+
+Best wishes,
+<sender>
