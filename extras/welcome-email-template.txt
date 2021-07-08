@@ -5,7 +5,7 @@ Welcome!
 
 The group is designed to be open to all, so there isn't any real formal
 on-boarding process. Since most of our members tend to use GitHub quite
-a bit, we thought we'd use GitHub for issues/discussion and other
+a bit, we use GitHub for issues/discussion and other
 organisation tasks. So, we have a GitHub team here:
 https://github.com/orgs/OCNS/teams/software-wg/members
 
