@@ -33,7 +33,8 @@ LINKS = (
 
 # Social widget
 ICONS = (
-    ('fas fa-comments', 'https://github.com/OCNS/SoftwareWG/discussions/12'),
+    ('fas fa-comments', 'https://matrix.to/#/#OCNS_SoftwareWG:gitter.im'),
+    ('fas fa-mail-bulk', 'https://github.com/OCNS/SoftwareWG/discussions/12'),
     ('fab fa-github', 'https://github.com/OCNS/SoftwareWG'),
     ('fab fa-twitter', 'https://twitter.com/INCForg/'),
     ('fab fa-twitter', 'https://twitter.com/CNSorg/'),
