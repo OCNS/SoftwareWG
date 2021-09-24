@@ -5,6 +5,7 @@ Contact
 :authors: Ankur Sinha
 :slug: contact
 
+- We have a chat room on `Matrix/Element <https://matrix.to/#/#OCNS_SoftwareWG:gitter.im>`__ where we hang out. It is also bridged to a `room on Gitter <https://gitter.im/OCNS/SoftwareWG>`__.
 - We use `GitHub discussions <https://github.com/OCNS/SoftwareWG/discussions>`__ as our primary discussion channel. `Say hello! <https://github.com/OCNS/SoftwareWG/discussions/12>`__.
 - We are also reachable at the `OCNS category on Neurostars <https://neurostars.org/c/institutions/ocns/30>`__.
 - Both WG chairs are also reachable at the OCNS Webmaster's e-mail address at `webmaster AT cnsorg.org`.
