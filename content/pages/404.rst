@@ -9,4 +9,4 @@ Page not found
 Hello!
 Sorry, the page you are looking for could not be found.
 Please `use a search engine <https://duckduckgo.com/?q=site%3Aocns.github.io/SoftwareWG/&ia=web>`__ to find the information you are looking for.
-If you cannot still find it, please `contact me <{filename}/pages/01-about.rst>`_.
+If you cannot still find it, please `contact us <{filename}/pages/contact.rst>`_.
