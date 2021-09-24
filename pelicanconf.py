@@ -38,6 +38,7 @@ ICONS = (
     ('fab fa-twitter', 'https://twitter.com/INCForg/'),
     ('fab fa-twitter', 'https://twitter.com/CNSorg/'),
     ('fas fa-rss', '/feeds/all.atom.xml'),
+    ('fas fa-search', 'https://duckduckgo.com/?q=site%3Aocns.github.io/SoftwareWG/&ia=web'),
 )
 
 DEFAULT_PAGINATION = 10
