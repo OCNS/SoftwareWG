@@ -1,0 +1,12 @@
+Page not found
+###############
+:date: 2021-09-20 22:13:23
+:author: Ankur Sinha
+:slug: 404
+:status: hidden
+:save_as: 404.html
+
+Hello!
+Sorry, the page you are looking for could not be found.
+Please `use a search engine <https://duckduckgo.com/?q=site%3Aocns.github.io/SoftwareWG/&ia=web>`__ to find the information you are looking for.
+If you cannot still find it, please `contact me <{filename}/pages/01-about.rst>`_.
