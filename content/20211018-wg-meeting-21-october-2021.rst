@@ -60,7 +60,10 @@ Notes
 =====
 
 - We will begin working on the next round of Dev sessions: `NetPyNE <https://netpyne.org>`__, `NeuroML <https://docs.neuroml.org>`__, tools from the `NeuralEnsemble <https://neuralensemble.org>`__ project.
-- We agreed that our "Dev sessions" do not necessarily have to be developer centric only. It is perfectly fine to also include user oriented information. We suggest components of both.
+- We agreed that our "Dev sessions" do not necessarily have to be developer centric only.
+  It is perfectly fine to also include user oriented information.
+  We suggest components of both.
+  We would like "Dev sessions" to remain informal where developers do not need to make formal presentations, and they should also remain different from traditional tutorials.
 
 Citing research software
 +++++++++++++++++++++++++
