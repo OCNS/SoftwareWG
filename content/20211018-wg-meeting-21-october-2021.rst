@@ -96,7 +96,7 @@ Some ideas that were discussed were:
   - same for PLoS: https://journals.plos.org/plosbiology/s/submission-guidelines
 
 
-Malin was also kind enough to help us set up a Dev session where Daniel Katz and Neil Chue Hong from the Force11 Software Citation and Software Citation Implementation Working Groups will speak about these issues.
+Malin was also kind enough to help us set up a Dev session where Daniel S Katz and Neil Chue Hong from the Force11 Software Citation and Software Citation Implementation Working Groups will speak about these issues.
 Please keep an eye out on the website and the mailing list where this session will be announced.
 
 Miscellaneous links/discussion
