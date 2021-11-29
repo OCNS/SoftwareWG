@@ -52,5 +52,8 @@ repositories, and standards, to implement the principles.  We'll talk about
 this work, the changes we've seen, what still needs to be done, and how the
 INCF community can participate.
 
+The slides from this talk are `available
+<https://doi.org/10.5281/zenodo.5718613>`__.
+
 .. _Neil Chue Hong: https://www.force11.org/users/neil-chue-hong
 .. _Daniel S Katz: https://www.force11.org/users/daniel-s-katz
