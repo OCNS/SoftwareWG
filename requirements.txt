@@ -3,3 +3,4 @@ ghp-import
 pelican[markdown]
 typogrify
 bs4
+webassets # for the assets plugin
