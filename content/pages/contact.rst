@@ -18,11 +18,31 @@ Since the working group is shared by the INCF_ and OCNS_ organisations, we reque
 Meetings
 --------
 
-From January 2021, the working group will meet regularly on the second Monday of each month, with the time of the meeting alternating between 1700 UTC and 0800 UTC to allow members participation of members from different time zones.
+From January 2022, the working group will meet regularly on the second Monday of each month, with the time of the meeting alternating between 1700 UTC and 0800 UTC to allow members from different time zones to attend.
+The agenda is collected on `GitHub tickets <https://github.com/OCNS/SoftwareWG/labels/C%3A%20Meeting>`__, and we meet on `Jitsi <https://meet.jit.si/moderated/27ddeaff25933944fea1937f182235d48de7c2dd59dc2f84f8eebb26a8fc07ab>`__.
+Please feel free to drop in.
 
-The next meeting is at 1700 UTC on Monday 10 January.
-The agenda is being collected on `this ticket <https://github.com/OCNS/SoftwareWG/issues/56>`__.
+The meeting schedule for 2022 is:
 
+.. csv-table:: 2022 Meeting Schedule
+   :header: "Date", "Time", "Agenda", "Notes"
+   :width: 80%
+   :widths: 30, 20, 25, 25
+   :align: center
+   :class: table table-striped table-bordered
+
+    "January 10 2022", "1700 UTC", "`Link <https://github.com/OCNS/SoftwareWG/issues/56>`__", ""
+    "February 14 2022", "0800 UTC", "", ""
+    "March 14 2022", "1700 UTC", "", ""
+    "April 11 2022", "0800 UTC", "", ""
+    "May 9 2022", "1700 UTC", "", ""
+    "June 13 2022", "0800 UTC", "", ""
+    "July 11 2022", "1700 UTC", "", ""
+    "August 08 2022", "0800 UTC", "", ""
+    "September 12 2022", "1700 UTC", "", ""
+    "October 10 2022", "0800 UTC", "", ""
+    "November 14 2022", "1700 UTC", "", ""
+    "December 12 2022", "0800 UTC", "", ""
 
 
 .. _INCF: https://incf.org
