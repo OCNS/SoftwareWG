@@ -31,8 +31,8 @@ The meeting schedule for 2022 is:
    :align: center
    :class: table table-striped table-bordered
 
-    "January 10 2022", "1700 UTC", "`Link <https://github.com/OCNS/SoftwareWG/issues/56>`__", ""
-    "February 14 2022", "0800 UTC", "", ""
+    "January 10 2022", "1700 UTC", "`Link <https://github.com/OCNS/SoftwareWG/issues/56>`__", "`Link <{filename}/20220204-wg-meeting-10-january-2022.rst>`__"
+    "February 14 2022", "0800 UTC", "`Link <https://github.com/OCNS/SoftwareWG/issues/59>`__", ""
     "March 14 2022", "1700 UTC", "", ""
     "April 11 2022", "0800 UTC", "", ""
     "May 9 2022", "1700 UTC", "", ""
