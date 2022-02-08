@@ -32,6 +32,7 @@ It can also be seen `here on GitHub <https://github.com/orgs/OCNS/teams/software
 - Andrew Davison, Paris-Saclay Institute of Neuroscience, CNRS - Université Paris-Saclay
 - Anca Doloc-Mihu, Georgia Gwinnett College, Lawrenceville, United States
 - Shavika Rastogi, International Centre for Neuromorphic Systems, MARCS Institute of Brain, Behavior and Development, Western Sydney University, Australia
+- Akash Mishra: Independent Researcher
 
 
 Please get in touch if you'd like to join the WG.
