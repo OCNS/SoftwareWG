@@ -27,7 +27,7 @@ Dev session: Joe Graham: NetPyNE
 `Joe Graham`_ will introduce NetPyNE_ and discuss its development in this dev session.
 
 - Date: April 4, 2022, 1600 UTC (Click `here <https://www.timeanddate.com/worldclock/fixedtime.html?msg=Dev+session%3A+Joe+Graham%3A+NetPyNE&iso=20220404T16&p1=1440>`__ to see your local time).
-- Location (Zoom): 
+- Location (Zoom): `link <https://ucl.zoom.us/j/99620419452?pwd=SkZlQnJmWWZVczNURkp2azVOZkhzUT09>`__ (login to Zoom required)
 
 The abstract for the talk is below:
 
