@@ -33,8 +33,8 @@ The meeting schedule for 2022 is:
 
     "January 10 2022", "1700 UTC", "`Link <https://github.com/OCNS/SoftwareWG/issues/56>`__", "`Link <{filename}/20220204-wg-meeting-10-january-2022.rst>`__"
     "February 14 2022", "0800 UTC", "`Link <https://github.com/OCNS/SoftwareWG/issues/59>`__", "`Link <{filename}/20220302-wg-meeting-14-february-2022.rst>`__"
-    "March 14 2022", "1700 UTC", "`Link <https://github.com/OCNS/SoftwareWG/issues/60>`__", ""
-    "April 11 2022", "0800 UTC", "", ""
+    "March 14 2022", "1700 UTC", "`Link <https://github.com/OCNS/SoftwareWG/issues/60>`__", "`Link <{filename}/20220401-wg-meeting-14-march-2022.rst>`__"
+    "April 11 2022", "0800 UTC", "`Link <https://github.com/OCNS/SoftwareWG/issues/65>`__", ""
     "May 9 2022", "1700 UTC", "", ""
     "June 13 2022", "0800 UTC", "", ""
     "July 11 2022", "1700 UTC", "", ""
