@@ -1,0 +1,72 @@
+WG meeting 14 March 2022
+############################
+:date: 2022-04-01 10:37:32
+:modified: 2022-04-01 10:37:32
+:authors: Ankur Sinha
+:category: Events
+:tags: Meeting logs, Community
+:slug: wg-meeting-14-march-2022
+:summary: These are the minutes from the working group meeting on 14 March, 2022.
+
+.. raw:: html
+
+   <center>
+
+.. figure:: {static}/images/20210107-meeting-logs.jpg
+    :alt: Photo by Daria Nepriakhina on Unsplash
+    :width: 40%
+    :class: img-responsive
+    :target: #
+
+    Photo by `Daria Nepriakhina <https://unsplash.com/@epicantus?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText>`__ on Unsplash.
+
+.. raw:: html
+
+   </center>
+   <br />
+
+
+These are the meeting logs from the Software WG meeting that was held on 14th March, 2022.
+The next progress meeting will be held `in April <{filename}/pages/contact.rst>`__.
+For any clarifications and suggestions, please open a new ticket.
+
+Preset Agenda
+--------------
+https://github.com/OCNS/SoftwareWG/issues/60
+
+Attendees
+----------
+
+- Ankur Sinha (University College London)
+- Malin Sandström (INCF)
+
+Regrets
+=======
+
+- Marcel Stimberg
+- Shailesh Appukuttan
+
+Minutes
+--------
+
+Tutorial survey form
+=====================
+
+https://github.com/OCNS/SoftwareWG/issues/57
+
+We have already received ~60 responses to the survey.
+The survey will be closed a couple of weeks after the next OCNS Newsletter has been sent out to allow the OCNS membership time to submit their responses.
+
+The results will then be shared with the community.
+
+
+CNS 2022 tutorials
+===================
+
+Tutorials at CNS*2022 have been `announced <https://www.cnsorg.org/cns-2022-call-for-tutorials>`__, with the submission deadline on 15th of April.
+
+- Ankur/Shailesh will confirm online satellite tutorials with the OCNS organising committee.
+- The next Software WG meeting will be used to decide what sessions are to be organised
+
+  - Sessions on tools whose developers are part of the WG can be organised by the WG itself.
+  - The WG will reach out to other developers to invite them to hold sessions at the satellite sessions.
