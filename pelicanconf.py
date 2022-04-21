@@ -33,13 +33,13 @@ LINKS = (
 
 # Social widget
 ICONS = (
-    ('fas fa-comments', 'https://matrix.to/#/#OCNS_SoftwareWG:gitter.im'),
-    ('fas fa-mail-bulk', 'https://github.com/OCNS/SoftwareWG/discussions/12'),
-    ('fab fa-github', 'https://github.com/OCNS/SoftwareWG'),
-    ('fab fa-twitter', 'https://twitter.com/INCForg/'),
-    ('fab fa-twitter', 'https://twitter.com/CNSorg/'),
-    ('fas fa-rss', '/feeds/all.atom.xml'),
-    ('fas fa-search', 'https://duckduckgo.com/?q=site%3Aocns.github.io/SoftwareWG/&ia=web'),
+    ('fas fa-comments', 'Chat to us on Matrix', 'https://matrix.to/#/#OCNS_SoftwareWG:gitter.im'),
+    ('fas fa-mail-bulk', 'Join us on GitHub discussions', 'https://github.com/OCNS/SoftwareWG/discussions/12'),
+    ('fab fa-github', 'Join us on GitHub', 'https://github.com/OCNS/SoftwareWG'),
+    ('fab fa-twitter', 'Follow INCF on Twitter', 'https://twitter.com/INCForg/'),
+    ('fab fa-twitter', 'Follow OCNS on Twitter', 'https://twitter.com/CNSorg/'),
+    ('fas fa-rss', 'View RSS feeds', '/feeds/all.atom.xml'),
+    ('fas fa-search', 'Search the website using DuckDuckGo', 'https://duckduckgo.com/?q=site%3Aocns.github.io/SoftwareWG/&ia=web'),
 )
 
 DEFAULT_PAGINATION = 10
