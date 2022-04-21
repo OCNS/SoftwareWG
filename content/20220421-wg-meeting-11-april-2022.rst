@@ -1,0 +1,200 @@
+WG meeting 11 April 2022
+############################
+:date: 2022-04-21 17:06:09
+:modified: 2022-04-21 17:06:09
+:authors: Ankur Sinha
+:category: Events
+:tags: Meeting logs, Community
+:slug: wg-meeting-11-april-2022
+:summary: These are the minutes from the working group meeting on 11 April, 2022.
+
+.. raw:: html
+
+   <center>
+
+.. figure:: {static}/images/20210107-meeting-logs.jpg
+    :alt: Photo by Daria Nepriakhina on Unsplash
+    :width: 40%
+    :class: img-responsive
+    :target: #
+
+    Photo by `Daria Nepriakhina <https://unsplash.com/@epicantus?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText>`__ on Unsplash.
+
+.. raw:: html
+
+   </center>
+   <br />
+
+
+These are the meeting logs from the Software WG meeting that was held on 11th April, 2022.
+The next progress meeting will be held `in May <{filename}/pages/contact.rst>`__.
+For any clarifications and suggestions, please open a new ticket.
+
+Attendees
+-----------
+
+- Ankur Sinha
+- Shailesh Appukuttan
+- Felix Kern
+- Malin Sandstrom
+
+Preset Agenda
+--------------
+From https://github.com/OCNS/SoftwareWG/issues/65
+
+CNS 2022 tutorials
+===================
+
+- Go over survey results.
+- Decide on satellite tutorial sessions (we are confirming them with the OCNS organising committee now, and should have confirmation soon).
+
+  - WG members are invited to hold tutorial sessions for their respective tools.
+  - We will reach out to non WG members to invite them to organise sessions for their tools.
+
+Diversity & inclusion session at INCF assembly
+==============================================
+
+- Birds of a feather "bof" session has been accepted.
+- We need input on what sessions to organise and who to invite.
+- We need input on what the goals (deliverables) of this session should be.
+
+Software arena session at INCF assembly
+========================================
+
+- Has also been accepted.
+- Input on the best way of doing this, and what our expected goals are.
+
+WG business
+============
+
+- We don't currently have a way of actively communicating with the WG membership because we don't have a mailing list sort of thing where any announcements go straight to the members' inboxes (we don't even have all your e-mails because we decided not to use mailing lists when we started).
+- The worry, however, is that using GitHub tickets/discussions is passive---i.e., folks do get notifications, but they still need to come up to the repository to engage.
+- The lack of something like a mailing list also means that we don't have a way of actively informing the community (outside our membership) of our activities.
+
+So:
+
+- Do we need a better way of keeping the wg membership in the loop? Are you satisfied with our current way of doing things?
+- Are fixed meeting slots working? (we've had a lower than usual turnout recently---what can we do to help more of our members attend meetings?)
+
+For communicating with the research community:
+
+- Should we send more updates to the already existing mailing lists (for example, should a note of our meeting be sent there?)
+- Or do we need a new mailing list/newsletter setup that folks can subscribe to? (in case our frequent posts to already existing mailing lists are thought to be an abuse of their policies?)
+
+
+Increasing our membership
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- What steps can we take to encourage more folks to join the WG?
+- Are their incentives we can think of to encourage students to join us for example? Simpler tasks for them to do, for example? (see https://github.com/OCNS/SoftwareWG/issues/63 for example).
+
+"Easyfix"
+~~~~~~~~~
+
+- Thoughts on https://github.com/OCNS/SoftwareWG/issues/63
+
+Standardisation of simulator generated data
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- Possibility of standardising simulation generated output data (or facilitating conversion to NWB type formats to take advantage of the software/analysis ecosystem).
+
+
+Minutes
+-------
+
+CNS 2022 satellite tutorials
+=============================
+
+- Most people (WG and OCNS) that we've contacted are in favour of free online software satellite tutorials.
+- So, we will assume they're going to happen and plan accordingly.
+
+  - ACTION: WG to finalise schedule, sessions by end of April and submit to Tutorials chair.
+
+- CNS 2022: 16th-20th July.
+- Satellite tutorials (tentative): 27th June-1st July.
+
+  - This ensures that they are early enough to not conflict with attendees' travel arrangements.
+  - Open ticket and let folks comment if it *does not* work for them.
+
+- Software WG will host tutorials on whatever tools/technologies the members are able to take up.
+- For stuff that's not manageable by WG, we will invite developers and other research community members to deliver tutorials about their tools of choice.
+
+- We will probably need to set up a single registration form to collect e-mail addresses to send out links/information about the tutorials.
+
+  - The form can include check boxes for each session so we have idea of per session interest/attendance.
+
+- Issue filed: https://github.com/OCNS/SoftwareWG/issues/67
+
+D&I session at INCF Assembly
+=============================
+
+- September 13th, 2022.
+- https://hackmd.io/s/SJgYACqQ9
+- Start reaching out to prospective speakers ASAP to have confirmation for sessions (people are already planning the Autumn, so do this *ASAP*).
+- Ideas for invitation draft: Malin.
+
+Software arena session at INCF assembly
+========================================
+
+- September 14th, 2022.
+- Session on making it easier to cite software (Marcel, Brian?).
+- Target audience: software developers.
+- Invite developers from outside the WG.
+
+  - Malin has list of GSoC mentors: can invite them.
+
+WG business
+============
+
+Mailing list
+~~~~~~~~~~~~~
+
+- We will set up a new mailing list for announcements only.
+- Discussions etc. will continue on GitHub.
+- People attending WG sessions etc. are added to the ML so they can be kept in the loop.
+- ACTION: new mailing list softwarewg AT lists.INCF.org (Malin)
+
+  - Ankur, Shailesh, Felix, Malin: initial admins/moderators.
+
+- Continue sending usual updates to other public mailing lists.
+
+- Issue filed: https://github.com/OCNS/SoftwareWG/issues/70
+- Also filed for discussion around WG meeting time: https://github.com/OCNS/SoftwareWG/issues/66
+
+User targeted sessions: "Software highlights"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- Idea: dissemination of tools in neuroscience.
+- Try to get in touch with training focussed communities such as NeuroMatch to recommend that they direct their "students" to these sessions as follow-up.
+
+  - INCF work with Neuromatch, so should be able to get us in touch.
+
+- ACTION: need more volunteers to help us keep these going regularly.
+- Start new after summer vacations, near September.
+- Send announcements to lists.
+- Ask developers of new tools to get in touch.
+- Software WG members keep eye on publications on new software (JOSS etc.).
+
+Encouraging folks to join the WG:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- Remember to show the slide Malin had made for the WG showing participants etc.
+
+
+Easyfix
+~~~~~~~
+
+- https://github.com/OCNS/SoftwareWG/issues/63
+- sounds like an idea worth trying.
+- ACTION: Ankur set up demo. (WIP)
+
+Software wg survey
+~~~~~~~~~~~~~~~~~~~
+
+- Include link in next OCNS announcement.
+- ACTION: Ankur request OCNS Vice president (Thomas Nowotny) to include link to survey in next correspondence. (Done)
+
+Standardisation
+~~~~~~~~~~~~~~~~
+
+- Out of time, so relegated to next meeting.
