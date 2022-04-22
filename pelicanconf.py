@@ -33,6 +33,7 @@ LINKS = (
 
 # Social widget
 ICONS = (
+    ('fas fa-mail-bulk', 'Subscribe to the mailing list', 'https://lists.incf.org/cgi-bin/mailman/listinfo/incf-ocns-software-wg'),
     ('fas fa-comments', 'Chat to us on Matrix', 'https://matrix.to/#/#OCNS_SoftwareWG:gitter.im'),
     ('fas fa-mail-bulk', 'Join us on GitHub discussions', 'https://github.com/OCNS/SoftwareWG/discussions/12'),
     ('fab fa-github', 'Join us on GitHub', 'https://github.com/OCNS/SoftwareWG'),
