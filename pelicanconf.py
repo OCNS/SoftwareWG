@@ -77,8 +77,8 @@ PLUGINS = ['assets', 'share_post']
 THEME = 'themes/pelican-alchemy/alchemy'
 BOOTSTRAP_CSS = '/theme/css/bootstrap.min.css'
 
-SITESUBTITLE = "The OCNS/INCF Software Working Group"
-DESCRIPTION = "The OCNS/INCF Software Working GrouP"
+SITESUBTITLE = "The INCF/OCNS Software Working Group"
+DESCRIPTION = "The INCF/OCNS Software Working Group"
 
 FILENAME_METADATA = ''
 
