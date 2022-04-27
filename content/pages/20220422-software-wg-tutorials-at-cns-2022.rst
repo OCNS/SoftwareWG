@@ -6,7 +6,7 @@ Software WG satellite tutorials at CNS*2022 Online
 :slug: software-wg-satellite-tutorials-at-cns-2022
 :status: hidden
 
-The Software Working Group is organising a series of satellite tutorials at `CNS*2022`_.
+The Software Working Group is organising a series of free satellite tutorials at `CNS*2022`_.
 The tutorials will be conducted online, two weeks prior to the actual conference in Melbourne, and participation will be free of charge.
 
 

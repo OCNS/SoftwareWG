@@ -8,7 +8,7 @@ Home
 :save_as: index.html
 :URL: index.html
 
-The Software Working Group is organising a series of online satellite tutorials at `CNS*2022 conference <https://www.cnsorg.org/cns-2022-quick>`__.
+The Software Working Group is organising a series of free online satellite tutorials at `CNS*2022 conference <https://www.cnsorg.org/cns-2022-quick>`__.
 Please see `this page <{filename}/pages/20220422-software-wg-tutorials-at-cns-2022.rst>`__ for more details.
 
 ------------
