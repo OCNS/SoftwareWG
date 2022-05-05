@@ -19,7 +19,9 @@ Since the working group is shared by the INCF_ and OCNS_ organisations, we reque
 Meetings
 --------
 
-From January 2022, the working group will meet regularly on the second Monday of each month, with the time of the meeting alternating between 1700 UTC and 0800 UTC to allow members from different time zones to attend.
+From January 2022, the working group will meet regularly in the second week of each month.
+To allow members from different time zones to attend, the meeting will be held at both 0800 UTC and 1700 UTC with members attending whichever *one* slot suits them better.
+Additionally, the meeting will move through the different days of the working week to allow members with long standing work meetings to attend (see `this ticket <https://github.com/OCNS/SoftwareWG/issues/66>`__ for a discussion on meeting times).
 The agenda is collected on `GitHub tickets <https://github.com/OCNS/SoftwareWG/labels/C%3A%20Meeting>`__, and we meet on `Jitsi <https://meet.jit.si/moderated/27ddeaff25933944fea1937f182235d48de7c2dd59dc2f84f8eebb26a8fc07ab>`__.
 Please feel free to drop in.
 
@@ -32,18 +34,18 @@ The meeting schedule for 2022 is:
    :align: center
    :class: table table-striped table-bordered
 
-    "January 10 2022", "1700 UTC", "`Link <https://github.com/OCNS/SoftwareWG/issues/56>`__", "`Link <{filename}/20220204-wg-meeting-10-january-2022.rst>`__"
-    "February 14 2022", "0800 UTC", "`Link <https://github.com/OCNS/SoftwareWG/issues/59>`__", "`Link <{filename}/20220302-wg-meeting-14-february-2022.rst>`__"
-    "March 14 2022", "1700 UTC", "`Link <https://github.com/OCNS/SoftwareWG/issues/60>`__", "`Link <{filename}/20220401-wg-meeting-14-march-2022.rst>`__"
-    "April 11 2022", "0800 UTC", "`Link <https://github.com/OCNS/SoftwareWG/issues/65>`__", "`Link <{filename}/20220421-wg-meeting-11-april-2022.rst>`__"
-    "May 9 2022", "1700 UTC", "", ""
-    "June 13 2022", "0800 UTC", "", ""
-    "July 11 2022", "1700 UTC", "", ""
-    "August 08 2022", "0800 UTC", "", ""
-    "September 12 2022", "1700 UTC", "", ""
-    "October 10 2022", "0800 UTC", "", ""
-    "November 14 2022", "1700 UTC", "", ""
-    "December 12 2022", "0800 UTC", "", ""
+    "Monday, January 10 2022", "1700 UTC", "`Link <https://github.com/OCNS/SoftwareWG/issues/56>`__", "`Link <{filename}/20220204-wg-meeting-10-january-2022.rst>`__"
+    "Monday, February 14 2022", "0800 UTC", "`Link <https://github.com/OCNS/SoftwareWG/issues/59>`__", "`Link <{filename}/20220302-wg-meeting-14-february-2022.rst>`__"
+    "Monday, March 14 2022", "1700 UTC", "`Link <https://github.com/OCNS/SoftwareWG/issues/60>`__", "`Link <{filename}/20220401-wg-meeting-14-march-2022.rst>`__"
+    "Monday, April 11 2022", "0800 UTC", "`Link <https://github.com/OCNS/SoftwareWG/issues/65>`__", "`Link <{filename}/20220421-wg-meeting-11-april-2022.rst>`__"
+    "**Monday, May 9 2022**", "**0800/1700 UTC**", "`Link <https://github.com/OCNS/SoftwareWG/issues/90>`__", ""
+    "Tuesday, June 14 2022", "0800/1700 UTC", "", ""
+    "Wednesday, July 13 2022", "0800/1700 UTC", "", ""
+    "Thursday, August 11 2022", "0800/1700 UTC", "", ""
+    "Friday, September 09 2022", "0800/1700 UTC", "", ""
+    "Monday, October 10 2022", "0800/1700 UTC", "", ""
+    "Tuesday, November 08 2022", "0800/1700 UTC", "", ""
+    "Wednesday, December 14 2022", "0800/1700 UTC", "", ""
 
 
 .. _INCF: https://incf.org
