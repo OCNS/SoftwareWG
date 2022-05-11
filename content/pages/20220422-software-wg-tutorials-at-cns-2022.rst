@@ -1,17 +1,17 @@
-Software WG satellite tutorials at CNS*2022 Online
-####################################################
+Free online satellite tutorials as part of CNS*2022 (June 27--July 1)
+#####################################################################
 :date: 2022-04-22 15:17:00
 :modified: 2022-04-22 15:17:00
 :authors: Shailesh Appukuttan
 :slug: software-wg-satellite-tutorials-at-cns-2022
 :status: hidden
 
-The Software Working Group is organising a series of free satellite tutorials at `CNS*2022`_.
-The tutorials will be conducted online, two weeks prior to the actual conference in Melbourne, and participation will be free of charge.
+The Software Working Group is organising a series of free satellite tutorials as part of the `CNS*2022`_ conference.
+The tutorials will be free for all to attend and they will be conducted online two weeks before the in-person conference in Melbourne.
 
 
-- **Location:** Online (via Zoom)
-- **Dates (expected):** June 27 - July 1
+- **Location:** Online
+- **Dates:** June 27 - July 1
 - **Free registration!**
 
 The list of tutorials, the schedule, and the registration details will be updated here once finalized.
