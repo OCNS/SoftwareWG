@@ -40,13 +40,14 @@ The meeting schedule for 2022 is:
     "Monday, April 11 2022", "0800 UTC", "`Link <https://github.com/OCNS/SoftwareWG/issues/65>`__", "`Link <{filename}/20220421-wg-meeting-11-april-2022.rst>`__"
     "**Monday, May 9 2022**", "**0800/1700 UTC**", "`Link <https://github.com/OCNS/SoftwareWG/issues/90>`__", ""
     "Tuesday, June 14 2022", "0800/1700 UTC", "", ""
-    "Wednesday, July 06 2022", "0800/1700 UTC", "", ""
+    "Wednesday, July 06 2022\*", "0800/1700 UTC", "", ""
     "Thursday, August 11 2022", "0800/1700 UTC", "", ""
     "Friday, September 09 2022", "0800/1700 UTC", "", ""
     "Monday, October 10 2022", "0800/1700 UTC", "", ""
     "Tuesday, November 08 2022", "0800/1700 UTC", "", ""
     "Wednesday, December 14 2022", "0800/1700 UTC", "", ""
 
+\* the July 2020 meeting was moved to the first week of July to leave the second week free for attendees to travel to CNS*2022 in Melbourne.
 
 .. _INCF: https://incf.org
 .. _OCNS: http://www.cnsorg.org
