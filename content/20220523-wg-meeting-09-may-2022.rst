@@ -1,0 +1,133 @@
+WG meeting 09 May 2022
+############################
+:date: 2022-05-23 11:26:14
+:modified: 2022-05-23 11:26:14
+:authors: Ankur Sinha
+:category: Events
+:tags: Meeting logs, Community
+:slug: wg-meeting-09-may-2022
+:summary: These are the minutes from the working group meeting on 09 May, 2022.
+
+.. raw:: html
+
+   <center>
+
+.. figure:: {static}/images/20210107-meeting-logs.jpg
+    :alt: Photo by Daria Nepriakhina on Unsplash
+    :width: 40%
+    :class: img-responsive
+    :target: #
+
+    Photo by `Daria Nepriakhina <https://unsplash.com/@epicantus?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText>`__ on Unsplash.
+
+.. raw:: html
+
+   </center>
+   <br />
+
+
+These are the meeting logs (and additional progress notes) from the Software WG meeting that was held on 09th May, 2022.
+The next progress meeting will be held `in June <{filename}/pages/contact.rst>`__.
+For any clarifications and suggestions, please open a new ticket.
+
+Attendees
+-----------
+
+0800 UTC:
+
+- Ankur Sinha
+- Shailesh Appukuttan
+- Stewart Heitmann
+
+1700 UTC:
+
+- Ankur Sinha
+- Joe Graham
+- Marcel Stimberg
+- Charles Linssen
+
+Preset Agenda
+--------------
+From https://github.com/OCNS/SoftwareWG/issues/90
+
+Updates on CNS * 2022 satellite tutorials
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- https://github.com/OCNS/SoftwareWG/milestone/3
+
+General review of open tickets/discussions
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- https://github.com/OCNS/SoftwareWG/issues
+
+Minutes
+--------
+
+CNS * 2022 satellite tutorials
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- OCNS have no objections with sessions being repeated at online satellite tutorials.
+- ACTION: Ankur ping Elephant again: https://github.com/NeuralEnsemble/elephant/issues/484: **DONE**
+- ACTION: Ankur ping Neurolib again: https://github.com/OCNS/SoftwareWG/issues/77: **DONE**
+- ACTION: Ankur ping Eden again: https://github.com/OCNS/SoftwareWG/issues/95: **DONE**
+- ACTION: Ankur/Shailesh: update text on the website to say "as part of CNS" instead of "at CNS": https://ocns.github.io/SoftwareWG/pages/software-wg-satellite-tutorials-at-cns-2022.html: **DONE**
+- ACTION: move July meeting(s) to first week: Avoid July 4, Holiday in US: **DONE** (moved a week earlier to July 06)
+- ACTION: introduce WG in all satellite sessions: request presenters to do a quick blurb on WG to start with: **NOTED**
+
+- Based on the `survey results <https://github.com/OCNS/SoftwareWG/issues/82>`__, we decided to do another session on containers:
+
+  - NEW session: Ankur: Containers 101 : 1.5 hours: Ticket opened: https://github.com/OCNS/SoftwareWG/issues/96
+  - start by showing traditional Python virtual environment development method to show advantages of using a container based workflow:
+
+    - pulling images
+    - creating images (including files from local file system)
+    - accessing local file system from container
+    - list of comp-neuro containers (NeuralEnsemble/NEST/NeuroFedora/etc.): ask everyone presenting a tutorial if they have container images
+    - set up web page for this on our website with initial information: people need to have docker/podman installed
+    - mention `Toolbx <https://containertoolbx.org/>`__.
+
+- We went through the survey results to see what other sessions we could add to our satellite tutorials, (if we have slots):
+
+  - Keras (3 hours)
+
+    - ACTION: Ankur reach out to Cecilia Jarne: DONE
+    - https://github.com/OCNS/SoftwareWG/issues/97
+
+  - Catch22 (3 hours max?)
+  - Datalad (1.5 hours)
+  - PyNN (3 hours max)
+  - Fasttrack: less priority as does not fit comp-neuro theme
+
+- Other tools in the survey:
+
+  - Missingno + Pingouin + general analysis visualisation tools: maybe a tutorial later in the year
+  - MorphIO/MorphTool/NeuroM: session later in the year
+  - NWB ecosystem: do lots of user days themselves, we can do a specific tutorial later in the year
+  - NiPy suite: also better to do a specific tutorial later in the year
+  - PETlink: skip for now, not comp-neuro
+  - PyElectro: with NeuroML bits
+  - PyBIDS: maybe neuroimaging tutorial later
+  - PySpike: separate tutorial later in the year (correct typo elsewhere also: spike not spyke)
+  - Spiking circus: later (spike train analysis tutorial?)
+  - Allen tools, BMTK: full day tutorial later on
+  - BrainScaleS + Spinnaker: reach out for tutorial later (needs access to hardware)
+  - GENESIS?
+  - SciUnit/NeuronUnit: tutorial later
+  - STEPS: dedicated tutorial later
+
+- ACTION: Ankur re-ping Thomas Nowotny about sending out the survey in next communication (check if it has been sent out yet), if no newsletter: being sent out in newsletter, so not required: **DONE**
+- ACTION: Shailesh ping newsletter organisers (tentative newsletter in May): **DONE**
+- ACTION: Ankur/Shailesh check if it was included in the INCF newsletter: was in issue 1: **DONE**
+
+- ACTION: reach out to confirmed tutorials to ask for (**WIP**):
+
+  - Duration (give slot options)
+  - preferred time
+  - web page link for session
+  - whether they need us to set up zoom meetings for them (preferable that they handle this themselves)
+  - strongly suggest recording (especially if there isn't a recording of their tutorial already): we will get these uploaded to the training space
+  - DEADLINE for confirmation: 20th (2 weeks)
+
+- ACTION: end of next week (20th) send out e-mail to public lists about satellite tutorials ("save the date" with initial information)
+- ACTION: Ankur drop comment on https://github.com/OCNS/SoftwareWG/issues/61 for ideas, if none, close next meeting: **DONE**
+- ACTION: Ankur: same for https://github.com/OCNS/SoftwareWG/issues/62: **DONE**
