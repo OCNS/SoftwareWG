@@ -14,11 +14,36 @@ The tutorials will be free for all to attend and they will be conducted online t
 - **Dates:** June 27 - July 1
 - **Free registration!**
 
-The list of tutorials, the schedule, and the registration details will be updated here once finalized.
+The list of tutorials can be seen below.
+The schedule, and the registration details will be updated here once finalized.
 
 To stay informed about these tutorials, we recommend that you check back frequently, and also sign up to our announcements `mailing list`_.
 
-Suggestions for tutorial sessions can be made `here <https://github.com/OCNS/SoftwareWG/issues/67>`_.
+
+List of tutorials
+-------------------
+
+#. Arbor
+#. Brian2
+#. Containers 101
+#. EBRAINS
+#. GeNN
+#. Keras/TensorFlow
+#. LFPy
+#. MOOSE
+#. Neo + Elephant
+#. NEST
+#. NetPyNE
+#. NeuroLib
+#. NeuroML
+#. NEURON
+#. OSBv2
+#. RateML
+
+Schedule
+---------
+
+TBD
 
 .. _CNS*2022: https://www.cnsorg.org/cns-2022-quick
 .. _mailing list: https://lists.incf.org/cgi-bin/mailman/listinfo/incf-ocns-software-wg
