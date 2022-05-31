@@ -72,7 +72,8 @@ EXTRA_PATH_METADATA = {
 
 # Theme
 PLUGIN_PATHS = ['pelican-plugins']
-PLUGINS = ['assets', 'share_post']
+PLUGINS = ['assets', 'share_post', 'headerid']
+HEADERID_LINK_CHAR = "⋆"
 
 THEME = 'themes/pelican-alchemy/alchemy'
 BOOTSTRAP_CSS = '/theme/css/bootstrap.min.css'
