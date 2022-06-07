@@ -12,38 +12,89 @@ The tutorials will be free for all to attend and they will be conducted online t
 
 - **Location:** Online
 - **Dates:** June 27 - July 1
-- **Free registration!**
+- **Registration: free! (but required)!**
 
-The list of tutorials can be seen below.
-The schedule, and the registration details will be updated here once finalized.
+Please note that to prevent spamming/zoom bombing during the sessions, the links to all Zoom meetings will be sent out only to registrants.
 
-To stay informed about these tutorials, we recommend that you check back frequently, and also sign up to our announcements `mailing list`_.
+The schedule can be seen below and registration will open soon.
+
+Monday, 27th June
+~~~~~~~~~~~~~~~~~~
+
+.. csv-table::
+   :header: "Time (UTC)", "Session", "More information"
+   :width: 80%
+   :widths: 20, 50, 30
+   :align: center
+   :class: table table-striped table-bordered
+
+   "0700--0730", "Introduction and welcome", ""
+   "0730--0900", "Open Source Brain v2", ""
+   "1000--1300", "GeNN", ""
+   "1330--1530", "NeuroLib", ""
+   "1600--1800", "MOOSE", ""
 
 
-List of tutorials
--------------------
+Tuesday, 28th June
+~~~~~~~~~~~~~~~~~~
 
-#. Arbor
-#. Brian2
-#. Containers 101
-#. EBRAINS
-#. GeNN
-#. Keras/TensorFlow
-#. LFPy
-#. MOOSE
-#. Neo + Elephant
-#. NEST
-#. NetPyNE
-#. NeuroLib
-#. NeuroML
-#. NEURON
-#. OSBv2
-#. RateML
+.. csv-table::
+   :header: "Time (UTC)", "Session", "More information"
+   :width: 80%
+   :widths: 20, 50, 30
+   :align: center
+   :class: table table-striped table-bordered
 
-Schedule
----------
+   "0600--0730", "MOOSE (repeat)", ""
+   "0800--1100", "EBRAINS", ""
+   "1300--2000", "NEURON", ""
 
-TBD
+
+Wednesday, 29th June
+~~~~~~~~~~~~~~~~~~~~
+
+.. csv-table::
+   :header: "Time (UTC)", "Session", "More information"
+   :width: 80%
+   :widths: 20, 50, 30
+   :align: center
+   :class: table table-striped table-bordered
+
+   "0700--0830", "Introduction to containers", ""
+   "0900--1030", "RateML", ""
+   "1100--1230", "LFPy", ""
+   "1300--2000", "NetPyNE", ""
+
+Thursday, 30th June
+~~~~~~~~~~~~~~~~~~~~
+
+.. csv-table::
+   :header: "Time (UTC)", "Session", "More information"
+   :width: 80%
+   :widths: 20, 50, 30
+   :align: center
+   :class: table table-striped table-bordered
+
+   "0700--1000", "Arbor", ""
+   "1030--1330", "Brian", ""
+   "1400--1700", "NeuroML", ""
+
+
+Friday, 1st July
+~~~~~~~~~~~~~~~~~~~~
+
+.. csv-table::
+   :header: "Time (UTC)", "Session", "More information"
+   :width: 80%
+   :widths: 20, 50, 30
+   :align: center
+   :class: table table-striped table-bordered
+
+   "0700--1000", "Neo + Elephant", ""
+   "1030--1330", "NEST", ""
+   "1400--1600", "Keras/TensorFlow", ""
+   "1700--1730", "Closing remarks", ""
+
 
 .. _CNS*2022: https://www.cnsorg.org/cns-2022-quick
 .. _mailing list: https://lists.incf.org/cgi-bin/mailman/listinfo/incf-ocns-software-wg
