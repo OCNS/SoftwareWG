@@ -18,6 +18,8 @@ Please note that to prevent spamming/zoom bombing during the sessions, the links
 
 The schedule can be seen below and registration will open soon.
 
+All times are in UTC, please click on the times to see them in your local time zone.
+
 Monday, 27th June
 ~~~~~~~~~~~~~~~~~~
 
@@ -28,11 +30,11 @@ Monday, 27th June
    :align: center
    :class: table table-striped table-bordered
 
-   "0700--0730", "Introduction and welcome", ""
-   "0730--0900", "Open Source Brain v2", ""
-   "1000--1300", "GeNN", ""
-   "1330--1530", "NeuroLib", ""
-   "1600--1800", "MOOSE", ""
+   "`0700--0730 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T07>`__", "Introduction and welcome", ""
+   "`0730--0900 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T0730>`__", "Open Source Brain v2", ""
+   "`1000--1300 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T10>`__", "GeNN", ""
+   "`1330--1530 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T1330>`__", "NeuroLib", ""
+   "`1600--1800 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T16>`__", "MOOSE", ""
 
 
 Tuesday, 28th June
@@ -45,9 +47,9 @@ Tuesday, 28th June
    :align: center
    :class: table table-striped table-bordered
 
-   "0600--0730", "MOOSE (repeat)", ""
-   "0800--1100", "EBRAINS", ""
-   "1300--2000", "NEURON", ""
+   "`0600--0730 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T06>`__", "MOOSE (repeat)", ""
+   "`0800--1100 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T08>`__", "EBRAINS", ""
+   "`1300--2000 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T13>`__", "NEURON", ""
 
 
 Wednesday, 29th June
@@ -60,10 +62,10 @@ Wednesday, 29th June
    :align: center
    :class: table table-striped table-bordered
 
-   "0700--0830", "Introduction to containers", ""
-   "0900--1030", "RateML", ""
-   "1100--1230", "LFPy", ""
-   "1300--2000", "NetPyNE", ""
+   "`0700--0830 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T07>`__", "Introduction to containers", ""
+   "`0900--1030 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T09>`__", "RateML", ""
+   "`1100--1230 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T11>`__", "LFPy", ""
+   "`1300--2000 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T13>`__", "NetPyNE", ""
 
 Thursday, 30th June
 ~~~~~~~~~~~~~~~~~~~~
@@ -75,9 +77,9 @@ Thursday, 30th June
    :align: center
    :class: table table-striped table-bordered
 
-   "0700--1000", "Arbor", ""
-   "1030--1330", "Brian", ""
-   "1400--1700", "NeuroML", ""
+   "`0700--1000 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T07>`__", "Arbor", ""
+   "`1030--1330 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T1030>`__", "Brian", ""
+   "`1400--1700 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T14>`__", "NeuroML", ""
 
 
 Friday, 1st July
@@ -90,10 +92,10 @@ Friday, 1st July
    :align: center
    :class: table table-striped table-bordered
 
-   "0700--1000", "Neo + Elephant", ""
-   "1030--1330", "NEST", ""
-   "1400--1600", "Keras/TensorFlow", "`Link <http://ceciliajarne.web.unq.edu.ar/cns2022-free-online-satellite-tutorial-on-keras-tensorflow/>`__"
-   "1700--1730", "Closing remarks", ""
+   "`0700--1000 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220701T07>`__", "Neo + Elephant", ""
+   "`1030--1330 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220701T1030>`__", "NEST", ""
+   "`1400--1600 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220701T14>`__", "Keras/TensorFlow", "`Link <http://ceciliajarne.web.unq.edu.ar/cns2022-free-online-satellite-tutorial-on-keras-tensorflow/>`__"
+   "`1700--1730 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220701T17>`__", "Closing remarks", ""
 
 
 .. _CNS*2022: https://www.cnsorg.org/cns-2022-quick
