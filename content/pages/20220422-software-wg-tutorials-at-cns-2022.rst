@@ -12,7 +12,7 @@ The tutorials will be free for all to attend and they will be conducted online t
 
 - **Location:** Online
 - **Dates:** June 27 - July 1
-- **Registration: free! (but required)!**
+- **Registration: free! (but required)**
 
 Please note that to prevent spamming/zoom bombing during the sessions, the links to all Zoom meetings will be sent out only to registrants.
 
