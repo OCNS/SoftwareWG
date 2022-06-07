@@ -92,7 +92,7 @@ Friday, 1st July
 
    "0700--1000", "Neo + Elephant", ""
    "1030--1330", "NEST", ""
-   "1400--1600", "Keras/TensorFlow", ""
+   "1400--1600", "Keras/TensorFlow", "`Link <http://ceciliajarne.web.unq.edu.ar/cns2022-free-online-satellite-tutorial-on-keras-tensorflow/>`__"
    "1700--1730", "Closing remarks", ""
 
 
