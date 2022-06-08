@@ -2,7 +2,7 @@
 
 [![Join the chat at https://gitter.im/OCNS/SoftwareWG](https://badges.gitter.im/OCNS/SoftwareWG.svg)](https://gitter.im/OCNS/SoftwareWG?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-This repository is used for housekeeping by the INCF/OCNS Software Working Group (WG) and its website.
+This repository is used for housekeeping by the INCF/OCNS Software Working Group (WG) and [its website](https://ocns.github.io/SoftwareWG/).
 
 For discussions on activities, please refer to [Latest Institutions/OCNS topics - Neurostars](https://neurostars.org/c/institutions/ocns/30).
 
