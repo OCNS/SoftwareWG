@@ -31,7 +31,7 @@ Monday, 27th June
    :class: table table-striped table-bordered
 
    "`0700--0730 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T07>`__", "Introduction and welcome", ""
-   "`0730--0900 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T0730>`__", "`Open Source Brain v2 <https://docs.opensourcebrain.org/OSBv2/Overview.html>`__", ""
+   "`0730--0900 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T0730>`__", "`Open Source Brain v2 <https://docs.opensourcebrain.org/OSBv2/Overview.html>`__", "`Link <https://docs.opensourcebrain.org/General/Meetings/CNS_2022.html>`__"
    "`1000--1300 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T10>`__", "`GeNN <https://genn-team.github.io/>`__", ""
    "`1330--1530 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T1330>`__", "`NeuroLib <https://neurolib-dev.github.io/>`__", ""
    "`1600--1800 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T16>`__", "`MOOSE <https://moose.ncbs.res.in/>`__", ""
@@ -79,7 +79,7 @@ Thursday, 30th June
 
    "`0700--1000 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T07>`__", "`Arbor <https://arbor-sim.org/>`__", ""
    "`1030--1330 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T1030>`__", "`Brian <https://briansimulator.org/>`__", ""
-   "`1400--1700 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T14>`__", "`NeuroML <https://neuroml.org>`__", ""
+   "`1400--1700 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T14>`__", "`NeuroML <https://neuroml.org>`__", "`Link <https://docs.neuroml.org/Events/20220630-CNS2022.html>`__"
 
 
 Friday, 1st July
