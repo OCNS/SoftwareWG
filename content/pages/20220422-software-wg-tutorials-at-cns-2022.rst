@@ -32,7 +32,7 @@ Monday, 27th June
 
    "`0700--0730 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T07>`__", "Introduction and welcome", ""
    "`0730--0900 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T0730>`__", "`Open Source Brain v2 <https://docs.opensourcebrain.org/OSBv2/Overview.html>`__", "`Link <https://docs.opensourcebrain.org/General/Meetings/CNS_2022.html>`__"
-   "`1000--1300 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T10>`__", "`GeNN <https://genn-team.github.io/>`__", ""
+   "`1000--1300 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T10>`__", "`GeNN <https://genn-team.github.io/>`__", "`Link <https://genn-team.github.io/tutorials.html>`__"
    "`1330--1530 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T1330>`__", "`NeuroLib <https://neurolib-dev.github.io/>`__", ""
    "`1600--1800 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T16>`__", "`MOOSE <https://moose.ncbs.res.in/>`__", ""
 
