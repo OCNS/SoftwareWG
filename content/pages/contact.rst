@@ -6,7 +6,7 @@ Contact
 :slug: contact
 
 - Please subscribe to our `announcement mailing list <https://lists.incf.org/cgi-bin/mailman/listinfo/incf-ocns-software-wg>`__ at :code:`incf-ocns-software-wg AT incf.org`. All announcements related to events, and related to discussions are sent to the list. The discussions themselves remain on GitHub to allow us to organise work using GitHub tickets and so on.
-- We have a chat room on `Matrix/Element <https://matrix.to/#/#OCNS_Softwareworking group:gitter.im>`__ where we hang out. It is also bridged to a `room on Gitter <https://gitter.im/OCNS/Softwareworking group>`__.
+- We have a chat room on `Matrix/Element <https://matrix.to/#/#OCNS_SoftwareWG:gitter.im>`__ where we hang out. It is also bridged to a `room on Gitter <https://gitter.im/OCNS/SoftwareWG>`__.
 - We use `GitHub discussions <https://github.com/OCNS/Softwareworking group/discussions>`__ as our primary discussion channel. `Say hello! <https://github.com/OCNS/Softwareworking group/discussions/12>`__.
 - We are also reachable at the `OCNS category on Neurostars <https://neurostars.org/c/institutions/ocns/30>`__.
 - Both working group chairs are also reachable at the OCNS Webmaster's e-mail address at `webmaster AT cnsorg.org`.
