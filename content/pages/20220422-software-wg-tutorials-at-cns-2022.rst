@@ -48,7 +48,7 @@ Tuesday, 28th June
    :class: table table-striped table-bordered
 
    "`0600--0730 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T06>`__", "`MOOSE <https://moose.ncbs.res.in/>`__ (repeat)", ""
-   "`0800--1100 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T08>`__", "`EBRAINS <https://ebrains.eu/>`__", ""
+   "`0800--1100 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T08>`__", "`EBRAINS <https://ebrains.eu/>`__", "`Link <https://wiki.ebrains.eu/bin/view/Collabs/cns-2022-ebrains-session/>`__"
    "`1300--2000 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T13>`__", "`NEURON <https://neuron.yale.edu/neuron/>`__", ""
 
 
