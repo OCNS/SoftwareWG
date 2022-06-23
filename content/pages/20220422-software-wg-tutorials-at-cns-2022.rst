@@ -16,8 +16,7 @@ The tutorials will be free for all to attend and they will be conducted online t
 
 Please note that to prevent spamming/zoom bombing during the sessions, the links to all Zoom meetings will be sent out only to registrants.
 
-The schedule can be seen below and registration will open soon.
-
+The schedule can be seen below.
 All times are in UTC, please click on the times to see them in your local time zone.
 
 Monday, 27th June
