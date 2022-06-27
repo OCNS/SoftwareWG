@@ -77,7 +77,7 @@ Thursday, 30th June
    :class: table table-striped table-bordered
 
    "`0700--1000 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T07>`__", "`Arbor <https://arbor-sim.org/>`__", "",
-   "`1030--1330 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T1030>`__", "`Brian <https://briansimulator.org/>`__", "",
+   "`1030--1330 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T1030>`__", "`Brian <https://briansimulator.org/>`__", "`Link <https://briansimulator.org/posts/2022/cns-satellite-tutorial/>`__",
    "`1400--1700 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T14>`__", "`NeuroML <https://neuroml.org>`__", "`Link <https://docs.neuroml.org/Events/20220630-CNS2022.html>`__",
 
 
