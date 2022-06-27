@@ -30,10 +30,10 @@ Monday, 27th June
    :class: table table-striped table-bordered
 
    "`0700--0730 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T07>`__", "Introduction and welcome", "",
-   "`0730--0900 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T0730>`__", "`Open Source Brain v2 <https://docs.opensourcebrain.org/OSBv2/Overview.html>`__", "`Link <https://docs.opensourcebrain.org/General/Meetings/CNS_2022.html>`__", "`Link <https://ucl.zoom.us/rec/share/xVUsq6szrIPGmpx1Sh9dhzHmcfVzJEwk2PiwGWEVnipc0lMiKFhy9lRSP6XLXzsq.yh6gd65x0JFIDC2g>`__"
+   "`0730--0900 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T0730>`__", "`Open Source Brain v2 <https://docs.opensourcebrain.org/OSBv2/Overview.html>`__", "`Link <https://docs.opensourcebrain.org/General/Meetings/CNS_2022.html>`__, `OSBv2 <https://www.v2.opensourcebrain.org/repositories/38>`__", "`Link <https://ucl.zoom.us/rec/share/xVUsq6szrIPGmpx1Sh9dhzHmcfVzJEwk2PiwGWEVnipc0lMiKFhy9lRSP6XLXzsq.yh6gd65x0JFIDC2g>`__"
    "`1000--1300 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T10>`__", "`GeNN <https://genn-team.github.io/>`__", "`Link <https://genn-team.github.io/tutorials.html>`__",
-   "`1330--1530 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T1330>`__", "`neurolib <https://neurolib-dev.github.io/>`__", "`Link <https://gist.github.com/caglorithm/71c85e2891d1505735963aa2909488b1>`__",
-   "`1600--1800 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T16>`__", "`MOOSE <https://moose.ncbs.res.in/>`__", "`Link <https://moose.ncbs.res.in/cns2022_moose/>`__",
+   "`1330--1530 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T1330>`__", "`neurolib <https://neurolib-dev.github.io/>`__", "`Link <https://gist.github.com/caglorithm/71c85e2891d1505735963aa2909488b1>`__, `OSBv2 <https://www.v2.opensourcebrain.org/repositories/34>`__",
+   "`1600--1800 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T16>`__", "`MOOSE <https://moose.ncbs.res.in/>`__", "`Link <https://moose.ncbs.res.in/cns2022_moose/>`__, `OSBv2 <https://www.v2.opensourcebrain.org/repositories/35>`__",
 
 
 Tuesday, 28th June
@@ -46,7 +46,7 @@ Tuesday, 28th June
    :align: center
    :class: table table-striped table-bordered
 
-   "`0600--0730 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T06>`__", "`MOOSE <https://moose.ncbs.res.in/>`__ (repeat)", "`Link <https://moose.ncbs.res.in/cns2022_moose/>`__",
+   "`0600--0730 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T06>`__", "`MOOSE <https://moose.ncbs.res.in/>`__ (repeat)", "`Link <https://moose.ncbs.res.in/cns2022_moose/>`__, `OSBv2 <https://www.v2.opensourcebrain.org/repositories/35>`__",
    "`0800--1100 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T08>`__", "`EBRAINS <https://ebrains.eu/>`__", "`Link <https://wiki.ebrains.eu/bin/view/Collabs/cns-2022-ebrains-session/>`__",
    "`1300--2000 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T13>`__", "`NEURON <https://neuron.yale.edu/neuron/>`__", "",
 
@@ -63,7 +63,7 @@ Wednesday, 29th June
 
    "`0700--0830 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T07>`__", "Introduction to containers", "",
    "`0900--1030 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T09>`__", "`RateML <https://github.com/the-virtual-brain/tvb-root/blob/b81cfefa59290e8896639461afccefa6e83dd6c6/tvb_library/tvb/rateML/README.md>`__", "",
-   "`1100--1230 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T11>`__", "`LFPy <https://lfpy.readthedocs.io/en/latest/>`__", "",
+   "`1100--1230 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T11>`__", "`LFPy <https://lfpy.readthedocs.io/en/latest/>`__", "`OSBv2 <https://www.v2.opensourcebrain.org/repositories/32>`__",
    "`1300--2000 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T13>`__", "`NetPyNE <http://netpyne.org/>`__", "",
 
 Thursday, 30th June
@@ -76,9 +76,9 @@ Thursday, 30th June
    :align: center
    :class: table table-striped table-bordered
 
-   "`0700--1000 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T07>`__", "`Arbor <https://arbor-sim.org/>`__", "",
-   "`1030--1330 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T1030>`__", "`Brian <https://briansimulator.org/>`__", "`Link <https://briansimulator.org/posts/2022/cns-satellite-tutorial/>`__",
-   "`1400--1700 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T14>`__", "`NeuroML <https://neuroml.org>`__", "`Link <https://docs.neuroml.org/Events/20220630-CNS2022.html>`__",
+   "`0700--1000 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T07>`__", "`Arbor <https://arbor-sim.org/>`__", "`OSBv2 <https://www.v2.opensourcebrain.org/repositories/36>`__",
+   "`1030--1330 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T1030>`__", "`Brian <https://briansimulator.org/>`__", "`Link <https://briansimulator.org/posts/2022/cns-satellite-tutorial/>`__, `OSBv2 <https://www.v2.opensourcebrain.org/repositories/2>`__",
+   "`1400--1700 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T14>`__", "`NeuroML <https://neuroml.org>`__", "`Link <https://docs.neuroml.org/Events/20220630-CNS2022.html>`__, `OSBv2 <https://v2.opensourcebrain.org/repositories/3>`__",
 
 
 Friday, 1st July
@@ -91,7 +91,7 @@ Friday, 1st July
    :align: center
    :class: table table-striped table-bordered
 
-   "`0700--1000 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220701T07>`__", "`Neo <https://neo.readthedocs.io/en/latest/>`__ + `Elephant <http://neuralensemble.org/elephant/>`__", "",
+   "`0700--1000 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220701T07>`__", "`Neo <https://neo.readthedocs.io/en/latest/>`__ + `Elephant <http://neuralensemble.org/elephant/>`__", "`OSBv2 <https://www.v2.opensourcebrain.org/repositories/30>`__",
    "`1030--1330 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220701T1030>`__", "`NEST <https://www.nest-simulator.org/>`__", "`Link <https://clinssen.github.io/OCNS-2022-workshop/index.html>`__",
    "`1400--1600 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220701T14>`__", "`Keras <https://keras.io>`__/`TensorFlow <https://www.tensorflow.org>`__", "`Link <http://ceciliajarne.web.unq.edu.ar/cns2022-free-online-satellite-tutorial-on-keras-tensorflow/>`__",
    "`1700--1730 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220701T17>`__", "Closing remarks", "",
