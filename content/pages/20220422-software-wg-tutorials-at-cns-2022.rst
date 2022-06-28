@@ -64,7 +64,7 @@ Wednesday, 29th June
    "`0700--0830 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T07>`__", "Introduction to containers", "",
    "`0900--1030 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T09>`__", "`RateML <https://github.com/the-virtual-brain/tvb-root/blob/b81cfefa59290e8896639461afccefa6e83dd6c6/tvb_library/tvb/rateML/README.md>`__", "",
    "`1100--1230 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T11>`__", "`LFPy <https://lfpy.readthedocs.io/en/latest/>`__", "`OSBv2 <https://www.v2.opensourcebrain.org/repositories/32>`__",
-   "`1300--2000 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T13>`__", "`NetPyNE <http://netpyne.org/>`__", "",
+   "`1300--2000 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T13>`__", "`NetPyNE <http://netpyne.org/>`__", "`Link <http://dura-bernal.org/netpyne-online-tutorial-2022>`__",
 
 Thursday, 30th June
 ~~~~~~~~~~~~~~~~~~~~
