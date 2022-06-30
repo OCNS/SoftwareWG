@@ -31,7 +31,7 @@ Monday, 27th June
 
    "`0700--0730 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T07>`__", "Introduction and welcome", "",
    "`0730--0900 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T0730>`__", "`Open Source Brain v2 <https://docs.opensourcebrain.org/OSBv2/Overview.html>`__", "`Link <https://docs.opensourcebrain.org/General/Meetings/CNS_2022.html>`__, `OSBv2 <https://www.v2.opensourcebrain.org/repositories/38>`__", "`Link <https://ucl.zoom.us/rec/share/xVUsq6szrIPGmpx1Sh9dhzHmcfVzJEwk2PiwGWEVnipc0lMiKFhy9lRSP6XLXzsq.yh6gd65x0JFIDC2g>`__"
-   "`1000--1300 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T10>`__", "`GeNN <https://genn-team.github.io/>`__", "`Link <https://genn-team.github.io/tutorials.html>`__",
+   "`1000--1300 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T10>`__", "`GeNN <https://genn-team.github.io/>`__", "`Link <https://genn-team.github.io/tutorials.html>`__", "`Link <https://sussex.box.com/s/9kopk3brmepniumshe73524jk2rjxspc>`__, `Slides <https://sussex.box.com/s/2r7rp7nhrjria2b6vag9jevldnkae1n9>`__"
    "`1330--1530 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T1330>`__", "`neurolib <https://neurolib-dev.github.io/>`__", "`Link <https://gist.github.com/caglorithm/71c85e2891d1505735963aa2909488b1>`__, `OSBv2 <https://www.v2.opensourcebrain.org/repositories/34>`__",
    "`1600--1800 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T16>`__", "`MOOSE <https://moose.ncbs.res.in/>`__", "`Link <https://moose.ncbs.res.in/cns2022_moose/>`__, `OSBv2 <https://www.v2.opensourcebrain.org/repositories/35>`__", "`Link <https://drive.google.com/file/d/1IkkxAVyKlaZSefQWAsq_G9Q5zKzcPOEQ/view?usp=drive_web>`__"
 
