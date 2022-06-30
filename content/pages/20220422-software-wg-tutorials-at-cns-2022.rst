@@ -77,7 +77,7 @@ Thursday, 30th June
    :class: table table-striped table-bordered
 
    "`0700--1000 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T07>`__", "`Arbor <https://arbor-sim.org/>`__", "`OSBv2 <https://www.v2.opensourcebrain.org/repositories/36>`__", "`Link <https://ucl.zoom.us/rec/share/AuaHl1UI2wYWqhmSBTUpvG5hdxveLo4Z85ptrF2lORYHCWThq0hjdt527rdM7mfr.bnVoRgU8kCJm4YC0>`__"
-   "`1030--1330 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T1030>`__", "`Brian <https://briansimulator.org/>`__", "`Link <https://briansimulator.org/posts/2022/cns-satellite-tutorial/>`__, `OSBv2 <https://www.v2.opensourcebrain.org/repositories/2>`__",
+   "`1030--1330 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T1030>`__", "`Brian <https://briansimulator.org/>`__", "`Link <https://briansimulator.org/posts/2022/cns-satellite-tutorial/>`__, `OSBv2 <https://www.v2.opensourcebrain.org/repositories/2>`__", "`Link <https://dropsu.sorbonne-universite.fr/s/MzAaaQSsHLHEzFb>`__"
    "`1400--1700 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T14>`__", "`NeuroML <https://neuroml.org>`__", "`Link <https://docs.neuroml.org/Events/20220630-CNS2022.html>`__, `OSBv2 <https://v2.opensourcebrain.org/repositories/3>`__",
 
 
