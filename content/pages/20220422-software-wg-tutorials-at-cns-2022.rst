@@ -93,7 +93,7 @@ Friday, 1st July
 
    "`0700--1000 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220701T07>`__", "`Neo <https://neo.readthedocs.io/en/latest/>`__ + `Elephant <http://neuralensemble.org/elephant/>`__", "`Link <https://wiki.ebrains.eu/bin/view/Collabs/elephant-tutorials/>`__, `OSBv2 <https://www.v2.opensourcebrain.org/repositories/30>`__",
    "`1030--1330 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220701T1030>`__", "`NEST <https://www.nest-simulator.org/>`__", "`Link <https://clinssen.github.io/OCNS-2022-workshop/index.html>`__",
-   "`1400--1600 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220701T14>`__", "`Keras <https://keras.io>`__/`TensorFlow <https://www.tensorflow.org>`__", "`Link <http://ceciliajarne.web.unq.edu.ar/cns2022-free-online-satellite-tutorial-on-keras-tensorflow/>`__",
+   "`1400--1600 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220701T14>`__", "`Keras <https://keras.io>`__/`TensorFlow <https://www.tensorflow.org>`__", "`Link <http://ceciliajarne.web.unq.edu.ar/cns2022-free-online-satellite-tutorial-on-keras-tensorflow/>`__", "`Link <https://ucl.zoom.us/rec/share/AzQgmdQydLzzqS0FYbfJgEDC_GRJc1CcgqSa2sV4d2yAUp8EPneg4uJTZMKODVKX.zKRTEkbmElW55wwV>`__"
    "`1700--1730 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220701T17>`__", "Closing remarks", "",
 
 
