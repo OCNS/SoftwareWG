@@ -64,7 +64,7 @@ Wednesday, 29th June
    "`0700--0830 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T07>`__", "Introduction to containers", "", "`Link <https://ucl.zoom.us/rec/share/a6kUVkGHfigxVqtlmsjzXEX4X1Reeyirv9_0M3w0-L1XmvXRObjs7XaUjsfquxGS.Nbk6xUrujvQrbrpU>`__"
    "`0900--1030 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T09>`__", "`RateML <https://github.com/the-virtual-brain/tvb-root/blob/b81cfefa59290e8896639461afccefa6e83dd6c6/tvb_library/tvb/rateML/README.md>`__", "", "`Link <https://ucl.zoom.us/rec/share/bLIhlJq0QMK854q5vRE-_OsHpBEPrcgtHnD_mm1cYuU1rnUClwIcB5czUq73UKEa.lXOd25z8cdT5vQT9>`__"
    "`1100--1230 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T11>`__", "`LFPy <https://lfpy.readthedocs.io/en/latest/>`__", "`OSBv2 <https://www.v2.opensourcebrain.org/repositories/32>`__",
-   "`1300--2000 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T13>`__", "`NetPyNE <http://netpyne.org/>`__", "`Link <http://dura-bernal.org/netpyne-online-tutorial-2022>`__",
+   "`1300--2000 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T13>`__", "`NetPyNE <http://netpyne.org/>`__", "`Link <http://dura-bernal.org/netpyne-online-tutorial-2022>`__", "`Session 1 <https://youtu.be/xg-LU81UeG0>`__, `Session 2 <https://youtu.be/bsA0KyKWZXY>`__"
 
 Thursday, 30th June
 ~~~~~~~~~~~~~~~~~~~~
