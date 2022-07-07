@@ -1,0 +1,84 @@
+WG meeting 14 June 2022
+############################
+:date: 2022-07-07 09:54:14
+:modified: 2022-07-07 09:54:14
+:authors: Ankur Sinha
+:category: Events
+:tags: Meeting logs, Community
+:slug: wg-meeting-14-june-2022
+:summary: These are the minutes from the working group meeting on 14 June, 2022.
+
+.. raw:: html
+
+   <center>
+
+.. figure:: {static}/images/20210107-meeting-logs.jpg
+    :alt: Photo by Daria Nepriakhina on Unsplash
+    :width: 40%
+    :class: img-responsive
+    :target: #
+
+    Photo by `Daria Nepriakhina <https://unsplash.com/@epicantus?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText>`__ on Unsplash.
+
+.. raw:: html
+
+   </center>
+   <br />
+
+
+These are the meeting logs (and additional progress notes) from the Software WG meeting that was held on 14th June, 2022.
+The next progress meeting will be held `in July <{filename}/pages/contact.rst>`__.
+For any clarifications and suggestions, please open a new ticket.
+
+
+Attendees
+-----------
+
+0800 UTC
+
+- Malin Sandstrom
+- Thomas Nowotny
+- Felix Kern
+- Ankur Sinha
+
+1700 UTC
+
+- Jim Perlewitz
+- Marcel Stimberg
+- Ankur Sinha
+
+
+CNS*2022 Satellite tutorials
+----------------------------
+
+The primary goal of the meeting was to check up on our preparations for upcoming the satellite tutorials.
+
+- Milestone: https://github.com/OCNS/SoftwareWG/milestone/3
+- INCF: blog post: https://www.incf.org/blog/incfocns-software-working-group-free-tool-tutorials-june-27-july-1
+- ACTION: Ankur check if posted on Neurostars **DONE**
+- ACTION: Ankur send reminder to all tutors to record session: they'll be uploaded to the INCF training space: **DONE**
+- ACTION: Ankur set up simple feedback form up with a simple text box **WIP**
+- ACTION: Ankur update schedule page with recordings as soon as they become available **DONE**
+- ACTION: Ankur add links to OSBv2 repositories/workspaces on schedule page. **DONE**
+- ACTION: Ankur send out reminder e-mail in week before tutorials **DONE**
+- ACTION: Ankur check on slide for working group **DONE**
+- ACTION: Ankur e-mail slide to tutors and request them to introduce the working group: ask WG members to do it for sessions they'd attend, need to get them in touch with tutors. **INCOMPLETE**
+- ACTION: Ankur ask a few WG members to login to hackmd.io and make then co-owners so multiple people can edit the doc and Ankur is not the single point of contact/failure. **DONE** (added Shailesh)
+
+Tasks from last meeting
+------------------------
+
+- Minutes: https://ocns.github.io/SoftwareWG/2022/05/23/wg-meeting-09-may-2022.html
+- All done: no pending tasks
+
+
+Moving comp-neuro mailing list
+-------------------------------
+
+There was a short discussion about moving the comp-neuro mailing list to INCF infrastructure.
+
+- Archives would need to be kept
+- Need to investigate how much work it is to migrate archives
+- Can we get an estimate of the cost for moving + running? (needed to progress w INCF discussion of hosting)
+- Possible solution: move to a cloud provider
+- Ankur can also reach out to Fedora/Red Hat/IBM to see if they can host our mailing lists as part of some type of sponsorship. **WIP**
