@@ -1,0 +1,112 @@
+WG meeting 06 July 2022
+############################
+:date: 2022-07-07 10:03:45
+:modified: 2022-07-07 10:03:45
+:authors: Ankur Sinha
+:category: Events
+:tags: Meeting logs, Community
+:slug: wg-meeting-06-july-2022
+:summary: These are the minutes from the working group meeting on 06 July, 2022.
+
+.. raw:: html
+
+   <center>
+
+.. figure:: {static}/images/20210107-meeting-logs.jpg
+    :alt: Photo by Daria Nepriakhina on Unsplash
+    :width: 40%
+    :class: img-responsive
+    :target: #
+
+    Photo by `Daria Nepriakhina <https://unsplash.com/@epicantus?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText>`__ on Unsplash.
+
+.. raw:: html
+
+   </center>
+   <br />
+
+
+These are the meeting logs (and additional progress notes) from the Software WG meeting that was held on 6th July, 2022.
+The next progress meeting will be held `in August <{filename}/pages/contact.rst>`__.
+For any clarifications and suggestions, please open a new ticket.
+
+Attendees
+----------
+
+0800 UTC
+
+- Ankur Sinha
+- Stuart Heitmann
+- Felix Kern
+- Shailesh Appukuttan
+- Padraig Gleeson
+- Marcel Stimberg
+
+
+1700 UTC
+
+- Marcel Stimberg
+- Ankur Sinha
+
+
+CNS*2022 Satellite tutorials: recap
+-----------------------------------
+
+The primary agenda for the meeting was to discuss the software working group satellite tutorials.
+
+- there were 256 registrants in total
+- for each session, more than 85 people had indicated that they would attend, but average turn out was at about 10--20 for each session
+
+We discussed ideas for the next round of satellite tutorials to increase turn out:
+
+- we could send out daily reminders with links during the tutorial days
+
+  - per session e-mails could also be sent out, but would be too much work to do manually (and error prone)
+  - needs to be automated in a way that e-mails don't end up in spam: can be scripted using tool such as `mailmerge <https://mailtrap.io/blog/python-mail-merge/>`__
+
+- also generate and attach an ICS calendar file to e-mails so attendees can add to their calendars
+- we could require additional confirmation/cancellation before starting; this will give us better idea of who will attend, but won't necessarily increase attendance
+- we could have a low registration fee: this will filter out people who "just sign up", but may not increase actual attendance
+
+  - could include registration waivers for students
+  - could make it free for INCF/OCNS members: encourage memberships
+
+- people may not have known enough about tools to know what sessions to attend
+
+  - we could have a starting keynote on introduction to comp neuro, and then it gives attendees an idea of what is going to be featured during the tutorials
+
+    - it'll be good to get a high profile speaker who would be happy to do this to increase attendance
+
+  - see also https://github.com/OCNS/SoftwareWG/issues/61
+  - we could also have a recording with a few minutes about each tool that's featured in the satellite tutorials: teaser type video; so that people can watch a quick YouTube video and get an idea of all tutorials
+  - we could also have a set of slides based on a template showing the features of each tool
+  - these last few ideas require some extra work from participating tutors
+
+- Spreading the sessions over weeks instead of days in a week may not necessarily increase attendance
+- ACTION: Ankur create and send out feedback survey to registrants to gather information on what went well and why people were not able to attend; it's important to understand if it was because people missed sessions because the information/calendar wasn't clearly accessible so that we can improve on these
+- does it make sense to do it *after* the conferences to build on the momentum of the conference: can be done, the next ones in ~6 months time will be independent of the conference
+- we must push both INCF and OCNS to send out communications about the sessions
+- we may repeat this again in 6 months, with improvements: "Simulator week"?
+
+  - Depends on how many software WG folks can commit to spending time on helping with organisation
+
+- ACTION: Ankur e-mail all tutors with our discussion and improvements for the next iteration, asking if they'd be happy to re-do sessions if we repeat in 6 months.
+
+
+Other general discussion
+-------------------------
+
+- WG organise half day hack sessions/unconferences/sprints to work on tasks of common interest
+
+  - best practices document
+  - simulators page
+
+- Informal meet up at Bernstein conference
+
+INCF Assembly
+--------------
+
+Didn't have time in morning session, not discussed
+
+- D&I session: https://hackmd.io/s/SJgYACqQ9
+- Software Arena
