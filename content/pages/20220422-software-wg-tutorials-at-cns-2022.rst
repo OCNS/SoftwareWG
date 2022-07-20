@@ -48,7 +48,7 @@ Tuesday, 28th June
 
    "`0600--0730 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T06>`__", "`MOOSE <https://moose.ncbs.res.in/>`__ (repeat)", "`Link <https://moose.ncbs.res.in/cns2022_moose/>`__, `OSBv2 <https://www.v2.opensourcebrain.org/repositories/35>`__", "`Link <https://drive.google.com/file/d/1IkkxAVyKlaZSefQWAsq_G9Q5zKzcPOEQ/view?usp=drive_web>`__"
    "`0800--1100 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T08>`__", "`EBRAINS <https://ebrains.eu/>`__", "`Link <https://wiki.ebrains.eu/bin/view/Collabs/cns-2022-ebrains-session/>`__", "`Link <https://drive.google.com/file/d/16_o-BBwxL6g1pa5BoxCvU6cx-PI5b-am/view?usp=sharing>`__"
-   "`1300--2000 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T13>`__", "`NEURON <https://neuron.yale.edu/neuron/>`__", "",
+   "`1300--2000 <https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T13>`__", "`NEURON <https://neuron.yale.edu/neuron/>`__", "`Resources <https://github.com/mcdougallab/neuron-course-june-2022>`__",
 
 
 Wednesday, 29th June
