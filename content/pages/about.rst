@@ -8,14 +8,9 @@ Home
 :save_as: index.html
 :URL: index.html
 
-The Software Working Group is organising a series of free online satellite tutorials at `CNS*2022 conference <https://www.cnsorg.org/cns-2022-quick>`__.
-Please see `this page <{filename}/pages/20220422-software-wg-tutorials-at-cns-2022.rst>`__ for more details.
-
-------------
-
 Neuroscience cannot exist without the tools that we all rely on.
 So, this Working Group (WG) will focus on these.
-We'll find and discuss tools, we will learn how to use them, we will test and review them, we will file bugs to inform the developers of issues, and finally we will try to learn how they work and try to get involved in their development—to ensure that these tools that we rely on remain in good shape by having communities looking after them.
+We will find and discuss tools, we will learn how to use them, we will test and review them, we will file bugs to inform the developers of issues, and finally we will try to learn how they work and try to get involved in their development—to ensure that these tools that we rely on remain in good shape by having communities looking after them.
 Since many members of the WG are themselves tool developers, we will also learn from each other and will work towards improving interoperability between related tools.
 
 While we do all of this, we will improve our knowledge of transferable skills: anything involved in modern software development (which are not limited to only writing tools, but are extremely important/useful when developing models using these tools).
