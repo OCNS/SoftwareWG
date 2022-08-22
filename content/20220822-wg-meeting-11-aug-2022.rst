@@ -1,0 +1,92 @@
+WG meeting 11 August 2022
+############################
+:date: 2022-08-22 09:56:53
+:modified: 2022-08-22 09:56:53
+:authors: Ankur Sinha
+:category: Events
+:tags: Meeting logs, Community
+:slug: wg-meeting-11-august-2022
+:summary: These are the minutes from the working group meeting on 11 August, 2022.
+
+.. raw:: html
+
+   <center>
+
+.. figure:: {static}/images/20210107-meeting-logs.jpg
+    :alt: Photo by Daria Nepriakhina on Unsplash
+    :width: 40%
+    :class: img-responsive
+    :target: #
+
+    Photo by `Daria Nepriakhina <https://unsplash.com/@epicantus?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText>`__ on Unsplash.
+
+.. raw:: html
+
+   </center>
+   <br />
+
+
+These are the meeting logs (and additional progress notes) from the Software WG meeting that was held on 11th August, 2022.
+The next progress meeting will be held `in September <{filename}/pages/contact.rst>`__.
+For any clarifications and suggestions, please open a new ticket.
+
+Attendees
+---------
+
+0800:
+
+- Ankur Sinha
+- Dinara Issagaliyeva `Brain Simulation Section @Charite Lab <https://www.brainsimulation.org/bsw/zwei/home>`__
+- Emil Dmitruk: `Biocomputation Group <http://biocomputation.herts.ac.uk/>`__
+- Reema Gupta: `In2PrimateBrains <https://research.ncl.ac.uk/in2pb/>`__
+
+- `Yen-Han Chen <https://www.linkedin.com/in/yenhanchen3112/>`__
+
+  - Psycholinguistic
+
+- Akif Erdem Sağtekin
+
+1700
+
+- Ankur Sinha
+- Taha Morshedzadeh: `Krembil Centre for Neuroinformatics <https://www.grifflab.com/>`__, University of Toronto
+- Mandar Patil
+- Rahaf Albalkhi: Independent
+
+
+
+Agenda
+------
+
+- tasks from last meeting: https://ocns.github.io/SoftwareWG/2022/07/07/wg-meeting-06-july-2022.html: No pending items
+
+- upcoming INCF assembly tasks (and help required!)
+
+  - https://neuroinformatics.incf.org/2022/program
+  - https://www.alba.network/
+  - https://www.winrepo.org/
+
+- Bernstein conference related discussion
+
+  - if you're attending the conference, please let others know on this ticket: https://github.com/OCNS/SoftwareWG/issues/108
+
+- satellite tutorial follow ups
+
+  - nothing new to report at the moment
+  - to be discussed again in next meeting when data from feedback from is available
+
+- pending tasks/issue follow ups
+
+  - guidelines https://github.com/OCNS/SoftwareDevelopmentGuidelines
+
+- plans for more dev sessions/software highlights/tutorials
+
+  - lots of events in the pipeline
+
+
+Other general notes
+--------------------
+
+- There should be links to the tutorials + resources on the OCNS website: prominent link to the INCF training space, for example
+- Confirmation of need for reminders for satellite tutorials
+- CNS*2022 satellite tutorials feedback form link: https://framaforms.org/cns2022-online-satellite-tutorials-feedback-form-1659102112
