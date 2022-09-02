@@ -19,6 +19,10 @@ While we do all of this, we will improve our knowledge of transferable skills: a
 The WG is shared between the International Neuroinformatics Coordinating Facility (INCF_) and the Organization for Computational Neurosciences (OCNS_).
 OCNS_ is also a member of the INCF_.
 
+The working group holds meetings every month that are open to all to attend.
+Please see the `contacts <{filename}/pages/contact.rst#meetings>`__ page more information.
+
+
 Aims
 ====
 
@@ -27,6 +31,7 @@ Currently, the goals of the WG are to:
 
 * write up a set of best practices in software development and encourage software developers in the research community to check their tools against there;
 * host regular "developer sessions" where developer teams of various tools discuss their development pipelines—to disseminate various development practices, and help potential contributors get started.
+
 
 .. _INCF: https://incf.org
 .. _OCNS: http://www.cnsorg.org
