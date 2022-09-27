@@ -65,6 +65,12 @@ Updates from CNS 2022
 - Lower turnout at Melbourne
 - Will be good to see how next year at Leipzig is attended
 - People seem to prefer learning in their own time rather than attend live tutorials---also because we're spending more time on documentation and improved video tutorials
+
+  - Try `flipped classroom format <https://en.wikipedia.org/wiki/Flipped_classroom>`__?
+  - pre-recorded videos/tutorials, and the live meting would then be to work interactively on something bigger/student projects etc.?
+  - unclear how much work this would be to organize
+  - standard tutorial not very useful if also already available as video
+
 - Idea: include showcases in next year's satellite tutorials (online)
 - Question: will CNS2023 have an online component?
 
@@ -73,7 +79,7 @@ Brief update from the OCNS Board Meeting (Malin)
 
 - discussed diversity
 - satellite tutorials were good to improve diversity
-- SIGs are good for diversity, equity, and inclusivity (DEI)
+- SIGs/WGs are good for diversity, equity, and inclusivity (DEI)
 - endorsement of tools
 
   - good to do but the board doesn't have the bandwidth to take this on
@@ -87,6 +93,8 @@ Brief update from the OCNS Board Meeting (Malin)
 
     - similar issues with not stepping on toes
     - could have many prizes in many different categories to cover lots of different software
+
+  - possible collaboration with `pyOpenSci <https://www.pyopensci.org/blog/new-executive-director-leah-wasser>`__?
 
 - best to set up a task force for longer WG activities that works intensively on the selected task (guidelines/form)
 
@@ -130,10 +138,14 @@ Satellite tutorials feedback form
 
 - small data set
 - people seem to be happy to pay a small amount
-- see if we can find sponsors to reduce the token registration fee?
+
+  - have waiver in place similar to NeuroMatch conference
+  - organization that funds the platforms will receive the registration fees
+
+- find sponsors to reduce the token registration fee?
 
   - WG unlikely to have bandwidth to look for sponsors
-  - lean on OCNS contacts for sponsorship
+  - will need to lean on OCNS/INCF sponsors (OCNS has a sponsorship chair on the board)
 
 - see how much INCF ended up paying for the platforms at the Assembly (Malin will see if this info is available)
 - registration fee important to get better idea of actual attendance numbers.
