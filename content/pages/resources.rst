@@ -11,7 +11,7 @@ Please contact the maintainers of each resource to help them improve them, and p
 General
 =======
 
-- `Comp Neuro on the web <http://home.earthlink.net/~perlewitz/index.html>`__
+- `Comp Neuro on the web <https://compneuroweb.com/>`__
 - `Open computational neuroscience resources <https://github.com/asoplata/open-computational-neuroscience-resources>`__
 - `Open Neuroscience <https://open-neuroscience.com/>`__
 - `Planet neuroscience (aggregation of neuroscience journal RSS feeds) <https://neuroblog.fedoraproject.org/planet-neuroscience/>`__
