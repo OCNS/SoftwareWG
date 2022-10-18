@@ -8,6 +8,10 @@ Home
 :save_as: index.html
 :URL: index.html
 
+Next open WG event: November 3, 2022, 1600 UTC: `Dev session: Denis Alevi: Brian2CUDA <{filename}/20221018-dev-session-denis-alevi-brian2cuda.rst>`__
+
+--------
+
 Neuroscience cannot exist without the tools that we all rely on.
 So, this Working Group (WG) will focus on these.
 We will find and discuss tools, we will learn how to use them, we will test and review them, we will file bugs to inform the developers of issues, and finally we will try to learn how they work and try to get involved in their development—to ensure that these tools that we rely on remain in good shape by having communities looking after them.
