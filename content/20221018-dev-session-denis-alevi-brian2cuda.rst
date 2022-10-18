@@ -29,8 +29,8 @@ numerical integration of neuronal states and for the propagation of synaptic
 events on GPUs, making use of their massively parallel arithmetic capabilities.
 We benchmark the performance improvements of our software for several model
 types and find that it can accelerate simulations by up to three orders of
-magnitude compared to Brian’s CPU backend. Currently, Brian2CUDA is the only
-package that supports Brian’s full feature set on GPUs, including arbitrary
+magnitude compared to Brian's CPU backend. Currently, Brian2CUDA is the only
+package that supports Brian's full feature set on GPUs, including arbitrary
 neuron and synapse models, plasticity rules, and heterogeneous delays. When
 comparing its performance with Brian2GeNN, another GPU-based backend for the
 Brian simulator with fewer features, we find that Brian2CUDA gives comparable
