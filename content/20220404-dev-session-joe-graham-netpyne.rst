@@ -1,7 +1,7 @@
 Dev session: Joe Graham: NetPyNE
 #################################
 :date: 2022-04-04 18:00:00
-:modified: 2022-03-30 16:21:12
+:modified: 2022-11-07 13:50:24
 :authors: Joe Graham
 :category: Events
 :tags: NetPyNE, Dev session, Python, Neuroscience, Simulations, Analysis
@@ -27,7 +27,17 @@ Dev session: Joe Graham: NetPyNE
 `Joe Graham`_ will introduce NetPyNE_ and discuss its development in this dev session.
 
 - Date: April 4, 2022, 1600 UTC (Click `here <https://www.timeanddate.com/worldclock/fixedtime.html?msg=Dev+session%3A+Joe+Graham%3A+NetPyNE&iso=20220404T16&p1=1440>`__ to see your local time).
-- Location (Zoom): `link <https://ucl.zoom.us/j/99620419452?pwd=SkZlQnJmWWZVczNURkp2azVOZkhzUT09>`__ (login to Zoom required)
+
+.. raw:: html
+
+   </center>
+   <br />
+
+   <center>
+    <iframe width="560" height="315" style="height: 315px" src="https://www.youtube.com/embed/V3e_2OSfPsI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </center>
+   <br />
+
 
 The abstract for the talk is below:
 
