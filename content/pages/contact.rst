@@ -1,7 +1,7 @@
 Contact
 #######
 :date: 2021-02-07 19:00:14
-:modified: 2022-04-22 10:32:35
+:modified: 2023-01-05 11:36:25
 :authors: Ankur Sinha
 :slug: contact
 
@@ -26,31 +26,27 @@ Additionally, the meeting will move through the different days of the working we
 The agenda is collected on `GitHub tickets <https://github.com/OCNS/SoftwareWG/labels/C%3A%20Meeting>`__, and we meet on `Jitsi <https://meet.jit.si/moderated/27ddeaff25933944fea1937f182235d48de7c2dd59dc2f84f8eebb26a8fc07ab>`__.
 Please feel free to drop in.
 
-The meeting schedule for 2022 is:
+The meeting schedule for 2023 is:
 
-.. csv-table:: 2022 Meeting Schedule
+.. csv-table:: 2023 Meeting Schedule
    :header: "Date", "Time", "Agenda", "Notes"
    :width: 80%
    :widths: 30, 20, 25, 25
    :align: center
    :class: table table-striped table-bordered
 
-    "Monday, January 10 2022", "1700 UTC", "`Link <https://github.com/OCNS/SoftwareWG/issues/56>`__", "`Link <{filename}/20220204-wg-meeting-10-january-2022.rst>`__"
-    "Monday, February 14 2022", "0800 UTC", "`Link <https://github.com/OCNS/SoftwareWG/issues/59>`__", "`Link <{filename}/20220302-wg-meeting-14-february-2022.rst>`__"
-    "Monday, March 14 2022", "1700 UTC", "`Link <https://github.com/OCNS/SoftwareWG/issues/60>`__", "`Link <{filename}/20220401-wg-meeting-14-march-2022.rst>`__"
-    "Monday, April 11 2022", "0800 UTC", "`Link <https://github.com/OCNS/SoftwareWG/issues/65>`__", "`Link <{filename}/20220421-wg-meeting-11-april-2022.rst>`__"
-    "Monday, May 9 2022", "0800/1700 UTC", "`Link <https://github.com/OCNS/SoftwareWG/issues/90>`__", "`Link <{filename}/20220523-wg-meeting-09-may-2022.rst>`__"
-    "Tuesday, June 14 2022", "0800/1700 UTC", "`Link <https://github.com/OCNS/SoftwareWG/issues/98>`__", "`Link <{filename}/20220614-wg-meeting-14-june-2022.rst>`__"
-    "Wednesday, July 06 2022\*", "0800/1700 UTC", "`Link <https://github.com/OCNS/SoftwareWG/issues/107>`__", "`Link <{filename}/20220707-wg-meeting-06-july-2022.rst>`__"
-    "Thursday, August 11 2022", "0800/1700 UTC", "`Link <https://github.com/OCNS/SoftwareWG/issues/110>`__", "`Link <{filename}/20220822-wg-meeting-11-aug-2022.rst>`__"
-    "Monday, September 19 2022\*\*", "0800/1700 UTC", "`Link <https://github.com/OCNS/SoftwareWG/issues/111>`__", "`Link <{filename}/20220927-wg-meeting-19-september.rst>`__"
-    "Monday, October 10 2022", "0800/1700 UTC", "`Link <https://github.com/OCNS/SoftwareWG/issues/115>`__", "`Link <{filename}/20221017-wg-meeting-10-october.rst>`__"
-    "**Tuesday, November 08 2022**", "**0800/1700 UTC**", "", ""
-    "Wednesday, December 14 2022", "0800/1700 UTC", "", ""
-
-\* the July 2020 meeting was moved to the first week of July to leave the second week free for attendees to travel to CNS*2022 in Melbourne.
-
-\*\* the September meeting was moved to the third week of September to prevent clashes with the INCF Assembly and Bernstein conferences.
+    "**Monday, January 16 2023**", "**0800/1700 UTC**", "`Link <https://github.com/OCNS/SoftwareWG/issues/120>`__", ""
+    "Tuesday, February 14 2023", "0800/1700 UTC", "", ""
+    "Wednesday, March 15 2023", "0800/1700 UTC", "", ""
+    "Thursday, April 13 2023", "0800/1700 UTC", "", ""
+    "Friday, May 12 2023", "0800/1700 UTC", "", ""
+    "Monday, June 12 2023", "0800/1700 UTC", "", ""
+    "Tuesday, July 11 2023", "0800/1700 UTC", "", ""
+    "Wednesday, August 09 2023", "0800/1700 UTC", "", ""
+    "Thursday, September 14 2023", "0800/1700 UTC", "", ""
+    "Friday, October 13 2023", "0800/1700 UTC", "", ""
+    "Monday, November 06 2023", "0800/1700 UTC", "", ""
+    "Tuesday, December 12 2023", "0800/1700 UTC", "", ""
 
 .. _INCF: https://incf.org
 .. _OCNS: http://www.cnsorg.org
