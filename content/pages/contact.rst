@@ -12,8 +12,8 @@ Contact
 - Both working group chairs are also reachable at the OCNS Webmaster's e-mail address at `webmaster AT cnsorg.org`.
 - Our events are also published on `World Wide Neuro <https://www.world-wide.org/Neuro/INCF-OCNS-Software-WG/>`__.
 
-The primary mode of communication for the working group will remain on Neurostars.
-However, the regular developer sessions will be supplemented with virtual working group meetings to allow our global membership to communicate with each other.
+The primary mode of communication for the working group is via `GitHub discussions <https://github.com/OCNS/SoftwareWG/discussions>`__ and `issues <https://github.com/OCNS/SoftwareWG/issues>`__.
+To allow our global membership to communicate directly with each other, we also have regular virtual working group meetings and developer sessions, see the schedule below.
 
 Since the working group is shared by the INCF_ and OCNS_ organisations, we request that all members of the working group ensure that they are members of either of these organisations also.
 
