@@ -1,14 +1,14 @@
 Home
 #####
 :date: 2021-02-07 19:00:14
-:modified: 2021-03-05 12:42:35
+:modified: 2023-01-27 11:15:31
 :authors: Ankur Sinha
 :slug: about
 :status: hidden
 :save_as: index.html
 :URL: index.html
 
-Next open WG event: November 3, 2022, 1600 UTC: `Dev session: Denis Alevi: Brian2CUDA <{filename}/20221018-dev-session-denis-alevi-brian2cuda.rst>`__
+Next open WG event: February 7, 2023, 1600 UTC: `Software Highlight: Michalis Pagkalos: Dendrify, a framework for incorporating dendrites to spiking neural networks <{filename}/20230207-software-highlight-michalis-pagkalos-dendrify.rst>`__
 
 --------
 
