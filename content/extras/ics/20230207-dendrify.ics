@@ -1,0 +1,58 @@
+BEGIN:VCALENDAR
+PRODID:-//zoom.us//iCalendar Event//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+CLASS:PUBLIC
+BEGIN:VTIMEZONE
+TZID:Europe/London
+LAST-MODIFIED:20230104T023643Z
+TZURL:https://www.tzurl.org/zoneinfo-outlook/Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:DAYLIGHT
+TZNAME:BST
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:GMT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20230127T105923Z
+DTSTART;TZID=Europe/London:20230207T160000
+DTEND;TZID=Europe/London:20230207T170000
+SUMMARY:INCF/OCNS Software WG session: Dendrify: a new framework for seam
+ less incorporation of dendrites in Spiking Neural Networks
+UID:20230127T105923Z-91907842769@fe80:0:0:0:3b:29ff:fe1e:ce94ens5
+TZID:Europe/London
+DESCRIPTION:Ankur Sinha (he/him/his) is inviting you to a scheduled Zoom 
+ meeting.\n\nJoin Zoom Meeting\nhttps://ucl.zoom.us/j/91907842769?pwd=bnE
+ zTU9Eem9SRmthSjJIRElFZ0xwUT09\n\nMeeting ID: 919 0784 2769\nPasscode: 98
+ 8471\nOne tap mobile\n+16694449171\,\,91907842769#\,\,\,\,*988471# US\n+
+ 16699006833\,\,91907842769#\,\,\,\,*988471# US (San Jose)\n\nDial by you
+ r location\n        +1 669 444 9171 US\n        +1 669 900 6833 US (San 
+ Jose)\n        +1 689 278 1000 US\n        +1 719 359 4580 US\n        +
+ 1 929 205 6099 US (New York)\n        +1 253 205 0468 US\n        +1 253
+  215 8782 US (Tacoma)\n        +1 301 715 8592 US (Washington DC)\n     
+    +1 305 224 1968 US\n        +1 309 205 3325 US\n        +1 312 626 67
+ 99 US (Chicago)\n        +1 346 248 7799 US (Houston)\n        +1 360 20
+ 9 5623 US\n        +1 386 347 5053 US\n        +1 507 473 4847 US\n     
+    +1 564 217 2000 US\n        +1 646 931 3860 US\nMeeting ID: 919 0784 
+ 2769\nPasscode: 988471\nFind your local number: https://ucl.zoom.us/u/az
+ v1sbUeU\n\n
+LOCATION:https://ucl.zoom.us/j/91907842769?pwd=bnEzTU9Eem9SRmthSjJIRElFZ0
+ xwUT09
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
