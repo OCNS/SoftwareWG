@@ -119,5 +119,6 @@ It can also be seen `here on GitHub <https://github.com/orgs/OCNS/teams/software
 #. Morgan Hough: Center17   (`@m9h <https://github.com/m9h>`__)
 #. Mahmood Mohammadi: MSc Student of Medical Physics, Isfahan University of Medical Sciences (`@mahmood773309 <https://github.com/mahmood773309>`__)
 #. Shengyuan Cai: South University of Science and Technology of China (`@Shengyuan Cai <https://github.com/Shengyuan Cai>`__)
+#. Rahmi Elibol: Middle East Technical University (METU), Ankara, Turkey (`@rahmielibol <https://github.com/rahmielibol>`__)
 
 Please get in touch if you'd like to join the WG.
