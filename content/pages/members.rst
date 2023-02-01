@@ -11,8 +11,8 @@ Members
 The current membership is below.
 It can also be seen `here on GitHub <https://github.com/orgs/OCNS/teams/software-wg/members>`__.
 
-#. Ankur Sinha: Silver Lab: University College London & OCNS Board (Co-chair) (`sanjayankur31 <https://github.com/sanjayankur31>`__)
-#. Shailesh Appukuttan: Paris-Saclay Institute of Neuroscience: CNRS - Université Paris-Saclay, France & OCNS Board (Co-chair) (`appukuttan-shailesh <https://github.com/appukuttan-shailesh>`__)
+#. Ankur Sinha: Silver Lab: University College London (Co-chair) (`@sanjayankur31 <https://github.com/sanjayankur31>`__)
+#. Shailesh Appukuttan: Paris-Saclay Institute of Neuroscience: CNRS - Université Paris-Saclay, France & OCNS Board (Co-chair) (`@appukuttan-shailesh <https://github.com/appukuttan-shailesh>`__)
 #. Stewart Heitmann: Victor Chang Cardiac Research Institute (`@stewart-heitmann <https://github.com/stewart-heitmann>`__)
 #. Caglar Cakan: Neural Information Processing Group: TU Berlin (`@caglorithm <https://github.com/caglorithm>`__)
 #. Nikola Jajcay: Neural Information Processing Group: TU Berlin (`@jajcayn <https://github.com/jajcayn>`__)
@@ -49,7 +49,7 @@ It can also be seen `here on GitHub <https://github.com/orgs/OCNS/teams/software
 #. Pooja Babu: Forschungszentrum Juelich (`@pnbabu <https://github.com/pnbabu>`__)
 #. Erick Olivares: UTSA (`@eolivaresb <https://github.com/eolivaresb>`__)
 #. Kexin Chen: University of California, Irvine (`@kexinchenn <https://github.com/kexinchenn>`__)
-#. Chitaranjan Mahapatra: CRNS/Paris Saclay Institute of Neuroscience (`@https://github.com/cmahapatra97 <https://github.com/https://github.com/cmahapatra97>`__)
+#. Chitaranjan Mahapatra: CRNS/Paris Saclay Institute of Neuroscience (`@cmahapatra97 <https://github.com/https://github.com/cmahapatra97>`__)
 #. Kerem Kurban: Blue Brain Project (`@KeremKurban <https://github.com/KeremKurban>`__)
 #. Sahana Murali: TN Dr MGR Medical University (`@sahanamurali1998@gmail.com <https://github.com/sahanamurali1998@gmail.com>`__)
 #. Suvarna Rekha: Jagillonian University  (`@SRC <https://github.com/SRC>`__)
