@@ -35,7 +35,7 @@ The meeting schedule for 2023 is:
    :align: center
    :class: table table-striped table-bordered
 
-    "**Monday, January 16 2023**", "**0800/1700 UTC**", "`Link <https://github.com/OCNS/SoftwareWG/issues/120>`__", ""
+    "**Monday, January 16 2023**", "**0800/1700 UTC**", "`Link <https://github.com/OCNS/SoftwareWG/issues/120>`__", "`Link <{filename}/20230116-wg-meeting-16-january.rst>`__"
     "Tuesday, February 14 2023", "0800/1700 UTC", "", ""
     "Wednesday, March 15 2023", "0800/1700 UTC", "", ""
     "Thursday, April 13 2023", "0800/1700 UTC", "", ""
