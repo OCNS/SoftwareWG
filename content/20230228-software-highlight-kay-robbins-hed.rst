@@ -12,7 +12,7 @@ Software highlight: Kay Robbins: HED (Hierarchical Event Descriptors)
 `Kay Robbins`_ will introduce and discuss HED, a practical system for describing an experiment using an analysis-ready framework.
 
 
-- Date: February 28 1600 UTC (Click `here <https://www.timeanddate.com/worldclock/fixedtime.html?msg=Software+Highlight%3A+Kay+Robbins%3A+HED&iso=20230228T16&p1=1440>`__ to see your local time) (`Add to calendar <{static}/extras/ics/20230228-kay-robbins-hed.ics>`__).
+- Date: February 28, 2023, 1600 UTC (Click `here <https://www.timeanddate.com/worldclock/fixedtime.html?msg=Software+Highlight%3A+Kay+Robbins%3A+HED&iso=20230228T16&p1=1440>`__ to see your local time) (`Add to calendar <{static}/extras/ics/20230228-kay-robbins-hed.ics>`__).
 - Zoom (`link <https://ucl.zoom.us/j/99321986413?pwd=OUdFTlJ3NVloUmJ1U0Q3WE9vRERMZz09>`__)
 
 .. raw:: html
@@ -31,8 +31,8 @@ Software highlight: Kay Robbins: HED (Hierarchical Event Descriptors)
 
 
 In human neuroimaging experiments, a record of what a participant experiences together with a clear understanding of the participant (task) intent are key to interpreting recorded brain dynamics.
-HED (Hierarchical Event Descriptors, hedtags.org) annotations and supporting infrastructure can provide human-understandable machine-actionable descriptions of events experienced during laboratory and/or real-world time series recordings.
-HED, which is well-integrated into BIDS (Brain Imaging Data Structure) has an ecosystem of tools supporting researchers at various stages including data acquisition, annotation, sharing, and analysis.
+HED (Hierarchical Event Descriptors, https://www.hedtags.org) annotations and supporting infrastructure can provide human-understandable machine-actionable descriptions of events experienced during laboratory and/or real-world time series recordings.
+HED, which is well-integrated into BIDS (`Brain Imaging Data Structure <https://bids.neuroimaging.io/>`__) has an ecosystem of tools supporting researchers at various stages including data acquisition, annotation, sharing, and analysis.
 This talk will describe HED principles, focusing on basic representations of an experiment and its design.
 Various tools in the HED ecosystem to support search, summary and analysis will be introduced and demonstrated.
 Finally, we'll discuss how tool developers can leverage the HED infrastructure to build advanced analysis tools capable of automated analysis in support of machine learning.
@@ -40,7 +40,7 @@ HED is an entirely open-source project, and the HED Working Group welcomes contr
 
 Papers and resources:
 
-- the nature of events and event context using Hierarchical Event Descriptors (HED). NeuroImage. `Link <https://www.sciencedirect.com/science/article/pii/S1053811921010387>`__,
+- Capturing the nature of events and event context using Hierarchical Event Descriptors (HED). NeuroImage. `Link <https://www.sciencedirect.com/science/article/pii/S1053811921010387>`__,
 - Building FAIR functionality: Annotating events in time series data using Hierarchical Event Descriptors (HED). Neuroinformatics. `Link <https://link.springer.com/article/10.1007/s12021-021-09537-4>`__.
 
 - Resources: https://www.hed-resources.org
