@@ -8,7 +8,7 @@ Home
 :save_as: index.html
 :URL: index.html
 
-Next open WG event: February 7, 2023, 1600 UTC: `Software Highlight: Michalis Pagkalos: Dendrify, a framework for incorporating dendrites to spiking neural networks <{filename}/20230207-software-highlight-michalis-pagkalos-dendrify.rst>`__
+Next open WG event: February 28, 2023, 1600 UTC: `Software Highlight: Kay Robbins: HED (Hierarchical Event Descriptors) <{filename}/20230228-software-highlight-kay-robbins-hed.rst>`__
 
 --------
 
