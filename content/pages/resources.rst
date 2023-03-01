@@ -11,6 +11,7 @@ Please contact the maintainers of each resource to help them improve them, and p
 General
 =======
 
+- `Software WG on the INCF Training space <https://training.incf.org/course/incfocns-working-group-computational-neuroscience-software>`__
 - `Comp Neuro on the web <https://compneuroweb.com/>`__
 - `Open computational neuroscience resources <https://github.com/asoplata/open-computational-neuroscience-resources>`__
 - `Open Neuroscience <https://open-neuroscience.com/>`__
