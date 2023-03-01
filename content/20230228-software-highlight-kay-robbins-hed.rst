@@ -12,8 +12,8 @@ Software highlight: Kay Robbins: HED (Hierarchical Event Descriptors)
 `Kay Robbins`_ will introduce and discuss HED, a practical system for describing an experiment using an analysis-ready framework.
 
 
-- Date: February 28, 2023, 1600 UTC (Click `here <https://www.timeanddate.com/worldclock/fixedtime.html?msg=Software+Highlight%3A+Kay+Robbins%3A+HED&iso=20230228T16&p1=1440>`__ to see your local time) (`Add to calendar <{static}/extras/ics/20230228-kay-robbins-hed.ics>`__).
-- Zoom (`link <https://ucl.zoom.us/j/99321986413?pwd=OUdFTlJ3NVloUmJ1U0Q3WE9vRERMZz09>`__)
+- Zoom (`recordings <https://ucl.zoom.us/rec/share/h-tszrMXevUhADQHl9CGwgP08ofJ77vmvFchUjrGZunm6MZB4F1txnUvuIXPAU2l.EiVd5lEKg7r-bh2M>`__)
+- `Slides <{static}/extras/other/INCF2023_SoftwareHighlightsFinal.pptx>`__
 
 .. raw:: html
 
