@@ -12,8 +12,7 @@ Software highlight: Michalis Pagkalos: Dendrify
 `Michalis Pagkalos`_ will introduce and discuss Dendrify_, a framework for incorporating dendrites to spiking neural networks, in this session.
 
 
-- Date: February 7, 1600 UTC (Click `here <https://www.timeanddate.com/worldclock/fixedtime.html?msg=Software+Highlight%3A+Michalis+Pagkalos%3A+Dendrify&iso=20230207T16&p1=1440>`__ to see your local time) (`Add to calendar <{filename}/extras/ics/20230207-dendrify.ics>`__).
-- Zoom (`link <https://ucl.zoom.us/j/91907842769?pwd=bnEzTU9Eem9SRmthSjJIRElFZ0xwUT09>`__)
+- Zoom (`recordings <https://ucl.zoom.us/rec/share/tEgyFcXjPflMGLmSclnH5p-qKGyjJ_4IdRdxF70wJPiN_T6dZQtmLXxnvYbKn6L3.tzGYABjJOHer90o4>`__)
 
 .. raw:: html
 
