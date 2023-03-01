@@ -5,14 +5,29 @@ Members
 :authors: Ankur Sinha
 :slug: members
 
-
 **The WG is open to everyone: without any formal on-boarding process or requirements (academic or otherwise)**.
+
+Code of Conduct
+===============
+
+All interactions on **any** channels of the WG must adhere to the `Code of Conduct <https://www.cnsorg.org/code-of-conduct>`__.
+
+Enforcement
+------------
+
+If you experience or become aware of any behaviour that does not adhere to the Code of Conduct, please assume good faith and point the involved parties to the Code of Conduct to begin with.
+It is more likely that they are unaware of their harmful behaviour rather than that they intentionally engage in it.
+Should difficulties arise, please report the situation to the co-chairs (e-mail addresses in the next section).
+
+
+Membership
+==========
 
 The current membership is below.
 It can also be seen `here on GitHub <https://github.com/orgs/OCNS/teams/software-wg/members>`__.
 
-#. Ankur Sinha: Silver Lab: University College London (Co-chair) (`@sanjayankur31 <https://github.com/sanjayankur31>`__)
-#. Shailesh Appukuttan: Paris-Saclay Institute of Neuroscience: CNRS - Université Paris-Saclay, France & OCNS Board (Co-chair) (`@appukuttan-shailesh <https://github.com/appukuttan-shailesh>`__)
+#. Ankur Sinha: Silver Lab: University College London (Co-chair) (`@sanjayankur31 <https://github.com/sanjayankur31>`__, `ankur DOT sinha AT ucl DOT ac DOT uk`)
+#. Shailesh Appukuttan: Paris-Saclay Institute of Neuroscience: CNRS - Université Paris-Saclay, France & OCNS Board (Co-chair) (`@appukuttan-shailesh <https://github.com/appukuttan-shailesh>`__, `appukuttan DOT shailesh AT gmail DOT com`)
 #. Stewart Heitmann: Victor Chang Cardiac Research Institute (`@stewart-heitmann <https://github.com/stewart-heitmann>`__)
 #. Caglar Cakan: Neural Information Processing Group: TU Berlin (`@caglorithm <https://github.com/caglorithm>`__)
 #. Nikola Jajcay: Neural Information Processing Group: TU Berlin (`@jajcayn <https://github.com/jajcayn>`__)
@@ -122,3 +137,4 @@ It can also be seen `here on GitHub <https://github.com/orgs/OCNS/teams/software
 #. Rahmi Elibol: Middle East Technical University (METU), Ankara, Turkey (`@rahmielibol <https://github.com/rahmielibol>`__)
 
 Please get in touch if you'd like to join the WG.
+
