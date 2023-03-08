@@ -27,7 +27,7 @@ WG meeting 16 January 2023
 
 
 These are the meeting logs (and additional progress notes) from the Software WG meeting that was held on 16th January 2023.
-The next progress meeting will be held `in November <{filename}/pages/contact.rst>`__.
+The next progress meeting will be held `in February <{filename}/pages/contact.rst>`__.
 For any clarifications and suggestions, please open a new ticket.
 
 Attendees
