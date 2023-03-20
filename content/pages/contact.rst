@@ -37,8 +37,8 @@ The meeting schedule for 2023 is:
 
     "Monday, January 16 2023", "0800/1700 UTC", "`Link <https://github.com/OCNS/SoftwareWG/issues/120>`__", "`Link <{filename}/20230116-wg-meeting-16-january.rst>`__"
     "Tuesday, February 14 2023", "0800/1700 UTC", "`Link <https://github.com/OCNS/SoftwareWG/issues/126>`__", "`Link <{filename}/20230308-wg-meeting-14-february.rst>`__"
-    "**Wednesday, March 15 2023**", "**0800/1700 UTC**", "", ""
-    "Thursday, April 13 2023", "0800/1700 UTC", "", ""
+    "Wednesday, March 15 2023", "0800/1700 UTC", "`Link <https://github.com/OCNS/SoftwareWG/issues/128>`__", "`Link <{filename}/20230320-wg-meeting-15-march.rst>`__"
+    "**Thursday, April 13 2023**", "**0800/1700 UTC**", "", ""
     "Friday, May 12 2023", "0800/1700 UTC", "", ""
     "Monday, June 12 2023", "0800/1700 UTC", "", ""
     "Tuesday, July 11 2023", "0800/1700 UTC", "", ""
