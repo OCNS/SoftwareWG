@@ -27,7 +27,8 @@ The current membership is below.
 It can also be seen `here on GitHub <https://github.com/orgs/OCNS/teams/software-wg/members>`__.
 
 #. Ankur Sinha: Silver Lab: University College London (Co-chair) (`@sanjayankur31 <https://github.com/sanjayankur31>`__, `ankur DOT sinha AT ucl DOT ac DOT uk`)
-#. Shailesh Appukuttan: Paris-Saclay Institute of Neuroscience: CNRS - Université Paris-Saclay, France & OCNS Board (Co-chair) (`@appukuttan-shailesh <https://github.com/appukuttan-shailesh>`__, `appukuttan DOT shailesh AT gmail DOT com`)
+#. Marcel Stimberg: Institut de la Vision/Sorbonne Université Paris (Co-chair) (`@mstimberg <https://github.com/mstimberg>`__, `marcel DOT stimberg AT inserm DOT fr`)
+#. Shailesh Appukuttan: Paris-Saclay Institute of Neuroscience: CNRS - Université Paris-Saclay, France & OCNS Board (`@appukuttan-shailesh <https://github.com/appukuttan-shailesh>`__)
 #. Stewart Heitmann: Victor Chang Cardiac Research Institute (`@stewart-heitmann <https://github.com/stewart-heitmann>`__)
 #. Caglar Cakan: Neural Information Processing Group: TU Berlin (`@caglorithm <https://github.com/caglorithm>`__)
 #. Nikola Jajcay: Neural Information Processing Group: TU Berlin (`@jajcayn <https://github.com/jajcayn>`__)
@@ -37,7 +38,6 @@ It can also be seen `here on GitHub <https://github.com/orgs/OCNS/teams/software
 #. Amelie Aussel: Boston University
 #. Robert A McDougal: Yale University (`@ramcdougal <https://github.com/ramcdougal>`__)
 #. Brent Huisman: Forschungszentrum Jülich, Germany (`@brenthuisman <https://github.com/brenthuisman>`__)
-#. Marcel Stimberg: Institut de la Vision/Sorbonne Université Paris (`@mstimberg <https://github.com/mstimberg>`__)
 #. Malin Sandström: INCF & OCNS Board (`@malinINCF <https://github.com/malinINCF>`__)
 #. Daniele Avitabile: VU Amsterdam (`@danieleavitabile <https://github.com/danieleavitabile>`__)
 #. Joe Graham: SUNY Downstate Medical Center (`@joewgraham <https://github.com/joewgraham>`__)
