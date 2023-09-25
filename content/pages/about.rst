@@ -8,7 +8,7 @@ Home
 :save_as: index.html
 :URL: index.html
 
-Next open WG event: February 28, 2023, 1600 UTC: `Software Highlight: Kay Robbins: HED (Hierarchical Event Descriptors) <{filename}/20230228-software-highlight-kay-robbins-hed.rst>`__
+Next open WG event: October 09, 2023, 0800/1700 UTC: `Open Monthly Software WG meeting <https://github.com/OCNS/SoftwareWG/issues/137>`__
 
 --------
 

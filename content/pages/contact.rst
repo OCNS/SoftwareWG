@@ -1,7 +1,7 @@
 Contact
 #######
 :date: 2021-02-07 19:00:14
-:modified: 2023-01-05 11:36:25
+:modified: 2023-09-25 11:32:35
 :authors: Ankur Sinha
 :slug: contact
 
@@ -38,15 +38,10 @@ The meeting schedule for 2023 is:
     "Monday, January 16 2023", "0800/1700 UTC", "`Link <https://github.com/OCNS/SoftwareWG/issues/120>`__", "`Link <{filename}/20230116-wg-meeting-16-january.rst>`__"
     "Tuesday, February 14 2023", "0800/1700 UTC", "`Link <https://github.com/OCNS/SoftwareWG/issues/126>`__", "`Link <{filename}/20230308-wg-meeting-14-february.rst>`__"
     "Wednesday, March 15 2023", "0800/1700 UTC", "`Link <https://github.com/OCNS/SoftwareWG/issues/128>`__", "`Link <{filename}/20230320-wg-meeting-15-march.rst>`__"
-    "**Friday, April 21 2023**", "**0800/1700 UTC**", "`Link <https://github.com/OCNS/SoftwareWG/issues/130>`__", ""
-    "Friday, May 12 2023", "0800/1700 UTC", "", ""
-    "Monday, June 12 2023", "0800/1700 UTC", "", ""
-    "Tuesday, July 11 2023", "0800/1700 UTC", "", ""
-    "Wednesday, August 09 2023", "0800/1700 UTC", "", ""
-    "Thursday, September 14 2023", "0800/1700 UTC", "", ""
-    "Friday, October 13 2023", "0800/1700 UTC", "", ""
-    "Monday, November 06 2023", "0800/1700 UTC", "", ""
-    "Tuesday, December 12 2023", "0800/1700 UTC", "", ""
+    "Friday, April 21 2023", "0800/1700 UTC", "`Link <https://github.com/OCNS/SoftwareWG/issues/130>`__", "`Link <{filename}/20230421-wg-meeting-21-april.rst>`__"
+    "**Monday, October 09 2023**", "**0800/1700 UTC**", "`Link <https://github.com/OCNS/SoftwareWG/issues/137>`__", ""
+    "Tuesday, November 14 2023", "0800/1700 UTC", "", ""
+    "Wednesday, December 13 2023", "0800/1700 UTC", "", ""
 
 .. _INCF: https://incf.org
 .. _OCNS: http://www.cnsorg.org
