@@ -39,8 +39,8 @@ The meeting schedule for 2023 is:
     "Tuesday, February 14 2023", "0800/1700 UTC", "`Link <https://github.com/OCNS/SoftwareWG/issues/126>`__", "`Link <{filename}/20230308-wg-meeting-14-february.rst>`__"
     "Wednesday, March 15 2023", "0800/1700 UTC", "`Link <https://github.com/OCNS/SoftwareWG/issues/128>`__", "`Link <{filename}/20230320-wg-meeting-15-march.rst>`__"
     "Friday, April 21 2023", "0800/1700 UTC", "`Link <https://github.com/OCNS/SoftwareWG/issues/130>`__", "`Link <{filename}/20230421-wg-meeting-21-april.rst>`__"
-    "**Monday, October 09 2023**", "**0800/1700 UTC**", "`Link <https://github.com/OCNS/SoftwareWG/issues/137>`__", ""
-    "Tuesday, November 14 2023", "0800/1700 UTC", "", ""
+    "Monday, October 09 2023", "0800/1700 UTC", "`Link <https://github.com/OCNS/SoftwareWG/issues/137>`__", "`Link <{filename}/20231009-wg-meeting-09-october.rst>`__"
+    "**Tuesday, November 14 2023**", "**0800/1700 UTC**", "", ""
     "Wednesday, December 13 2023", "0800/1700 UTC", "", ""
 
 .. _INCF: https://incf.org
