@@ -28,7 +28,6 @@ Please see the `contacts <{filename}/pages/contact.rst#meetings>`__ page more in
 
 
 The WG is designed to not be linked to any one particular goal to allow it remain flexible enough so that it can take on projects that its members are interested in working on.
-Currently, the goals of the WG are to:
 
 .. _INCF: https://incf.org
 .. _OCNS: http://www.cnsorg.org
