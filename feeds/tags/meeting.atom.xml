@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>INCF/OCNS Software WG - Meeting</title><link href="https://ocns.github.io/SoftwareWG/" rel="alternate"></link><link href="https://ocns.github.io/SoftwareWG/feeds/tags/meeting.atom.xml" rel="self"></link><id>https://ocns.github.io/SoftwareWG/</id><updated>2021-05-10T11:27:23+01:00</updated><subtitle>The INCF/OCNS Software Working Group</subtitle><entry><title>Next WG meeting: 12 May at 1200 UTC</title><link href="https://ocns.github.io/SoftwareWG/2021/05/10/next-wg-meeting-12-may-at-1200-utc.html" rel="alternate"></link><published>2021-05-10T11:27:23+01:00</published><updated>2021-05-10T11:27:23+01:00</updated><author><name>Ankur Sinha</name></author><id>tag:ocns.github.io,2021-05-10:/SoftwareWG/2021/05/10/next-wg-meeting-12-may-at-1200-utc.html</id><summary type="html">&lt;p class="first last"&gt;Join us for the next &lt;span class="caps"&gt;WG&lt;/span&gt; community meeting on 12th May at 1200 &lt;span class="caps"&gt;UTC&lt;/span&gt;. Details on the agenda and meeting link in the&amp;nbsp;post.&lt;/p&gt;
+</summary><content type="html">&lt;center&gt;&lt;div class="figure"&gt;
+&lt;a class="reference external image-reference" href="#"&gt;&lt;img alt="Photo by Daria Nepriakhina on Unsplash" class="img-responsive" src="https://ocns.github.io/SoftwareWG/images/20210107-meeting-logs.jpg" style="width: 40%;" /&gt;&lt;/a&gt;
+&lt;p class="caption"&gt;Photo by &lt;a class="reference external" href="https://unsplash.com/&amp;#64;epicantus?utm_source=unsplash&amp;amp;amp;utm_medium=referral&amp;amp;amp;utm_content=creditCopyText"&gt;Daria Nepriakhina&lt;/a&gt; on&amp;nbsp;Unsplash.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/center&gt;
+&lt;br /&gt;&lt;p&gt;The next open community meeting for the working group will be at 1200 &lt;span class="caps"&gt;UTC&lt;/span&gt; on 12th May, 2021.
+The primary agenda for this meeting is to plan what tutorials the working group intends to undertake at &lt;a class="reference external" href="https://www.cnsorg.org/cns-2021"&gt;&lt;span class="caps"&gt;CNS&lt;/span&gt;*2021&lt;/a&gt;  in July.
+Please join us via &lt;a class="reference external" href="https://ucl.zoom.us/j/99747284861?pwd=c1VpZ1ZhdzRha3lPdXErU3pYZG8zZz09"&gt;Zoom&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You can see the local time for the meeting using &lt;a class="reference external" href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Software+WG+Meeting&amp;amp;iso=20210512T12&amp;amp;p1=1440&amp;amp;ah=1"&gt;this link&lt;/a&gt;.
+On Linux style systems, you can also use this command in the&amp;nbsp;terminal:&lt;/p&gt;
+&lt;pre class="code bash literal-block"&gt;
+date&lt;span class="w"&gt; &lt;/span&gt;--date&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s1"&gt;'TZ=&amp;quot;UTC&amp;quot; 1200 this wednesday'&lt;/span&gt;
+&lt;/pre&gt;
+&lt;p&gt;We hope to see you&amp;nbsp;there.&lt;/p&gt;
+</content><category term="Events"></category><category term="Computational Neuroscience"></category><category term="Meeting"></category><category term="Community"></category><category term="CNS2021Online"></category></entry></feed>

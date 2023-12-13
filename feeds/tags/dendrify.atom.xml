@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>INCF/OCNS Software WG - Dendrify</title><link href="https://ocns.github.io/SoftwareWG/" rel="alternate"></link><link href="https://ocns.github.io/SoftwareWG/feeds/tags/dendrify.atom.xml" rel="self"></link><id>https://ocns.github.io/SoftwareWG/</id><updated>2023-01-27T11:01:32+00:00</updated><subtitle>The INCF/OCNS Software Working Group</subtitle><entry><title>Software highlight: Michalis Pagkalos: Dendrify</title><link href="https://ocns.github.io/SoftwareWG/2023/01/27/dev-session-michalis-pagkalos-dendrify.html" rel="alternate"></link><published>2023-01-27T11:01:32+00:00</published><updated>2023-01-27T11:01:32+00:00</updated><author><name>Ankur Sinha</name></author><id>tag:ocns.github.io,2023-01-27:/SoftwareWG/2023/01/27/dev-session-michalis-pagkalos-dendrify.html</id><summary type="html">&lt;p class="first last"&gt;&lt;a class="reference external" href="https://dendrites.gr/?page_id=265"&gt;Michalis Pagkalos&lt;/a&gt; will introduce and discuss &lt;a class="reference external" href="https://github.com/Poirazi-Lab/dendrify"&gt;Dendrify&lt;/a&gt;, a framework for incorporating dendrites to spiking neural networks, in this&amp;nbsp;session.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;&lt;a class="reference external" href="https://dendrites.gr/?page_id=265"&gt;Michalis Pagkalos&lt;/a&gt; will introduce and discuss &lt;a class="reference external" href="https://github.com/Poirazi-Lab/dendrify"&gt;Dendrify&lt;/a&gt;, a framework for incorporating dendrites to spiking neural networks, in this&amp;nbsp;session.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Zoom (&lt;a class="reference external" href="https://ucl.zoom.us/rec/share/tEgyFcXjPflMGLmSclnH5p-qKGyjJ_4IdRdxF70wJPiN_T6dZQtmLXxnvYbKn6L3.tzGYABjJOHer90o4"&gt;recordings&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!--
+
+&lt;/center&gt;
+&lt;br /&gt;
+
+&lt;center&gt;
+ &lt;iframe width="560" height="315" style="height: 315px" src="https://www.youtube.com/embed/V3e_2OSfPsI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/center&gt;
+&lt;br /&gt;
+
+--&gt;&lt;p&gt;The abstract for the talk is&amp;nbsp;below:&lt;/p&gt;
+&lt;p&gt;Current SNNs studies frequently ignore dendrites, the thin membranous extensions of biological neurons that receive and preprocess nearly all synaptic inputs in the brain.
+However, decades of experimental and theoretical research suggest that dendrites possess compelling computational capabilities that greatly influence neuronal and circuit functions.
+Notably, standard point-neuron networks cannot adequately capture most hallmark dendritic properties.
+Meanwhile, biophysically detailed neuron models can be suboptimal for practical applications due to their complexity, and high computational cost.
+For this reason, we introduce Dendrify, a new theoretical framework combined with an open-source Python package (compatible with Brian2) that facilitates the development of bioinspired SNNs. Dendrify allows the creation of reduced compartmental neuron models with simplified yet biologically relevant dendritic and synaptic integrative properties.
+Such models strike a good balance between flexibility, performance, and biological accuracy, allowing us to explore dendritic contributions to network-level functions while paving the way for developing more realistic neuromorphic&amp;nbsp;systems.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Manuscript: &lt;a class="reference external" href="https://www.nature.com/articles/s41467-022-35747-8"&gt;Introducing the Dendrify framework for incorporating dendrites to spiking neural networks | Nature&amp;nbsp;Communications&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Source code: &lt;a class="reference external" href="https://github.com/Poirazi-Lab/dendrify"&gt;Poirazi-Lab/dendrify: Introducing dendrites to spiking neural networks. Designed for the Brian 2&amp;nbsp;simulator.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Documentation: &lt;a class="reference external" href="https://dendrify.readthedocs.io/en/latest/"&gt;https://dendrify.readthedocs.io/en/latest/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content><category term="Events"></category><category term="Dendrify"></category><category term="Software highlight"></category><category term="Neuroscience"></category><category term="Simulations"></category><category term="Analysis"></category><category term="Brian"></category></entry></feed>
