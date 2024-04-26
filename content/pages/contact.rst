@@ -20,7 +20,7 @@ Since the working group is shared by the INCF_ and OCNS_ organisations, we reque
 Meetings
 --------
 
-In 2024, the working group will meet regularly in the second Tuesday of each month at 1600 UTC.
+In 2024, the working group will meet regularly in the second Tuesday of each month at 1500/1600 UTC (depending on DST).
 The agenda is collected on `GitHub tickets <https://github.com/OCNS/SoftwareWG/labels/C%3A%20Meeting>`__.
 Please feel free to drop in.
 
