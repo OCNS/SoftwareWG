@@ -20,28 +20,27 @@ Since the working group is shared by the INCF_ and OCNS_ organisations, we reque
 Meetings
 --------
 
-From January 2022, the working group will meet regularly in the second week of each month.
-To allow members from different time zones to attend, the meeting will be held at both 0800 UTC and 1700 UTC with members attending whichever *one* slot suits them better.
-Additionally, the meeting will move through the different days of the working week to allow members with long standing work meetings to attend (see `this ticket <https://github.com/OCNS/SoftwareWG/issues/66>`__ for a discussion on meeting times).
-The agenda is collected on `GitHub tickets <https://github.com/OCNS/SoftwareWG/labels/C%3A%20Meeting>`__, and we meet on `Jitsi <https://meet.jit.si/moderated/27ddeaff25933944fea1937f182235d48de7c2dd59dc2f84f8eebb26a8fc07ab>`__.
+In 2024, the working group will meet regularly in the second Tuesday of each month at 1600 UTC.
+The agenda is collected on `GitHub tickets <https://github.com/OCNS/SoftwareWG/labels/C%3A%20Meeting>`__.
 Please feel free to drop in.
 
-The meeting schedule for 2023 is:
+The meeting schedule for 2024 is:
 
-.. csv-table:: 2023 Meeting Schedule
+.. csv-table:: 2024 Meeting Schedule
    :header: "Date", "Time", "Agenda", "Notes"
    :width: 80%
    :widths: 30, 20, 25, 25
    :align: center
    :class: table table-striped table-bordered
 
-    "Monday, January 16 2023", "0800/1700 UTC", "`Link <https://github.com/OCNS/SoftwareWG/issues/120>`__", "`Link <{filename}/20230116-wg-meeting-16-january.rst>`__"
-    "Tuesday, February 14 2023", "0800/1700 UTC", "`Link <https://github.com/OCNS/SoftwareWG/issues/126>`__", "`Link <{filename}/20230308-wg-meeting-14-february.rst>`__"
-    "Wednesday, March 15 2023", "0800/1700 UTC", "`Link <https://github.com/OCNS/SoftwareWG/issues/128>`__", "`Link <{filename}/20230320-wg-meeting-15-march.rst>`__"
-    "Friday, April 21 2023", "0800/1700 UTC", "`Link <https://github.com/OCNS/SoftwareWG/issues/130>`__", "`Link <{filename}/20230421-wg-meeting-21-april.rst>`__"
-    "Monday, October 09 2023", "0800/1700 UTC", "`Link <https://github.com/OCNS/SoftwareWG/issues/137>`__", "`Link <{filename}/20231009-wg-meeting-09-october.rst>`__"
-    "**Tuesday, November 14 2023**", "**0800/1700 UTC**", "", ""
-    "Wednesday, December 13 2023", "0800/1700 UTC", "", ""
+    "**Tuesday, May 14 2024**", "**1600 UTC**", "", ""
+    "Tuesday, June 11 2024", "1600 UTC", "", ""
+    "Tuesday, July 09 2024", "1600 UTC", "", ""
+    "Tuesday, August 13 2024", "1600 UTC", "", ""
+    "Tuesday, September 10 2024", "1600 UTC", "", ""
+    "Tuesday, October 08 2024", "1600 UTC", "", ""
+    "Tuesday, November 12 2024", "1600 UTC", "", ""
+    "Wednesday, December 10 2024", "1600 UTC", "", ""
 
 .. _INCF: https://incf.org
 .. _OCNS: http://www.cnsorg.org
