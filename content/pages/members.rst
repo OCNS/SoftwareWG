@@ -135,6 +135,8 @@ It can also be seen `here on GitHub <https://github.com/orgs/OCNS/teams/software
 #. Mahmood Mohammadi: MSc Student of Medical Physics, Isfahan University of Medical Sciences (`@mahmood773309 <https://github.com/mahmood773309>`__)
 #. Shengyuan Cai: South University of Science and Technology of China (`@Shengyuan Cai <https://github.com/Shengyuan Cai>`__)
 #. Rahmi Elibol: Middle East Technical University (METU), Ankara, Turkey (`@rahmielibol <https://github.com/rahmielibol>`__)
+#. Mitchell Hodgson: Flinders University (`@MitchDH <https://github.com/MitchDH>`__)
+#. Muhammad Farhan: Khalid: Research Assistant at Lahore University of Management Sciences (`@imeMFK01 <https://github.com/imeMFK01>`__)
 
 Please get in touch if you'd like to join the WG.
 
