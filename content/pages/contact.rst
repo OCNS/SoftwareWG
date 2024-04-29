@@ -21,6 +21,7 @@ Meetings
 --------
 
 In 2024, the working group will meet regularly in the second Tuesday of each month at 1500/1600 UTC (depending on DST).
+(`Click here to add to your calendar <{filename}/extras/ics/2024-SoftwareWG-zoom.ics>`__. Note: to prevent spamming/trolling, you must be logged into Zoom.)
 The agenda is collected on `GitHub tickets <https://github.com/OCNS/SoftwareWG/labels/C%3A%20Meeting>`__.
 Please feel free to drop in.
 
