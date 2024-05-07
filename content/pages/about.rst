@@ -8,7 +8,7 @@ Home
 :save_as: index.html
 :URL: index.html
 
-Next open WG event: October 09, 2023, 0800/1700 UTC: `Open Monthly Software WG meeting <https://github.com/OCNS/SoftwareWG/issues/137>`__
+Next open WG event: May 14, 2024, 1500 UTC: `Open Monthly Software WG meeting: SpikeInterface (Pierre Yger) <{filename}/20240507-wg-meeting-14-may-2024-spikeinterface-pierre-yger-.rst>`__
 
 --------
 
