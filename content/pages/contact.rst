@@ -21,7 +21,8 @@ Meetings
 --------
 
 In 2024, the working group will meet regularly in the second Tuesday of each month at 1500/1600 UTC (depending on DST).
-(`Click here to add to your calendar <{filename}/extras/ics/2024-SoftwareWG-zoom.ics>`__. Note: to prevent spamming/trolling, you must be logged into Zoom.)
+Please `click here to subscribe to the event calendar <https://calendar.google.com/calendar/u/0?cid=MGFlMjA3NTg4ZDVlOGM2NDIzYmQzZDcxYTE2MjdiMGQwM2M0YmIwNDdiYWExYmM5MmE5ZDYyZjU2ZmM5Yzc1YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t>`__.
+Note: to prevent spamming/trolling, you must be logged into Zoom.
 The agenda is collected on `GitHub tickets <https://github.com/OCNS/SoftwareWG/labels/C%3A%20Meeting>`__.
 Please feel free to drop in.
 
@@ -34,14 +35,14 @@ The meeting schedule for 2024 is:
    :align: center
    :class: table table-striped table-bordered
 
-    "**Tuesday, May 14 2024**", "**1600 UTC**", "", ""
-    "Tuesday, June 11 2024", "1600 UTC", "", ""
-    "Tuesday, July 09 2024", "1600 UTC", "", ""
-    "Tuesday, August 13 2024", "1600 UTC", "", ""
-    "Tuesday, September 10 2024", "1600 UTC", "", ""
-    "Tuesday, October 08 2024", "1600 UTC", "", ""
-    "Tuesday, November 12 2024", "1600 UTC", "", ""
-    "Wednesday, December 10 2024", "1600 UTC", "", ""
+    "**Tuesday, May 14 2024**", "**1500 UTC**", "", ""
+    "Tuesday, June 11 2024", "1500 UTC", "", ""
+    "Tuesday, July 09 2024", "1500 UTC", "", ""
+    "Tuesday, August 13 2024", "1500 UTC", "", ""
+    "Tuesday, September 10 2024", "1500 UTC", "", ""
+    "Tuesday, October 08 2024", "1500 UTC", "", ""
+    "Tuesday, November 12 2024", "1500 UTC", "", ""
+    "Wednesday, December 10 2024", "1500 UTC", "", ""
 
 .. _INCF: https://incf.org
 .. _OCNS: http://www.cnsorg.org
