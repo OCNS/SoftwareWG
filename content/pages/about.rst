@@ -1,14 +1,14 @@
 Home
 #####
 :date: 2021-02-07 19:00:14
-:modified: 2023-07-18 10:33:02
+:modified: 2024-06-26 11:52:51
 :authors: Ankur Sinha
 :slug: about
 :status: hidden
 :save_as: index.html
 :URL: index.html
 
-Next open WG event: May 14, 2024, 1500 UTC: `Open Monthly Software WG meeting: SpikeInterface (Pierre Yger) <{filename}/20240507-wg-meeting-14-may-2024-spikeinterface-pierre-yger-.rst>`__
+Next open WG event: July 09, 2024, 1500 UTC: `Open Monthly Software WG meeting: Software Tools for Systems Neuroscience (Adam Tyson) <{filename}/20240626-wg-meeting-9-july-2024-software-tools-for-systems-neuroscience-adam-tyson-.rst>`__
 
 --------
 

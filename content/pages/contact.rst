@@ -21,8 +21,9 @@ Meetings
 --------
 
 In 2024, the working group will meet regularly in the second Tuesday of each month at 1500/1600 UTC (depending on DST).
-Please `click here to subscribe to the event calendar <https://calendar.google.com/calendar/u/0?cid=MGFlMjA3NTg4ZDVlOGM2NDIzYmQzZDcxYTE2MjdiMGQwM2M0YmIwNDdiYWExYmM5MmE5ZDYyZjU2ZmM5Yzc1YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t>`__.
-Note: to prevent spamming/trolling, you must be logged into Zoom.
+Please `click here <https://calendar.google.com/calendar/embed?src=0ae207588d5e8c6423bd3d71a1627b0d03c4bb047baa1bc92a9d62f56fc9c75a%40group.calendar.google.com&ctz=Europe%2FLondon>`__ to subscribe to the event calendar.
+Click `here <https://calendar.google.com/calendar/ical/0ae207588d5e8c6423bd3d71a1627b0d03c4bb047baa1bc92a9d62f56fc9c75a%40group.calendar.google.com/public/basic.ics>`__ for the iCal export.
+Note: to prevent spamming/trolling, you must be logged into Zoom to attend the meetings.
 The agenda is collected on `GitHub tickets <https://github.com/OCNS/SoftwareWG/labels/C%3A%20Meeting>`__.
 Please feel free to drop in.
 
@@ -35,9 +36,9 @@ The meeting schedule for 2024 is:
    :align: center
    :class: table table-striped table-bordered
 
-    "**Tuesday, May 14 2024**", "**1500 UTC**", "", ""
+    "Tuesday, May 14 2024", "1500 UTC", "`Agenda <https://github.com/OCNS/SoftwareWG/issues/140>`__", "`Notes <https://ocns.github.io/SoftwareWG/2024/05/07/wg-meeting-14-may-2024-spikeinterface-pierre-yger-.html>`__"
     "Tuesday, June 11 2024", "1500 UTC", "", ""
-    "Tuesday, July 09 2024", "1500 UTC", "", ""
+    "**Tuesday, July 09 2024**", "**1500 UTC**", "`Agenda <https://github.com/OCNS/SoftwareWG/issues/145>`__", "`Notes <https://ocns.github.io/SoftwareWG/2024/06/26/wg-meeting-9-july-2024-software-tools-for-systems-neuroscience-adam-tyson-.html>`__"
     "Tuesday, August 13 2024", "1500 UTC", "", ""
     "Tuesday, September 10 2024", "1500 UTC", "", ""
     "Tuesday, October 08 2024", "1500 UTC", "", ""
