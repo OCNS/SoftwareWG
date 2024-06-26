@@ -1,0 +1,134 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <title>  Dev session: Joe Graham: NetPyNE | INCF/OCNS Software WG
+</title>
+  <link rel="canonical" href="https://ocns.github.io/SoftwareWG/2022/04/04/dev-session-joe-graham-netpyne.html">
+
+
+  <link rel="stylesheet" href="https://ocns.github.io/SoftwareWG/theme/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://ocns.github.io/SoftwareWG/theme/css/fontawesome.min.css">
+  <link rel="stylesheet" href="https://ocns.github.io/SoftwareWG/theme/css/pygments/default.min.css">
+  <link rel="stylesheet" href="https://ocns.github.io/SoftwareWG/theme/css/theme.css">
+
+  <link rel="alternate" type="application/atom+xml" title="Full Atom Feed"
+        href="https://ocns.github.io/SoftwareWG//feeds/all.atom.xml">
+  <link rel="alternate" type="application/rss+xml" title="Full RSS Feed"
+        href="https://ocns.github.io/SoftwareWG//feeds/all.rss.xml">  <link rel="alternate" type="application/atom+xml" title="Categories Atom Feed"
+        href="https://ocns.github.io/SoftwareWG//feeds/categories/events.atom.xml">  <link rel="alternate" type="application/rss+xml" title="Categories RSS Feed"
+        href="https://ocns.github.io/SoftwareWG//feeds/categories/events.rss.xml">  
+  <meta name="description" content="Joe Graham will introduce NetPyNE and discuss its development in this dev session.">
+
+
+</head>
+
+<body>
+  <header class="header">
+    <div class="container">
+<div class="row">
+  <div class="col-sm-12">
+    <h1 class="title"><a href="https://ocns.github.io/SoftwareWG/">INCF/OCNS Software WG</a></h1>
+      <p class="text-muted">The INCF/OCNS Software Working Group</p>
+      <ul class="list-inline">
+        <li class="list-inline-item"><a href="https://ocns.github.io/SoftwareWG/index.html" title="Home">Home</a></li>
+        <li class="list-inline-item"><a href="https://ocns.github.io/SoftwareWG/blog_index.html" title="Updates">Updates</a></li>
+        <li class="list-inline-item"><a href="https://ocns.github.io/SoftwareWG/pages/members.html" title="Membership">Membership</a></li>
+        <li class="list-inline-item"><a href="https://ocns.github.io/SoftwareWG/pages/resources.html" title="Resources">Resources</a></li>
+        <li class="list-inline-item"><a href="https://ocns.github.io/SoftwareWG/pages/contact.html" title="Contact">Contact</a></li>
+        <li class="list-inline-item"><a href="https://www.incf.org/" title="INCF">INCF</a></li>
+        <li class="list-inline-item"><a href="https://www.cnsorg.org/" title="OCNS">OCNS</a></li>
+            <li class=" list-inline-item text-muted">|</li>
+          <li class="list-inline-item"><a class="fas fa-mail-bulk" href="https://lists.incf.org/cgi-bin/mailman/listinfo/incf-ocns-software-wg" title="Subscribe to the mailing list"></a></li>
+          <li class="list-inline-item"><a class="fas fa-comments" href="https://matrix.to/#/#OCNS_SoftwareWG:gitter.im" title="Chat to us on Matrix"></a></li>
+          <li class="list-inline-item"><a class="fas fa-mail-bulk" href="https://github.com/OCNS/SoftwareWG/discussions/12" title="Join us on GitHub discussions"></a></li>
+          <li class="list-inline-item"><a class="fab fa-github" href="https://github.com/OCNS/SoftwareWG" title="Join us on GitHub"></a></li>
+          <li class="list-inline-item"><a class="fab fa-twitter" href="https://twitter.com/INCForg/" title="Follow INCF on Twitter"></a></li>
+          <li class="list-inline-item"><a class="fab fa-twitter" href="https://twitter.com/CNSorg/" title="Follow OCNS on Twitter"></a></li>
+          <li class="list-inline-item"><a class="fas fa-rss" href="https://ocns.github.io/SoftwareWG/feeds/all.atom.xml" title="View RSS feeds"></a></li>
+          <li class="list-inline-item"><a class="fas fa-search" href="https://duckduckgo.com/?q=site%3Aocns.github.io/SoftwareWG/&ia=web" title="Search the website using DuckDuckGo"></a></li>
+      </ul>
+  </div>
+</div>    </div>
+  </header>
+
+  <div class="main">
+    <div class="container">
+      <h1>  Dev session: Joe Graham:&nbsp;NetPyNE
+</h1>
+      <hr>
+  <article class="article">
+    <header>
+      <ul class="list-inline">
+        <li class="list-inline-item text-muted" title="2022-04-04T18:00:00+01:00">
+          <i class="fas fa-clock"></i>
+          Mon 04 April 2022
+        </li>
+        <li class="list-inline-item">
+          <i class="fas fa-folder-open"></i>
+          <a href="https://ocns.github.io/SoftwareWG/category/events/">Events</a>
+        </li>
+          <li class="list-inline-item">
+            <i class="fas fa-user"></i>
+              <a href="https://ocns.github.io/SoftwareWG/author/joe-graham.html">Joe Graham</a>          </li>
+          <li class="list-inline-item">
+            <i class="fas fa-tag"></i>
+              <a href="https://ocns.github.io/SoftwareWG/tag/netpyne/">#NetPyNE</a>,               <a href="https://ocns.github.io/SoftwareWG/tag/dev-session/">#Dev session</a>,               <a href="https://ocns.github.io/SoftwareWG/tag/python/">#Python</a>,               <a href="https://ocns.github.io/SoftwareWG/tag/neuroscience/">#Neuroscience</a>,               <a href="https://ocns.github.io/SoftwareWG/tag/simulations/">#Simulations</a>,               <a href="https://ocns.github.io/SoftwareWG/tag/analysis/">#Analysis</a>          </li>
+<ul class="list-inline">
+  <li class="list-inline-item text-muted" title="Share"><i class="fas fa-share-alt" title="Share this post"></i> Share this post:</li>
+  <li class="list-inline-item"><a class="fab fa-twitter" href="https://twitter.com/intent/tweet?text=Dev%20session%3A%20Joe%20Graham%3A%C2%A0NetPyNE&url=https%3A//ocns.github.io/SoftwareWG/2022/04/04/dev-session-joe-graham-netpyne.html&hashtags=netpyne,dev-session,python,neuroscience,simulations,analysis" target="_blank" title="Share on Twitter"></a></li>
+  <li class="list-inline-item"><a class="fab fa-facebook" href="https://www.facebook.com/sharer/sharer.php?u=https%3A//ocns.github.io/SoftwareWG/2022/04/04/dev-session-joe-graham-netpyne.html" target="_blank" title="Share on Facebook"></a></li>
+  <li class="list-inline-item"><a class="fab fa-reddit" href="https://www.reddit.com/submit?url=https%3A//ocns.github.io/SoftwareWG/2022/04/04/dev-session-joe-graham-netpyne.html&title=Dev%20session%3A%20Joe%20Graham%3A%C2%A0NetPyNE" target="_blank" title="Share on Reddit"></a></li>
+  <li class="list-inline-item"><a class="fas fa-mail-bulk" href="mailto:?subject=Dev%20session%3A%20Joe%20Graham%3A%C2%A0NetPyNE&amp;body=https%3A//ocns.github.io/SoftwareWG/2022/04/04/dev-session-joe-graham-netpyne.html" target="_blank" title="Share via E-mail"></a></li>
+</ul>
+      </ul>
+    </header>
+    <div class="content">
+      <center><div class="figure">
+<a class="reference external image-reference" href="http://netpyne.org/">
+<img alt="NetPyNE" class="img-responsive" src="https://ocns.github.io/SoftwareWG/images/20220404-netpyne-logo-white.png" style="width: 50%;" />
+</a>
+</div>
+</center>
+<br /><p><a class="reference external" href="http://research.joegraham.name/">Joe Graham</a> will introduce <a class="reference external" href="http://netpyne.org/">NetPyNE</a> and discuss its development in this dev&nbsp;session.</p>
+<ul class="simple">
+<li>Date: April 4, 2022, 1600 <span class="caps">UTC</span> (Click <a class="reference external" href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Dev+session%3A+Joe+Graham%3A+NetPyNE&amp;iso=20220404T16&amp;p1=1440">here</a> to see your local&nbsp;time).</li>
+</ul>
+</center>
+<br />
+
+<center>
+ <iframe width="560" height="315" style="height: 315px" src="https://www.youtube.com/embed/V3e_2OSfPsI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ </center>
+<br /><p>The abstract for the talk is&nbsp;below:</p>
+<p><a class="reference external" href="http://netpyne.org/">NetPyNE</a> is an open-source Python package to facilitate the development, parallel simulation, analysis, and optimization of biological neuronal networks using the <a class="reference external" href="https://neuron.yale.edu/neuron/"><span class="caps">NEURON</span></a> simulator.  The <a class="reference external" href="http://gui.netpyne.org/">NetPyNE <span class="caps">GUI</span></a> is available from a variety of resources: Neuroscience Gateway Portal (<a class="reference external" href="https://www.nsgportal.org/"><span class="caps">NSG</span></a>); Open Source Brain (<a class="reference external" href="https://www.opensourcebrain.org/"><span class="caps">OSB</span></a>) ; Human Brain Project (<span class="caps">HBP</span>) <a class="reference external" href="https://www.humanbrainproject.eu/en/hbp-platforms/ebrains/"><span class="caps">EBRAINS</span></a>; and the <span class="caps">NIH</span> <a class="reference external" href="https://commonfund.nih.gov/Sparc/"><span class="caps">SPARC</span></a> initiative.  The <a class="reference external" href="http://netpyne.org/">NetPyNE</a> source code is available on <a class="reference external" href="https://github.com/suny-downstate-medical-center/netpyne">GitHub</a>.  More information is available on the <a class="reference external" href="http://netpyne.org/">NetPyNE</a>&nbsp;website.</p>
+<p>During this dev session, I will give an overview of NetPyNE, go through an interactive demo using the <a class="reference external" href="http://gui.netpyne.org/">NetPyNE <span class="caps">GUI</span></a>, describe my personal development workflow using virtual environments, and then go through two big dev projects I worked on: (1) documenting code inline and online using docstrings, <a class="reference external" href="https://www.sphinx-doc.org/en/master/">Sphinx</a>, <a class="reference external" href="https://sphinxcontrib-napoleon.readthedocs.io/en/latest/">Napoleon</a>, and <a class="reference external" href="https://autodocsumm.readthedocs.io/en/latest/">autodocsumm</a>, and (2) separating and standardizing analysis and&nbsp;plotting.</p>
+
+    </div>
+  </article>
+    </div>
+  </div>
+
+  <footer class="footer">
+    <div class="container">
+<div class="row">
+  <ul class="col-sm-6 list-inline">
+    <li class="list-inline-item"><a href="https://ocns.github.io/SoftwareWG/authors.html" title="Authors">Authors</a></li>
+    <li class="list-inline-item"><a href="https://ocns.github.io/SoftwareWG/pages/archives.html" title="Archives">Archives</a></li>
+    <li class="list-inline-item"><a href="https://ocns.github.io/SoftwareWG/categories.html" title="Categories">Categories</a></li>
+      <li class="list-inline-item"><a href="https://ocns.github.io/SoftwareWG/tags.html" title="Tags">Tags</a></li>
+  </ul>
+  <p class="col-sm-6 text-sm-right text-muted">
+    Generated by <a href="https://github.com/getpelican/pelican" target="_blank" title="Pelican">Pelican</a>
+    / <a href="https://github.com/nairobilug/pelican-alchemy" target="_blank">&#x2728;</a>
+  </p>
+</div>    </div>
+  </footer>
+
+</body>
+
+</html>

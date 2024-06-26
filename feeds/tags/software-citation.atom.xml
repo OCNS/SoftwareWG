@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>INCF/OCNS Software WG - Software citation</title><link href="https://ocns.github.io/SoftwareWG/" rel="alternate"></link><link href="https://ocns.github.io/SoftwareWG/feeds/tags/software-citation.atom.xml" rel="self"></link><id>https://ocns.github.io/SoftwareWG/</id><updated>2022-11-07T13:48:58+00:00</updated><subtitle>The INCF/OCNS Software Working Group</subtitle><entry><title>Dev session: Daniel S Katz, Neil Chue Hong: Software Citation Principles</title><link href="https://ocns.github.io/SoftwareWG/2021/11/01/dev-session-daniel-s-katz-neil-chue-hong-software-citation-principles.html" rel="alternate"></link><published>2021-11-01T18:51:16+00:00</published><updated>2022-11-07T13:48:58+00:00</updated><author><name>Ankur Sinha</name></author><id>tag:ocns.github.io,2021-11-01:/SoftwareWG/2021/11/01/dev-session-daniel-s-katz-neil-chue-hong-software-citation-principles.html</id><summary type="html">&lt;p class="first last"&gt;&lt;a class="reference external" href="https://www.force11.org/users/daniel-s-katz"&gt;Daniel S Katz&lt;/a&gt; and &lt;a class="reference external" href="https://www.force11.org/users/neil-chue-hong"&gt;Neil Chue Hong&lt;/a&gt; will discuss principles of citing research software in this dev&amp;nbsp;session.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;&lt;a class="reference external" href="https://www.force11.org/users/daniel-s-katz"&gt;Daniel S Katz&lt;/a&gt; and &lt;a class="reference external" href="https://www.force11.org/users/neil-chue-hong"&gt;Neil Chue Hong&lt;/a&gt; will discuss principles of citing research software in this dev&amp;nbsp;session.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Date: November 22, 2021, 1600 &lt;span class="caps"&gt;UTC&lt;/span&gt; (Click &lt;a class="reference external" href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Dev+session%3A+Software+Citation+Principles&amp;amp;iso=20211122T16&amp;amp;p1=1440&amp;amp;ah=1"&gt;here&lt;/a&gt; to see your local&amp;nbsp;time).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/center&gt;
+&lt;br /&gt;
+
+&lt;center&gt;
+ &lt;iframe width="560" height="315" style="height: 315px" src="https://www.youtube.com/embed/0uiyk6obP5Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/center&gt;
+&lt;br /&gt;&lt;p&gt;The abstract for the talk is&amp;nbsp;below:&lt;/p&gt;
+&lt;p&gt;Today, software is a key part of almost all research, and the development and
+maintenance of this software is done by human beings, often in academia. It&amp;#8217;s
+essential that these activities be seen as a valued element of scholarly work
+so that the people who do it have career paths that encourage them to continue
+to do it. One means of accomplishing this is to use the existing scholarly
+citation&amp;nbsp;system.&lt;/p&gt;
+&lt;p&gt;The &lt;a class="reference external" href="https://www.force11.org/group/software-citation-working-group"&gt;&lt;span class="caps"&gt;FORCE11&lt;/span&gt; Software Citation working group&lt;/a&gt; developed a
+set of &lt;a class="reference external" href="https://www.force11.org/software-citation-principles"&gt;Software Citation Principles in 2016&lt;/a&gt;, and since then, the
+&lt;a class="reference external" href="https://www.force11.org/group/software-citation-implementation-working-group"&gt;&lt;span class="caps"&gt;FORCE11&lt;/span&gt; Software Citation Implementation working group&lt;/a&gt;
+has been working with many types of stakeholders, including publishers,
+repositories, and standards, to implement the principles.  We&amp;#8217;ll talk about
+this work, the changes we&amp;#8217;ve seen, what still needs to be done, and how the
+&lt;span class="caps"&gt;INCF&lt;/span&gt; community can&amp;nbsp;participate.&lt;/p&gt;
+&lt;p&gt;The slides from this talk are &lt;a class="reference external" href="https://doi.org/10.5281/zenodo.5718613"&gt;available&lt;/a&gt;.&lt;/p&gt;
+</content><category term="Events"></category><category term="Dev session"></category><category term="Software citation"></category><category term="F1000"></category></entry></feed>

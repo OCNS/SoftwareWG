@@ -1,0 +1,139 @@
+:root {
+    --alchemy-border: rgba(0,0,0,.1);
+}
+
+blockquote {
+  opacity: .7;
+  font-style: italic;
+}
+
+hr {
+  margin: 1.5rem 0;
+}
+
+/* ------------------------------------------------------------------------- */
+
+.container {
+  max-width: 960px;
+}
+
+.header,
+.footer {
+  padding: 1.5rem 0 .5rem;
+}
+
+.header {
+  border-bottom: 1px solid var(--alchemy-border);
+}
+
+.header img {
+  margin-bottom: 1rem;
+}
+
+.header .title {
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.header ul,
+.header li {
+  margin-bottom: .5rem;
+}
+
+.header ul {
+  font-size: 1.25rem;
+  font-weight: 300;
+  text-transform: lowercase;
+}
+
+.main {
+  padding: 1.5rem 0;
+}
+
+.footer {
+  border-top: 1px solid var(--alchemy-border);
+}
+
+.highlight pre {
+  border: 1px solid var(--alchemy-border);
+  padding: 1rem;
+}
+
+.teaser header ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.teaser header li {
+  margin-bottom: .5rem;
+}
+
+.teaser .content p {
+  margin-bottom: 0;
+}
+
+.article header ul,
+.article header li {
+  margin-bottom: .5rem;
+}
+
+.article header li:not(:last-child) {
+  margin-right: 10px;
+}
+
+.article .content a {
+  text-decoration: underline
+}
+
+.admonition {
+  border: thin solid gray;
+  background-color: lightgrey;
+  padding: .25em .5em;
+  margin-bottom: 1rem;
+}
+
+.admonition .admonition-title {
+  font-weight: bold;
+  background-color: rgba(255,255,255,0.66);
+  text-align: center;
+}
+
+.admonition p.last  {
+  margin-bottom: 0;
+}
+
+.admonition.important, .admonition.note, .admonition.warning {
+  border-color: goldenrod;
+  background-color: lightgoldenrodyellow;
+}
+
+.admonition.attention, .admonition.caution, .admonition.danger, .admonition.error {
+  border-color: red;
+  background-color: lightpink;
+}
+
+.admonition.hint, .admonition.tip {
+  border-color: limegreen;
+  background-color: palegreen;
+}
+
+@media (min-width: 576px) {
+  .header .title {
+    font-size: 3rem;
+  }
+}
+
+@media (max-width: 576px) {
+  .header,
+  .footer {
+    text-align: center;
+  }
+
+  .teaser header li {
+    display: inline-block;
+  }
+
+  .teaser header li:not(:last-child) {
+    margin-right: 10px;
+  }
+}

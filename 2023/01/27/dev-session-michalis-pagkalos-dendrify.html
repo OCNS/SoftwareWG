@@ -1,0 +1,141 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <title>  Software highlight: Michalis Pagkalos: Dendrify | INCF/OCNS Software WG
+</title>
+  <link rel="canonical" href="https://ocns.github.io/SoftwareWG/2023/01/27/dev-session-michalis-pagkalos-dendrify.html">
+
+
+  <link rel="stylesheet" href="https://ocns.github.io/SoftwareWG/theme/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://ocns.github.io/SoftwareWG/theme/css/fontawesome.min.css">
+  <link rel="stylesheet" href="https://ocns.github.io/SoftwareWG/theme/css/pygments/default.min.css">
+  <link rel="stylesheet" href="https://ocns.github.io/SoftwareWG/theme/css/theme.css">
+
+  <link rel="alternate" type="application/atom+xml" title="Full Atom Feed"
+        href="https://ocns.github.io/SoftwareWG//feeds/all.atom.xml">
+  <link rel="alternate" type="application/rss+xml" title="Full RSS Feed"
+        href="https://ocns.github.io/SoftwareWG//feeds/all.rss.xml">  <link rel="alternate" type="application/atom+xml" title="Categories Atom Feed"
+        href="https://ocns.github.io/SoftwareWG//feeds/categories/events.atom.xml">  <link rel="alternate" type="application/rss+xml" title="Categories RSS Feed"
+        href="https://ocns.github.io/SoftwareWG//feeds/categories/events.rss.xml">  
+  <meta name="description" content="Michalis Pagkalos will introduce and discuss Dendrify, a framework for incorporating dendrites to spiking neural networks, in this session.">
+
+
+</head>
+
+<body>
+  <header class="header">
+    <div class="container">
+<div class="row">
+  <div class="col-sm-12">
+    <h1 class="title"><a href="https://ocns.github.io/SoftwareWG/">INCF/OCNS Software WG</a></h1>
+      <p class="text-muted">The INCF/OCNS Software Working Group</p>
+      <ul class="list-inline">
+        <li class="list-inline-item"><a href="https://ocns.github.io/SoftwareWG/index.html" title="Home">Home</a></li>
+        <li class="list-inline-item"><a href="https://ocns.github.io/SoftwareWG/blog_index.html" title="Updates">Updates</a></li>
+        <li class="list-inline-item"><a href="https://ocns.github.io/SoftwareWG/pages/members.html" title="Membership">Membership</a></li>
+        <li class="list-inline-item"><a href="https://ocns.github.io/SoftwareWG/pages/resources.html" title="Resources">Resources</a></li>
+        <li class="list-inline-item"><a href="https://ocns.github.io/SoftwareWG/pages/contact.html" title="Contact">Contact</a></li>
+        <li class="list-inline-item"><a href="https://www.incf.org/" title="INCF">INCF</a></li>
+        <li class="list-inline-item"><a href="https://www.cnsorg.org/" title="OCNS">OCNS</a></li>
+            <li class=" list-inline-item text-muted">|</li>
+          <li class="list-inline-item"><a class="fas fa-mail-bulk" href="https://lists.incf.org/cgi-bin/mailman/listinfo/incf-ocns-software-wg" title="Subscribe to the mailing list"></a></li>
+          <li class="list-inline-item"><a class="fas fa-comments" href="https://matrix.to/#/#OCNS_SoftwareWG:gitter.im" title="Chat to us on Matrix"></a></li>
+          <li class="list-inline-item"><a class="fas fa-mail-bulk" href="https://github.com/OCNS/SoftwareWG/discussions/12" title="Join us on GitHub discussions"></a></li>
+          <li class="list-inline-item"><a class="fab fa-github" href="https://github.com/OCNS/SoftwareWG" title="Join us on GitHub"></a></li>
+          <li class="list-inline-item"><a class="fab fa-twitter" href="https://twitter.com/INCForg/" title="Follow INCF on Twitter"></a></li>
+          <li class="list-inline-item"><a class="fab fa-twitter" href="https://twitter.com/CNSorg/" title="Follow OCNS on Twitter"></a></li>
+          <li class="list-inline-item"><a class="fas fa-rss" href="https://ocns.github.io/SoftwareWG/feeds/all.atom.xml" title="View RSS feeds"></a></li>
+          <li class="list-inline-item"><a class="fas fa-search" href="https://duckduckgo.com/?q=site%3Aocns.github.io/SoftwareWG/&ia=web" title="Search the website using DuckDuckGo"></a></li>
+      </ul>
+  </div>
+</div>    </div>
+  </header>
+
+  <div class="main">
+    <div class="container">
+      <h1>  Software highlight: Michalis Pagkalos:&nbsp;Dendrify
+</h1>
+      <hr>
+  <article class="article">
+    <header>
+      <ul class="list-inline">
+        <li class="list-inline-item text-muted" title="2023-01-27T11:01:32+00:00">
+          <i class="fas fa-clock"></i>
+          Fri 27 January 2023
+        </li>
+        <li class="list-inline-item">
+          <i class="fas fa-folder-open"></i>
+          <a href="https://ocns.github.io/SoftwareWG/category/events/">Events</a>
+        </li>
+          <li class="list-inline-item">
+            <i class="fas fa-user"></i>
+              <a href="https://ocns.github.io/SoftwareWG/author/ankur-sinha.html">Ankur Sinha</a>          </li>
+          <li class="list-inline-item">
+            <i class="fas fa-tag"></i>
+              <a href="https://ocns.github.io/SoftwareWG/tag/dendrify/">#Dendrify</a>,               <a href="https://ocns.github.io/SoftwareWG/tag/software-highlight/">#Software highlight</a>,               <a href="https://ocns.github.io/SoftwareWG/tag/neuroscience/">#Neuroscience</a>,               <a href="https://ocns.github.io/SoftwareWG/tag/simulations/">#Simulations</a>,               <a href="https://ocns.github.io/SoftwareWG/tag/analysis/">#Analysis</a>,               <a href="https://ocns.github.io/SoftwareWG/tag/brian/">#Brian</a>          </li>
+<ul class="list-inline">
+  <li class="list-inline-item text-muted" title="Share"><i class="fas fa-share-alt" title="Share this post"></i> Share this post:</li>
+  <li class="list-inline-item"><a class="fab fa-twitter" href="https://twitter.com/intent/tweet?text=Software%20highlight%3A%20Michalis%20Pagkalos%3A%C2%A0Dendrify&url=https%3A//ocns.github.io/SoftwareWG/2023/01/27/dev-session-michalis-pagkalos-dendrify.html&hashtags=dendrify,software-highlight,neuroscience,simulations,analysis,brian" target="_blank" title="Share on Twitter"></a></li>
+  <li class="list-inline-item"><a class="fab fa-facebook" href="https://www.facebook.com/sharer/sharer.php?u=https%3A//ocns.github.io/SoftwareWG/2023/01/27/dev-session-michalis-pagkalos-dendrify.html" target="_blank" title="Share on Facebook"></a></li>
+  <li class="list-inline-item"><a class="fab fa-reddit" href="https://www.reddit.com/submit?url=https%3A//ocns.github.io/SoftwareWG/2023/01/27/dev-session-michalis-pagkalos-dendrify.html&title=Software%20highlight%3A%20Michalis%20Pagkalos%3A%C2%A0Dendrify" target="_blank" title="Share on Reddit"></a></li>
+  <li class="list-inline-item"><a class="fas fa-mail-bulk" href="mailto:?subject=Software%20highlight%3A%20Michalis%20Pagkalos%3A%C2%A0Dendrify&amp;body=https%3A//ocns.github.io/SoftwareWG/2023/01/27/dev-session-michalis-pagkalos-dendrify.html" target="_blank" title="Share via E-mail"></a></li>
+</ul>
+      </ul>
+    </header>
+    <div class="content">
+      <p><a class="reference external" href="https://dendrites.gr/?page_id=265">Michalis Pagkalos</a> will introduce and discuss <a class="reference external" href="https://github.com/Poirazi-Lab/dendrify">Dendrify</a>, a framework for incorporating dendrites to spiking neural networks, in this&nbsp;session.</p>
+<ul class="simple">
+<li>Zoom (<a class="reference external" href="https://ucl.zoom.us/rec/share/tEgyFcXjPflMGLmSclnH5p-qKGyjJ_4IdRdxF70wJPiN_T6dZQtmLXxnvYbKn6L3.tzGYABjJOHer90o4">recordings</a>)</li>
+</ul>
+<!--
+
+</center>
+<br />
+
+<center>
+ <iframe width="560" height="315" style="height: 315px" src="https://www.youtube.com/embed/V3e_2OSfPsI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ </center>
+<br />
+
+--><p>The abstract for the talk is&nbsp;below:</p>
+<p>Current SNNs studies frequently ignore dendrites, the thin membranous extensions of biological neurons that receive and preprocess nearly all synaptic inputs in the brain.
+However, decades of experimental and theoretical research suggest that dendrites possess compelling computational capabilities that greatly influence neuronal and circuit functions.
+Notably, standard point-neuron networks cannot adequately capture most hallmark dendritic properties.
+Meanwhile, biophysically detailed neuron models can be suboptimal for practical applications due to their complexity, and high computational cost.
+For this reason, we introduce Dendrify, a new theoretical framework combined with an open-source Python package (compatible with Brian2) that facilitates the development of bioinspired SNNs. Dendrify allows the creation of reduced compartmental neuron models with simplified yet biologically relevant dendritic and synaptic integrative properties.
+Such models strike a good balance between flexibility, performance, and biological accuracy, allowing us to explore dendritic contributions to network-level functions while paving the way for developing more realistic neuromorphic&nbsp;systems.</p>
+<ul class="simple">
+<li>Manuscript: <a class="reference external" href="https://www.nature.com/articles/s41467-022-35747-8">Introducing the Dendrify framework for incorporating dendrites to spiking neural networks | Nature&nbsp;Communications</a></li>
+<li>Source code: <a class="reference external" href="https://github.com/Poirazi-Lab/dendrify">Poirazi-Lab/dendrify: Introducing dendrites to spiking neural networks. Designed for the Brian 2&nbsp;simulator.</a></li>
+<li>Documentation: <a class="reference external" href="https://dendrify.readthedocs.io/en/latest/">https://dendrify.readthedocs.io/en/latest/</a></li>
+</ul>
+
+    </div>
+  </article>
+    </div>
+  </div>
+
+  <footer class="footer">
+    <div class="container">
+<div class="row">
+  <ul class="col-sm-6 list-inline">
+    <li class="list-inline-item"><a href="https://ocns.github.io/SoftwareWG/authors.html" title="Authors">Authors</a></li>
+    <li class="list-inline-item"><a href="https://ocns.github.io/SoftwareWG/pages/archives.html" title="Archives">Archives</a></li>
+    <li class="list-inline-item"><a href="https://ocns.github.io/SoftwareWG/categories.html" title="Categories">Categories</a></li>
+      <li class="list-inline-item"><a href="https://ocns.github.io/SoftwareWG/tags.html" title="Tags">Tags</a></li>
+  </ul>
+  <p class="col-sm-6 text-sm-right text-muted">
+    Generated by <a href="https://github.com/getpelican/pelican" target="_blank" title="Pelican">Pelican</a>
+    / <a href="https://github.com/nairobilug/pelican-alchemy" target="_blank">&#x2728;</a>
+  </p>
+</div>    </div>
+  </footer>
+
+</body>
+
+</html>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>INCF/OCNS Software WG - NeuroFedora</title><link href="https://ocns.github.io/SoftwareWG/" rel="alternate"></link><link href="https://ocns.github.io/SoftwareWG/feeds/tags/neurofedora.atom.xml" rel="self"></link><id>https://ocns.github.io/SoftwareWG/</id><updated>2021-06-03T11:33:33+01:00</updated><subtitle>The INCF/OCNS Software Working Group</subtitle><entry><title>Dev session: Ankur Sinha: NeuroFedora</title><link href="https://ocns.github.io/SoftwareWG/2021/02/07/dev-session-ankur-sinha-neurofedora.html" rel="alternate"></link><published>2021-02-07T17:27:54+00:00</published><updated>2021-06-03T11:33:33+01:00</updated><author><name>Ankur Sinha</name></author><id>tag:ocns.github.io,2021-02-07:/SoftwareWG/2021/02/07/dev-session-ankur-sinha-neurofedora.html</id><summary type="html">&lt;p class="first last"&gt;&lt;a class="reference external" href="https://ankursinha.in"&gt;Ankur Sinha&lt;/a&gt; will introduce the &lt;a class="reference external" href="https://www.fsf.org/blogs/community/user-liberation-watch-and-share-our-new-video/"&gt;Free/Open Source Software&lt;/a&gt; &lt;a class="reference external" href="https://neuro.fedoraproject.org"&gt;NeuroFedora&lt;/a&gt; project and discuss its development in this developer&amp;nbsp;session.&lt;/p&gt;
+</summary><content type="html">&lt;center&gt;&lt;div class="figure"&gt;
+&lt;a class="reference external image-reference" href="https://neuro.fedoraproject.org"&gt;
+&lt;img alt="The NeuroFedora project" class="img-responsive" src="https://ocns.github.io/SoftwareWG/images/20210207-NeuroFedoraLogo.png" style="width: 25%;" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/center&gt;
+&lt;br /&gt;
+
+&lt;center&gt;
+ &lt;iframe width="560" height="315" style="height: 315px;" src="https://www.youtube.com/embed/d8wO-ekFw5M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/center&gt;
+&lt;br /&gt;&lt;p&gt;&lt;a class="reference external" href="https://ankursinha.in"&gt;Ankur Sinha&lt;/a&gt; will introduce the &lt;a class="reference external" href="https://www.fsf.org/blogs/community/user-liberation-watch-and-share-our-new-video/"&gt;Free/Open Source Software&lt;/a&gt; &lt;a class="reference external" href="https://neuro.fedoraproject.org"&gt;NeuroFedora&lt;/a&gt; project and discuss its development in this developer&amp;nbsp;session.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Date: Feb 16, 2021 1700 &lt;span class="caps"&gt;UTC&lt;/span&gt; (Click &lt;a class="reference external" href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Dev+session%3A+Ankur+Sinha%3A+NeuroFedora&amp;amp;iso=20210216T17&amp;amp;p1=136&amp;amp;ah=1"&gt;here&lt;/a&gt;  to see your local&amp;nbsp;time).&lt;/li&gt;
+&lt;li&gt;Location (Zoom): (link no longer&amp;nbsp;valid)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The abstract for the talk is&amp;nbsp;below:&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://neuro.fedoraproject.org"&gt;NeuroFedora&lt;/a&gt; is an initiative to provide a ready to use Fedora based Free/Open source software platform for neuroscience.
+We believe that similar to Free software, science should be free for all to use, share, modify, and study.
+The use of Free software also aids reproducibility, data sharing, and collaboration in the research community.
+By making the tools used in the scientific process easier to use, NeuroFedora aims to take a step to enable this ideal.
+In this session, I will talk about the deliverables of the &lt;a class="reference external" href="https://neuro.fedoraproject.org"&gt;NeuroFedora&lt;/a&gt; project and then go over the complete pipeline that we use to produce, test, and disseminate&amp;nbsp;them.&lt;/p&gt;
+</content><category term="Events"></category><category term="NeuroFedora"></category><category term="Linux"></category><category term="Free/Open Source Software"></category><category term="Python"></category><category term="Neuroscience"></category><category term="Computational Neuroscience"></category></entry></feed>

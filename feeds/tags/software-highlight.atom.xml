@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>INCF/OCNS Software WG - Software highlight</title><link href="https://ocns.github.io/SoftwareWG/" rel="alternate"></link><link href="https://ocns.github.io/SoftwareWG/feeds/tags/software-highlight.atom.xml" rel="self"></link><id>https://ocns.github.io/SoftwareWG/</id><updated>2024-06-26T11:24:52+01:00</updated><subtitle>The INCF/OCNS Software Working Group</subtitle><entry><title>WG meeting 9 July 2024: Software Tools for Systems Neuroscience (Adam Tyson)</title><link href="https://ocns.github.io/SoftwareWG/2024/06/26/wg-meeting-9-july-2024-software-tools-for-systems-neuroscience-adam-tyson-.html" rel="alternate"></link><published>2024-06-26T11:24:52+01:00</published><updated>2024-06-26T11:24:52+01:00</updated><author><name>Ankur Sinha</name></author><id>tag:ocns.github.io,2024-06-26:/SoftwareWG/2024/06/26/wg-meeting-9-july-2024-software-tools-for-systems-neuroscience-adam-tyson-.html</id><summary type="html">&lt;p class="first last"&gt;The next &lt;span class="caps"&gt;WG&lt;/span&gt; meeting will be on July 9, 2024 at 1500 &lt;span class="caps"&gt;UTC&lt;/span&gt;. Adam Tyson will present the tools that they develop for systems neuroscience at their research&amp;nbsp;group.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;The next &lt;span class="caps"&gt;WG&lt;/span&gt; meeting will be on July 9, 2024 at 1500 &lt;span class="caps"&gt;UTC&lt;/span&gt;.
+Adam Tyson will present the tools that they develop for Systems Neuroscience at their research group.
+The presentation will be followed by a Q&amp;amp;A, followed by working group&amp;nbsp;business.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;When: &lt;a class="reference external" href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=INCF%2FOCNS+Software+WG+meeting%3A+Software+Tools+Systems+Neuroscience+%28Adam+Tyson%29&amp;amp;iso=20240709T16&amp;amp;p1=136"&gt;July 9, 1500 &lt;span class="caps"&gt;UTC&lt;/span&gt;&lt;/a&gt; (&lt;a class="reference external" href="https://calendar.google.com/calendar/embed?src=0ae207588d5e8c6423bd3d71a1627b0d03c4bb047baa1bc92a9d62f56fc9c75a%40group.calendar.google.com&amp;amp;ctz=Europe%2FLondon"&gt;Event calendar&lt;/a&gt;) (&lt;a class="reference external" href="https://calendar.google.com/calendar/ical/0ae207588d5e8c6423bd3d71a1627b0d03c4bb047baa1bc92a9d62f56fc9c75a%40group.calendar.google.com/public/basic.ics"&gt;iCal&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://ucl.zoom.us/j/91017703246?pwd=RmdwMW9xL0FFaFVVL0Z6dUtnbkplZz09"&gt;Zoom&lt;/a&gt; (you will be required to be logged into Zoom to attend the&amp;nbsp;session)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;&lt;div class="figure"&gt;
+&lt;a class="reference external image-reference" href="#"&gt;
+&lt;img alt="The Neuroinformatics Unit at the Sainsbury Wellcome Centre develops software tools for systems neuroscience." class="img-responsive" src="https://ocns.github.io/SoftwareWG/images/20240626-neuroinformatics-dev.png" style="width: 60%;" /&gt;
+&lt;/a&gt;
+&lt;p class="caption"&gt;The &lt;a class="reference external" href="https://neuroinformatics.dev/"&gt;Neuroinformatics Unit&lt;/a&gt; at the Sainsbury Wellcome Centre develops software tools for systems&amp;nbsp;neuroscience.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/center&gt;
+&lt;br /&gt;&lt;p&gt;Understanding the brain requires processing and analysing large, multidimensional datasets.
+Systems neuroscience, in particular, has undergone a drastic transformation, with individual labs now commonly generating terabytes or even petabytes of data annually.
+While there has been an increase in software tools to process this data, many of these tools are single-purpose, inadequately maintained, or poorly integrated with the broader software ecosystem.
+This talk will outline some of the tools we are developing for &lt;a class="reference external" href="https://brainglobe.info/"&gt;computational neuroanatomy&lt;/a&gt;, &lt;a class="reference external" href="https://movement.neuroinformatics.dev/"&gt;video behavioural analysis&lt;/a&gt;, and &lt;a class="reference external" href="https://neuroblueprint.neuroinformatics.dev/"&gt;data management&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;About the&amp;nbsp;speaker:&lt;/p&gt;
+&lt;p&gt;Adam Tyson is the Head Research Engineer at the &lt;a class="reference external" href="https://www.sainsburywellcome.org/web/"&gt;Sainsbury Wellcome Centre&lt;/a&gt; and &lt;a class="reference external" href="https://www.ucl.ac.uk/gatsby/gatsby-computational-neuroscience-unit"&gt;Gatsby Computational Neuroscience&lt;/a&gt; Unit at University College London.
+He established the &lt;a class="reference external" href="https://neuroinformatics.dev/"&gt;Neuroinformatics Unit&lt;/a&gt;, a research software engineering team dedicated to developing robust, maintainable, and user-friendly software tools for neuroscience and machine learning.
+Adam completed a PhD in neuroscience at King’s College London before working as a software developer at the Institute of Cancer Research and the Sainsbury Wellcome&amp;nbsp;Centre.&lt;/p&gt;
+&lt;p&gt;Resources:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;BrainGlobe: &lt;a class="reference external" href="https://brainglobe.info/"&gt;https://brainglobe.info/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Movement: &lt;a class="reference external" href="https://movement.neuroinformatics.dev/"&gt;https://movement.neuroinformatics.dev/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;NeuroBluePrint: &lt;a class="reference external" href="https://neuroblueprint.neuroinformatics.dev/"&gt;https://neuroblueprint.neuroinformatics.dev/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Neuroinformatics Unit: &lt;a class="reference external" href="https://neuroinformatics.dev/"&gt;https://neuroinformatics.dev/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content><category term="Events"></category><category term="Analysis"></category><category term="Automation"></category><category term="Community"></category><category term="Computational Neuroanatomy"></category><category term="Free/Open Source Software"></category><category term="Meeting"></category><category term="Software development"></category><category term="Software highlight"></category><category term="Neuroscience"></category><category term="Systems Neuroscience"></category><category term="Big data"></category></entry><entry><title>Software highlight: Kay Robbins: HED (Hierarchical Event Descriptors)</title><link href="https://ocns.github.io/SoftwareWG/2023/02/17/software-highlight-kay-robbins-hed.html" rel="alternate"></link><published>2023-02-17T11:45:56+00:00</published><updated>2023-02-17T11:45:56+00:00</updated><author><name>Ankur Sinha</name></author><id>tag:ocns.github.io,2023-02-17:/SoftwareWG/2023/02/17/software-highlight-kay-robbins-hed.html</id><summary type="html">&lt;p class="first last"&gt;&lt;a class="reference external" href="https://www.utsa.edu/sciences/computer-science/faculty/KayRobbins.html"&gt;Kay Robbins&lt;/a&gt; will introduce and discuss &lt;span class="caps"&gt;HED&lt;/span&gt;, a practical system for describing an experiment using an analysis-ready&amp;nbsp;framework.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;&lt;a class="reference external" href="https://www.utsa.edu/sciences/computer-science/faculty/KayRobbins.html"&gt;Kay Robbins&lt;/a&gt; will introduce and discuss &lt;span class="caps"&gt;HED&lt;/span&gt;, a practical system for describing an experiment using an analysis-ready&amp;nbsp;framework.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Zoom (&lt;a class="reference external" href="https://ucl.zoom.us/rec/share/h-tszrMXevUhADQHl9CGwgP08ofJ77vmvFchUjrGZunm6MZB4F1txnUvuIXPAU2l.EiVd5lEKg7r-bh2M"&gt;recordings&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://ocns.github.io/SoftwareWG/extras/other/INCF2023_SoftwareHighlightsFinal.pptx"&gt;Slides&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/center&gt;
+&lt;br /&gt;
+
+&lt;center&gt;
+ &lt;iframe width="560" height="315" style="height: 315px" src="https://www.youtube.com/embed/0-VLzvwAaUQ?si=z1OL0hxUYkpSsf2-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/center&gt;
+&lt;br /&gt;&lt;p&gt;In human neuroimaging experiments, a record of what a participant experiences together with a clear understanding of the participant (task) intent are key to interpreting recorded brain dynamics.
+&lt;span class="caps"&gt;HED&lt;/span&gt; (Hierarchical Event Descriptors, &lt;a class="reference external" href="https://www.hedtags.org"&gt;https://www.hedtags.org&lt;/a&gt;) annotations and supporting infrastructure can provide human-understandable machine-actionable descriptions of events experienced during laboratory and/or real-world time series recordings.
+&lt;span class="caps"&gt;HED&lt;/span&gt;, which is well-integrated into &lt;span class="caps"&gt;BIDS&lt;/span&gt; (&lt;a class="reference external" href="https://bids.neuroimaging.io/"&gt;Brain Imaging Data Structure&lt;/a&gt;) has an ecosystem of tools supporting researchers at various stages including data acquisition, annotation, sharing, and analysis.
+This talk will describe &lt;span class="caps"&gt;HED&lt;/span&gt; principles, focusing on basic representations of an experiment and its design.
+Various tools in the &lt;span class="caps"&gt;HED&lt;/span&gt; ecosystem to support search, summary and analysis will be introduced and demonstrated.
+Finally, we&amp;#8217;ll discuss how tool developers can leverage the &lt;span class="caps"&gt;HED&lt;/span&gt; infrastructure to build advanced analysis tools capable of automated analysis in support of machine learning.
+&lt;span class="caps"&gt;HED&lt;/span&gt; is an entirely open-source project, and the &lt;span class="caps"&gt;HED&lt;/span&gt; Working Group welcomes contributors and&amp;nbsp;contributions.&lt;/p&gt;
+&lt;p&gt;Papers and&amp;nbsp;resources:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Capturing the nature of events and event context using Hierarchical Event Descriptors (&lt;span class="caps"&gt;HED&lt;/span&gt;).&amp;nbsp;NeuroImage. &lt;a class="reference external" href="https://www.sciencedirect.com/science/article/pii/S1053811921010387"&gt;Link&lt;/a&gt;,&lt;/li&gt;
+&lt;li&gt;Building &lt;span class="caps"&gt;FAIR&lt;/span&gt; functionality: Annotating events in time series data using Hierarchical Event Descriptors (&lt;span class="caps"&gt;HED&lt;/span&gt;). Neuroinformatics. &lt;a class="reference external" href="https://link.springer.com/article/10.1007/s12021-021-09537-4"&gt;Link&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Resources: &lt;a class="reference external" href="https://www.hed-resources.org"&gt;https://www.hed-resources.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;GitHub organization: &lt;a class="reference external" href="https://github.com/hed-standard"&gt;https://github.com/hed-standard&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content><category term="Events"></category><category term="HED"></category><category term="Software highlight"></category><category term="Neuroscience"></category><category term="Neuroimaging"></category><category term="BIDS"></category></entry><entry><title>Software highlight: Michalis Pagkalos: Dendrify</title><link href="https://ocns.github.io/SoftwareWG/2023/01/27/dev-session-michalis-pagkalos-dendrify.html" rel="alternate"></link><published>2023-01-27T11:01:32+00:00</published><updated>2023-01-27T11:01:32+00:00</updated><author><name>Ankur Sinha</name></author><id>tag:ocns.github.io,2023-01-27:/SoftwareWG/2023/01/27/dev-session-michalis-pagkalos-dendrify.html</id><summary type="html">&lt;p class="first last"&gt;&lt;a class="reference external" href="https://dendrites.gr/?page_id=265"&gt;Michalis Pagkalos&lt;/a&gt; will introduce and discuss &lt;a class="reference external" href="https://github.com/Poirazi-Lab/dendrify"&gt;Dendrify&lt;/a&gt;, a framework for incorporating dendrites to spiking neural networks, in this&amp;nbsp;session.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;&lt;a class="reference external" href="https://dendrites.gr/?page_id=265"&gt;Michalis Pagkalos&lt;/a&gt; will introduce and discuss &lt;a class="reference external" href="https://github.com/Poirazi-Lab/dendrify"&gt;Dendrify&lt;/a&gt;, a framework for incorporating dendrites to spiking neural networks, in this&amp;nbsp;session.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Zoom (&lt;a class="reference external" href="https://ucl.zoom.us/rec/share/tEgyFcXjPflMGLmSclnH5p-qKGyjJ_4IdRdxF70wJPiN_T6dZQtmLXxnvYbKn6L3.tzGYABjJOHer90o4"&gt;recordings&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!--
+
+&lt;/center&gt;
+&lt;br /&gt;
+
+&lt;center&gt;
+ &lt;iframe width="560" height="315" style="height: 315px" src="https://www.youtube.com/embed/V3e_2OSfPsI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/center&gt;
+&lt;br /&gt;
+
+--&gt;&lt;p&gt;The abstract for the talk is&amp;nbsp;below:&lt;/p&gt;
+&lt;p&gt;Current SNNs studies frequently ignore dendrites, the thin membranous extensions of biological neurons that receive and preprocess nearly all synaptic inputs in the brain.
+However, decades of experimental and theoretical research suggest that dendrites possess compelling computational capabilities that greatly influence neuronal and circuit functions.
+Notably, standard point-neuron networks cannot adequately capture most hallmark dendritic properties.
+Meanwhile, biophysically detailed neuron models can be suboptimal for practical applications due to their complexity, and high computational cost.
+For this reason, we introduce Dendrify, a new theoretical framework combined with an open-source Python package (compatible with Brian2) that facilitates the development of bioinspired SNNs. Dendrify allows the creation of reduced compartmental neuron models with simplified yet biologically relevant dendritic and synaptic integrative properties.
+Such models strike a good balance between flexibility, performance, and biological accuracy, allowing us to explore dendritic contributions to network-level functions while paving the way for developing more realistic neuromorphic&amp;nbsp;systems.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Manuscript: &lt;a class="reference external" href="https://www.nature.com/articles/s41467-022-35747-8"&gt;Introducing the Dendrify framework for incorporating dendrites to spiking neural networks | Nature&amp;nbsp;Communications&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Source code: &lt;a class="reference external" href="https://github.com/Poirazi-Lab/dendrify"&gt;Poirazi-Lab/dendrify: Introducing dendrites to spiking neural networks. Designed for the Brian 2&amp;nbsp;simulator.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Documentation: &lt;a class="reference external" href="https://dendrify.readthedocs.io/en/latest/"&gt;https://dendrify.readthedocs.io/en/latest/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content><category term="Events"></category><category term="Dendrify"></category><category term="Software highlight"></category><category term="Neuroscience"></category><category term="Simulations"></category><category term="Analysis"></category><category term="Brian"></category></entry></feed>
