@@ -17,17 +17,13 @@ Software highlight: Kay Robbins: HED (Hierarchical Event Descriptors)
 
 .. raw:: html
 
-   <!--
-
    </center>
    <br />
 
    <center>
-    <iframe width="560" height="315" style="height: 315px" src="https://www.youtube.com/embed/V3e_2OSfPsI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" style="height: 315px" src="https://www.youtube.com/embed/0-VLzvwAaUQ?si=z1OL0hxUYkpSsf2-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </center>
    <br />
-
-   -->
 
 
 In human neuroimaging experiments, a record of what a participant experiences together with a clear understanding of the participant (task) intent are key to interpreting recorded brain dynamics.
