@@ -137,6 +137,7 @@ It can also be seen `here on GitHub <https://github.com/orgs/OCNS/teams/software
 #. Rahmi Elibol: Middle East Technical University (METU), Ankara, Turkey (`@rahmielibol <https://github.com/rahmielibol>`__)
 #. Mitchell Hodgson: Flinders University (`@MitchDH <https://github.com/MitchDH>`__)
 #. Muhammad Farhan: Khalid: Research Assistant at Lahore University of Management Sciences (`@imeMFK01 <https://github.com/imeMFK01>`__)
+#. Xiyang Sun: Integrative Computational Brain Science Collaboration Division, RIKEN Center for Brain Science (`@AlbertLordsun <https://github.com/AlbertLordsun>`__)
 
 Please get in touch if you'd like to join the WG.
 
