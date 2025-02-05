@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>INCF/OCNS Software WG - HED</title><link href="https://ocns.github.io/SoftwareWG/" rel="alternate"></link><link href="https://ocns.github.io/SoftwareWG/feeds/tags/hed.atom.xml" rel="self"></link><id>https://ocns.github.io/SoftwareWG/</id><updated>2023-02-17T11:45:56+00:00</updated><subtitle>The INCF/OCNS Software Working Group</subtitle><entry><title>Software highlight: Kay Robbins: HED (Hierarchical Event Descriptors)</title><link href="https://ocns.github.io/SoftwareWG/2023/02/17/software-highlight-kay-robbins-hed.html" rel="alternate"></link><published>2023-02-17T11:45:56+00:00</published><updated>2023-02-17T11:45:56+00:00</updated><author><name>Ankur Sinha</name></author><id>tag:ocns.github.io,2023-02-17:/SoftwareWG/2023/02/17/software-highlight-kay-robbins-hed.html</id><summary type="html">&lt;p class="first last"&gt;&lt;a class="reference external" href="https://www.utsa.edu/sciences/computer-science/faculty/KayRobbins.html"&gt;Kay Robbins&lt;/a&gt; will introduce and discuss &lt;span class="caps"&gt;HED&lt;/span&gt;, a practical system for describing an experiment using an analysis-ready&amp;nbsp;framework.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;&lt;a class="reference external" href="https://www.utsa.edu/sciences/computer-science/faculty/KayRobbins.html"&gt;Kay Robbins&lt;/a&gt; will introduce and discuss &lt;span class="caps"&gt;HED&lt;/span&gt;, a practical system for describing an experiment using an analysis-ready&amp;nbsp;framework.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Zoom (&lt;a class="reference external" href="https://ucl.zoom.us/rec/share/h-tszrMXevUhADQHl9CGwgP08ofJ77vmvFchUjrGZunm6MZB4F1txnUvuIXPAU2l.EiVd5lEKg7r-bh2M"&gt;recordings&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://ocns.github.io/SoftwareWG/extras/other/INCF2023_SoftwareHighlightsFinal.pptx"&gt;Slides&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/center&gt;
+&lt;br /&gt;
+
+&lt;center&gt;
+ &lt;iframe width="560" height="315" style="height: 315px" src="https://www.youtube.com/embed/0-VLzvwAaUQ?si=z1OL0hxUYkpSsf2-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/center&gt;
+&lt;br /&gt;&lt;p&gt;In human neuroimaging experiments, a record of what a participant experiences together with a clear understanding of the participant (task) intent are key to interpreting recorded brain dynamics.
+&lt;span class="caps"&gt;HED&lt;/span&gt; (Hierarchical Event Descriptors, &lt;a class="reference external" href="https://www.hedtags.org"&gt;https://www.hedtags.org&lt;/a&gt;) annotations and supporting infrastructure can provide human-understandable machine-actionable descriptions of events experienced during laboratory and/or real-world time series recordings.
+&lt;span class="caps"&gt;HED&lt;/span&gt;, which is well-integrated into &lt;span class="caps"&gt;BIDS&lt;/span&gt; (&lt;a class="reference external" href="https://bids.neuroimaging.io/"&gt;Brain Imaging Data Structure&lt;/a&gt;) has an ecosystem of tools supporting researchers at various stages including data acquisition, annotation, sharing, and analysis.
+This talk will describe &lt;span class="caps"&gt;HED&lt;/span&gt; principles, focusing on basic representations of an experiment and its design.
+Various tools in the &lt;span class="caps"&gt;HED&lt;/span&gt; ecosystem to support search, summary and analysis will be introduced and demonstrated.
+Finally, we&amp;#8217;ll discuss how tool developers can leverage the &lt;span class="caps"&gt;HED&lt;/span&gt; infrastructure to build advanced analysis tools capable of automated analysis in support of machine learning.
+&lt;span class="caps"&gt;HED&lt;/span&gt; is an entirely open-source project, and the &lt;span class="caps"&gt;HED&lt;/span&gt; Working Group welcomes contributors and&amp;nbsp;contributions.&lt;/p&gt;
+&lt;p&gt;Papers and&amp;nbsp;resources:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Capturing the nature of events and event context using Hierarchical Event Descriptors (&lt;span class="caps"&gt;HED&lt;/span&gt;).&amp;nbsp;NeuroImage. &lt;a class="reference external" href="https://www.sciencedirect.com/science/article/pii/S1053811921010387"&gt;Link&lt;/a&gt;,&lt;/li&gt;
+&lt;li&gt;Building &lt;span class="caps"&gt;FAIR&lt;/span&gt; functionality: Annotating events in time series data using Hierarchical Event Descriptors (&lt;span class="caps"&gt;HED&lt;/span&gt;). Neuroinformatics. &lt;a class="reference external" href="https://link.springer.com/article/10.1007/s12021-021-09537-4"&gt;Link&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Resources: &lt;a class="reference external" href="https://www.hed-resources.org"&gt;https://www.hed-resources.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;GitHub organization: &lt;a class="reference external" href="https://github.com/hed-standard"&gt;https://github.com/hed-standard&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content><category term="Events"></category><category term="HED"></category><category term="Software highlight"></category><category term="Neuroscience"></category><category term="Neuroimaging"></category><category term="BIDS"></category></entry></feed>

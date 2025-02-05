@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>INCF/OCNS Software WG - Automation</title><link href="https://ocns.github.io/SoftwareWG/" rel="alternate"></link><link href="https://ocns.github.io/SoftwareWG/feeds/tags/automation.atom.xml" rel="self"></link><id>https://ocns.github.io/SoftwareWG/</id><updated>2024-06-26T11:24:52+01:00</updated><subtitle>The INCF/OCNS Software Working Group</subtitle><entry><title>WG meeting 9 July 2024: Software Tools for Systems Neuroscience (Adam Tyson)</title><link href="https://ocns.github.io/SoftwareWG/2024/06/26/wg-meeting-9-july-2024-software-tools-for-systems-neuroscience-adam-tyson-.html" rel="alternate"></link><published>2024-06-26T11:24:52+01:00</published><updated>2024-06-26T11:24:52+01:00</updated><author><name>Ankur Sinha</name></author><id>tag:ocns.github.io,2024-06-26:/SoftwareWG/2024/06/26/wg-meeting-9-july-2024-software-tools-for-systems-neuroscience-adam-tyson-.html</id><summary type="html">&lt;p class="first last"&gt;The next &lt;span class="caps"&gt;WG&lt;/span&gt; meeting will be on July 9, 2024 at 1500 &lt;span class="caps"&gt;UTC&lt;/span&gt;. Adam Tyson will present the tools that they develop for systems neuroscience at their research&amp;nbsp;group.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;The next &lt;span class="caps"&gt;WG&lt;/span&gt; meeting will be on July 9, 2024 at 1500 &lt;span class="caps"&gt;UTC&lt;/span&gt;.
+Adam Tyson will present the tools that they develop for Systems Neuroscience at their research group.
+The presentation will be followed by a Q&amp;amp;A, followed by working group&amp;nbsp;business.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;When: &lt;a class="reference external" href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=INCF%2FOCNS+Software+WG+meeting%3A+Software+Tools+Systems+Neuroscience+%28Adam+Tyson%29&amp;amp;iso=20240709T16&amp;amp;p1=136"&gt;July 9, 1500 &lt;span class="caps"&gt;UTC&lt;/span&gt;&lt;/a&gt; (&lt;a class="reference external" href="https://calendar.google.com/calendar/embed?src=0ae207588d5e8c6423bd3d71a1627b0d03c4bb047baa1bc92a9d62f56fc9c75a%40group.calendar.google.com&amp;amp;ctz=Europe%2FLondon"&gt;Event calendar&lt;/a&gt;) (&lt;a class="reference external" href="https://calendar.google.com/calendar/ical/0ae207588d5e8c6423bd3d71a1627b0d03c4bb047baa1bc92a9d62f56fc9c75a%40group.calendar.google.com/public/basic.ics"&gt;iCal&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://ucl.zoom.us/j/91017703246?pwd=RmdwMW9xL0FFaFVVL0Z6dUtnbkplZz09"&gt;Zoom&lt;/a&gt; (you will be required to be logged into Zoom to attend the&amp;nbsp;session)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;&lt;div class="figure"&gt;
+&lt;a class="reference external image-reference" href="#"&gt;
+&lt;img alt="The Neuroinformatics Unit at the Sainsbury Wellcome Centre develops software tools for systems neuroscience." class="img-responsive" src="https://ocns.github.io/SoftwareWG/images/20240626-neuroinformatics-dev.png" style="width: 60%;" /&gt;
+&lt;/a&gt;
+&lt;p class="caption"&gt;The &lt;a class="reference external" href="https://neuroinformatics.dev/"&gt;Neuroinformatics Unit&lt;/a&gt; at the Sainsbury Wellcome Centre develops software tools for systems&amp;nbsp;neuroscience.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/center&gt;
+&lt;br /&gt;&lt;p&gt;Understanding the brain requires processing and analysing large, multidimensional datasets.
+Systems neuroscience, in particular, has undergone a drastic transformation, with individual labs now commonly generating terabytes or even petabytes of data annually.
+While there has been an increase in software tools to process this data, many of these tools are single-purpose, inadequately maintained, or poorly integrated with the broader software ecosystem.
+This talk will outline some of the tools we are developing for &lt;a class="reference external" href="https://brainglobe.info/"&gt;computational neuroanatomy&lt;/a&gt;, &lt;a class="reference external" href="https://movement.neuroinformatics.dev/"&gt;video behavioural analysis&lt;/a&gt;, and &lt;a class="reference external" href="https://neuroblueprint.neuroinformatics.dev/"&gt;data management&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;About the&amp;nbsp;speaker:&lt;/p&gt;
+&lt;p&gt;Adam Tyson is the Head Research Engineer at the &lt;a class="reference external" href="https://www.sainsburywellcome.org/web/"&gt;Sainsbury Wellcome Centre&lt;/a&gt; and &lt;a class="reference external" href="https://www.ucl.ac.uk/gatsby/gatsby-computational-neuroscience-unit"&gt;Gatsby Computational Neuroscience&lt;/a&gt; Unit at University College London.
+He established the &lt;a class="reference external" href="https://neuroinformatics.dev/"&gt;Neuroinformatics Unit&lt;/a&gt;, a research software engineering team dedicated to developing robust, maintainable, and user-friendly software tools for neuroscience and machine learning.
+Adam completed a PhD in neuroscience at King’s College London before working as a software developer at the Institute of Cancer Research and the Sainsbury Wellcome&amp;nbsp;Centre.&lt;/p&gt;
+&lt;p&gt;Resources:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;BrainGlobe: &lt;a class="reference external" href="https://brainglobe.info/"&gt;https://brainglobe.info/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Movement: &lt;a class="reference external" href="https://movement.neuroinformatics.dev/"&gt;https://movement.neuroinformatics.dev/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;NeuroBluePrint: &lt;a class="reference external" href="https://neuroblueprint.neuroinformatics.dev/"&gt;https://neuroblueprint.neuroinformatics.dev/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Neuroinformatics Unit: &lt;a class="reference external" href="https://neuroinformatics.dev/"&gt;https://neuroinformatics.dev/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content><category term="Events"></category><category term="Analysis"></category><category term="Automation"></category><category term="Community"></category><category term="Computational Neuroanatomy"></category><category term="Free/Open Source Software"></category><category term="Meeting"></category><category term="Software development"></category><category term="Software highlight"></category><category term="Neuroscience"></category><category term="Systems Neuroscience"></category><category term="Big data"></category></entry><entry><title>Dev session: Marcel Stimberg: Brian Simulator</title><link href="https://ocns.github.io/SoftwareWG/2021/02/07/dev-session-marcel-stimberg-brian-simulator.html" rel="alternate"></link><published>2021-02-07T16:55:48+00:00</published><updated>2021-06-03T11:31:44+01:00</updated><author><name>Ankur Sinha</name></author><id>tag:ocns.github.io,2021-02-07:/SoftwareWG/2021/02/07/dev-session-marcel-stimberg-brian-simulator.html</id><summary type="html">&lt;p class="first last"&gt;&lt;a class="reference external" href="http://www.computational-neuroscience-of-sensory-systems.org/people/marcel-stimberg/"&gt;Marcel Stimberg&lt;/a&gt; will introduce the &lt;a class="reference external" href="https://briansimulator.org/"&gt;Brian Simulator&lt;/a&gt; and discuss its development for the first developer session of the year. Please read the full post for the Zoom&amp;nbsp;link.&lt;/p&gt;
+</summary><content type="html">&lt;center&gt;&lt;div class="figure"&gt;
+&lt;a class="reference external image-reference" href="https://briansimulator.org/"&gt;
+&lt;img alt="The Brian Simulator" class="img-responsive" src="https://ocns.github.io/SoftwareWG/images/20210208-brian-logo.webp" style="width: 25%;" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/center&gt;
+&lt;br /&gt;
+
+&lt;center&gt;
+    &lt;iframe width="560" height="315" style="height: 315px;" src="https://www.youtube.com/embed/fy6Hs5uQ7aQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/center&gt;
+&lt;br /&gt;&lt;p&gt;&lt;a class="reference external" href="http://www.computational-neuroscience-of-sensory-systems.org/people/marcel-stimberg/"&gt;Marcel Stimberg&lt;/a&gt; will introduce the &lt;a class="reference external" href="https://briansimulator.org/"&gt;Brian Simulator&lt;/a&gt; and discuss its development for the first developer session of the&amp;nbsp;year.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Date: Feb 11, 2021 1700 &lt;span class="caps"&gt;UTC&lt;/span&gt; (Click &lt;a class="reference external" href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Dev+session%3A+Marcel+Stimberg%3A+Brian+Simulator&amp;amp;iso=20210211T17&amp;amp;p1=136&amp;amp;ah=1"&gt;here&lt;/a&gt;  to see your local&amp;nbsp;time).&lt;/li&gt;
+&lt;li&gt;Location (Zoom): (link no longer&amp;nbsp;valid)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The abstract for the talk is&amp;nbsp;below:&lt;/p&gt;
+&lt;p&gt;The &lt;a class="reference external" href="https://briansimulator.org/"&gt;Brian Simulator&lt;/a&gt; is a free, open-source simulator for spiking neural networks, written in Python.
+It provides researchers with the means to express any kind of neural model in mathematical notation and takes care of translating these model descriptions into efficient executable code.
+During this dev session I will first give a quick introduction to the simulator itself and its code generation mechanism.
+I will then walk through Brian&amp;#8217;s code structure, our automatic systems for tests and documentation, and demonstrate how we work on its development.
+The Brian simulator welcome contributions on many levels, hopefully this dev session will give you an idea where to&amp;nbsp;start.&lt;/p&gt;
+</content><category term="Events"></category><category term="Dev session"></category><category term="Brian Simulator"></category><category term="Code generation"></category><category term="Python"></category><category term="Free/Open Source Software"></category><category term="Neuroscience"></category><category term="Computational Neuroscience"></category><category term="Automation"></category><category term="Documentation"></category></entry></feed>

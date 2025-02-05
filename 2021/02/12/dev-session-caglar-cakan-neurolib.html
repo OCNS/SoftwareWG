@@ -1,0 +1,141 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <title>  Dev session: Caglar Cakan: neurolib | INCF/OCNS Software WG
+</title>
+  <link rel="canonical" href="https://ocns.github.io/SoftwareWG/2021/02/12/dev-session-caglar-cakan-neurolib.html">
+
+
+  <link rel="stylesheet" href="https://ocns.github.io/SoftwareWG/theme/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://ocns.github.io/SoftwareWG/theme/css/fontawesome.min.css">
+  <link rel="stylesheet" href="https://ocns.github.io/SoftwareWG/theme/css/pygments/default.min.css">
+  <link rel="stylesheet" href="https://ocns.github.io/SoftwareWG/theme/css/theme.css">
+
+  <link rel="alternate" type="application/atom+xml" title="Full Atom Feed"
+        href="https://ocns.github.io/SoftwareWG//feeds/all.atom.xml">
+  <link rel="alternate" type="application/rss+xml" title="Full RSS Feed"
+        href="https://ocns.github.io/SoftwareWG//feeds/all.rss.xml">  <link rel="alternate" type="application/atom+xml" title="Categories Atom Feed"
+        href="https://ocns.github.io/SoftwareWG//feeds/categories/events.atom.xml">  <link rel="alternate" type="application/rss+xml" title="Categories RSS Feed"
+        href="https://ocns.github.io/SoftwareWG//feeds/categories/events.rss.xml">  
+  <meta name="description" content="Caglar Cakan will introduce neurolib and discuss its development in this developer session.">
+
+
+</head>
+
+<body>
+  <header class="header">
+    <div class="container">
+<div class="row">
+  <div class="col-sm-12">
+    <h1 class="title"><a href="https://ocns.github.io/SoftwareWG/">INCF/OCNS Software WG</a></h1>
+      <p class="text-muted">The INCF/OCNS Software Working Group</p>
+      <ul class="list-inline">
+        <li class="list-inline-item"><a href="https://ocns.github.io/SoftwareWG/index.html" title="Home">Home</a></li>
+        <li class="list-inline-item"><a href="https://ocns.github.io/SoftwareWG/blog_index.html" title="Updates">Updates</a></li>
+        <li class="list-inline-item"><a href="https://ocns.github.io/SoftwareWG/pages/members.html" title="Membership">Membership</a></li>
+        <li class="list-inline-item"><a href="https://ocns.github.io/SoftwareWG/pages/resources.html" title="Resources">Resources</a></li>
+        <li class="list-inline-item"><a href="https://ocns.github.io/SoftwareWG/pages/contact.html" title="Contact">Contact</a></li>
+        <li class="list-inline-item"><a href="https://www.incf.org/" title="INCF">INCF</a></li>
+        <li class="list-inline-item"><a href="https://www.cnsorg.org/" title="OCNS">OCNS</a></li>
+            <li class=" list-inline-item text-muted">|</li>
+          <li class="list-inline-item"><a class="fas fa-mail-bulk" href="https://lists.incf.org/cgi-bin/mailman/listinfo/incf-ocns-software-wg" title="Subscribe to the mailing list"></a></li>
+          <li class="list-inline-item"><a class="fas fa-comments" href="https://matrix.to/#/#OCNS_SoftwareWG:gitter.im" title="Chat to us on Matrix"></a></li>
+          <li class="list-inline-item"><a class="fas fa-mail-bulk" href="https://github.com/OCNS/SoftwareWG/discussions/12" title="Join us on GitHub discussions"></a></li>
+          <li class="list-inline-item"><a class="fab fa-github" href="https://github.com/OCNS/SoftwareWG" title="Join us on GitHub"></a></li>
+          <li class="list-inline-item"><a class="fab fa-twitter" href="https://twitter.com/INCForg/" title="Follow INCF on Twitter"></a></li>
+          <li class="list-inline-item"><a class="fab fa-twitter" href="https://twitter.com/CNSorg/" title="Follow OCNS on Twitter"></a></li>
+          <li class="list-inline-item"><a class="fas fa-rss" href="https://ocns.github.io/SoftwareWG/feeds/all.atom.xml" title="View RSS feeds"></a></li>
+          <li class="list-inline-item"><a class="fas fa-search" href="https://duckduckgo.com/?q=site%3Aocns.github.io/SoftwareWG/&ia=web" title="Search the website using DuckDuckGo"></a></li>
+      </ul>
+  </div>
+</div>    </div>
+  </header>
+
+  <div class="main">
+    <div class="container">
+      <h1>  Dev session: Caglar Cakan:&nbsp;neurolib
+</h1>
+      <hr>
+  <article class="article">
+    <header>
+      <ul class="list-inline">
+        <li class="list-inline-item text-muted" title="2021-02-12T20:27:22+00:00">
+          <i class="fas fa-clock"></i>
+          Fri 12 February 2021
+        </li>
+        <li class="list-inline-item">
+          <i class="fas fa-folder-open"></i>
+          <a href="https://ocns.github.io/SoftwareWG/category/events/">Events</a>
+        </li>
+          <li class="list-inline-item">
+            <i class="fas fa-user"></i>
+              <a href="https://ocns.github.io/SoftwareWG/author/ankur-sinha.html">Ankur Sinha</a>          </li>
+          <li class="list-inline-item">
+            <i class="fas fa-tag"></i>
+              <a href="https://ocns.github.io/SoftwareWG/tag/dev-session/">#Dev session</a>,               <a href="https://ocns.github.io/SoftwareWG/tag/neurolib/">#neurolib</a>,               <a href="https://ocns.github.io/SoftwareWG/tag/python/">#Python</a>,               <a href="https://ocns.github.io/SoftwareWG/tag/whole-brain-modelling/">#Whole-brain modelling</a>          </li>
+<ul class="list-inline">
+  <li class="list-inline-item text-muted" title="Share"><i class="fas fa-share-alt" title="Share this post"></i> Share this post:</li>
+  <li class="list-inline-item"><a class="fab fa-twitter" href="https://twitter.com/intent/tweet?text=Dev%20session%3A%20Caglar%20Cakan%3A%C2%A0neurolib&url=https%3A//ocns.github.io/SoftwareWG/2021/02/12/dev-session-caglar-cakan-neurolib.html&hashtags=dev-session,neurolib,python,whole-brain-modelling" target="_blank" title="Share on Twitter"></a></li>
+  <li class="list-inline-item"><a class="fab fa-facebook" href="https://www.facebook.com/sharer/sharer.php?u=https%3A//ocns.github.io/SoftwareWG/2021/02/12/dev-session-caglar-cakan-neurolib.html" target="_blank" title="Share on Facebook"></a></li>
+  <li class="list-inline-item"><a class="fab fa-reddit" href="https://www.reddit.com/submit?url=https%3A//ocns.github.io/SoftwareWG/2021/02/12/dev-session-caglar-cakan-neurolib.html&title=Dev%20session%3A%20Caglar%20Cakan%3A%C2%A0neurolib" target="_blank" title="Share on Reddit"></a></li>
+  <li class="list-inline-item"><a class="fas fa-mail-bulk" href="mailto:?subject=Dev%20session%3A%20Caglar%20Cakan%3A%C2%A0neurolib&amp;body=https%3A//ocns.github.io/SoftwareWG/2021/02/12/dev-session-caglar-cakan-neurolib.html" target="_blank" title="Share via E-mail"></a></li>
+</ul>
+      </ul>
+    </header>
+    <div class="content">
+      <center><div class="figure">
+<a class="reference external image-reference" href="https://neurolib-dev.github.io/">
+<img alt="neurolib" class="img-responsive" src="https://ocns.github.io/SoftwareWG/images/20210216-neurolib.png" style="width: 75%;" />
+</a>
+</div>
+</center>
+<br />
+
+<center>
+    <iframe width="500" height="320" style="height: 320px;" src="https://www.youtube.com/embed/ngvVtqiilVk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+<br /><p><a class="reference external" href="https://caglorithm.github.io/notebooks/">Caglar Cakan</a> will introduce <a class="reference external" href="https://neurolib-dev.github.io">neurolib</a> and discuss its development in this developer&nbsp;session.</p>
+<ul class="simple">
+<li>Date: February 23, 2021. 1700 <span class="caps">UTC</span>/ 1800 Berlin time (Click <a class="reference external" href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Dev+session%3A+Caglar+Cakan%3A+neurolib&amp;iso=20210223T17&amp;p1=136&amp;ah=1">here</a>  to see your local&nbsp;time).</li>
+<li>Location (Zoom): (link no longer&nbsp;valid)</li>
+</ul>
+<p>The abstract for the talk is&nbsp;below:</p>
+<p><a class="reference external" href="https://neurolib-dev.github.io">neurolib</a> is a computational framework for whole-brain modelling written in Python.
+It provides a set of neural mass models that represent the average activity of a brain region on a mesoscopic scale.
+In a whole-brain network model, brain regions are connected with each other based on structural connectivity data, i.e. the connectome of the brain.
+<a class="reference external" href="https://neurolib-dev.github.io">neurolib</a> can load structural and functional data sets, set up a whole-brain model, manage its parameters, simulate it, and organize its outputs for later analysis.
+The activity of each brain region can be converted into a simulated <span class="caps">BOLD</span> signal in order to calibrate the model to empirical data from functional magnetic resonance imaging (fMRI).
+Extensive model analysis is possible using a parameter exploration module, which allows to characterize the model&#8217;s behaviour given a set of changing parameters.
+An optimization module allows for fitting a model to multimodal empirical data using an evolutionary algorithm.
+Besides its included functionality, <a class="reference external" href="https://neurolib-dev.github.io">neurolib</a> is designed to be extendable such that custom neural mass models can be implemented easily.
+<a class="reference external" href="https://neurolib-dev.github.io">neurolib</a> offers a versatile platform for computational neuroscientists for prototyping models, managing large numerical experiments, studying the structure-function relationship of brain networks, and for in-silico optimization of whole-brain&nbsp;models.</p>
+
+    </div>
+  </article>
+    </div>
+  </div>
+
+  <footer class="footer">
+    <div class="container">
+<div class="row">
+  <ul class="col-sm-6 list-inline">
+    <li class="list-inline-item"><a href="https://ocns.github.io/SoftwareWG/authors.html" title="Authors">Authors</a></li>
+    <li class="list-inline-item"><a href="https://ocns.github.io/SoftwareWG/pages/archives.html" title="Archives">Archives</a></li>
+    <li class="list-inline-item"><a href="https://ocns.github.io/SoftwareWG/categories.html" title="Categories">Categories</a></li>
+      <li class="list-inline-item"><a href="https://ocns.github.io/SoftwareWG/tags.html" title="Tags">Tags</a></li>
+  </ul>
+  <p class="col-sm-6 text-sm-right text-muted">
+    Generated by <a href="https://github.com/getpelican/pelican" target="_blank" title="Pelican">Pelican</a>
+    / <a href="https://github.com/nairobilug/pelican-alchemy" target="_blank">&#x2728;</a>
+  </p>
+</div>    </div>
+  </footer>
+
+</body>
+
+</html>

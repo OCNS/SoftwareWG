@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>INCF/OCNS Software WG - Dev session</title><link href="https://ocns.github.io/SoftwareWG/" rel="alternate"></link><link href="https://ocns.github.io/SoftwareWG/feeds/tags/dev-session.atom.xml" rel="self"></link><id>https://ocns.github.io/SoftwareWG/</id><updated>2022-11-07T13:50:24+00:00</updated><subtitle>The INCF/OCNS Software Working Group</subtitle><entry><title>Dev session: Denis Alevi: Brian2CUDA</title><link href="https://ocns.github.io/SoftwareWG/2022/10/18/dev-session-denis-alevi-brian2cuda.html" rel="alternate"></link><published>2022-10-18T10:38:20+01:00</published><updated>2022-10-18T10:38:20+01:00</updated><author><name>Ankur Sinha</name></author><id>tag:ocns.github.io,2022-10-18:/SoftwareWG/2022/10/18/dev-session-denis-alevi-brian2cuda.html</id><summary type="html">&lt;p class="first last"&gt;&lt;a class="reference external" href="https://www.sprekelerlab.org/denis/"&gt;Denis Alevi&lt;/a&gt; will introduce the &lt;a class="reference external" href="https://brian2cuda.readthedocs.io/en/latest/"&gt;Brian2CUDA&lt;/a&gt; tool in this session, and discuss its development. We will also have a discussion on &lt;span class="caps"&gt;GPU&lt;/span&gt; based simulation in neuroscience after the&amp;nbsp;presentation.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;&lt;a class="reference external" href="https://www.sprekelerlab.org/denis/"&gt;Denis Alevi&lt;/a&gt; will introduce the &lt;a class="reference external" href="https://brian2cuda.readthedocs.io/en/latest/"&gt;Brian2CUDA&lt;/a&gt; tool in this session, and discuss its development. We will also have a discussion on &lt;span class="caps"&gt;GPU&lt;/span&gt; based simulation in neuroscience after the&amp;nbsp;presentation.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Date: Thursday, November 3, 2022, 1600 &lt;span class="caps"&gt;UTC&lt;/span&gt; (Click &lt;a class="reference external" href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Dev+session%3A+Denis+Alevi+Brian2CUDA&amp;amp;iso=20221103T16&amp;amp;p1=136&amp;amp;ah=1"&gt;here&lt;/a&gt; to see your local&amp;nbsp;time).&lt;/li&gt;
+&lt;li&gt;Location (Zoom): &lt;a class="reference external" href="https://ucl.zoom.us/j/95692778384?pwd=VldIQ3hPTU1zczNpYjQxSSt4Z25xdz09"&gt;Link&lt;/a&gt; (Zoom login&amp;nbsp;required)&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="/extras/ics/20221103-dev-session-denis-alevi-brian2cuda.ics"&gt;Click here to download the calendar invite to add this meeting your&amp;nbsp;calendar&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The abstract for the talk is&amp;nbsp;below:&lt;/p&gt;
+&lt;p&gt;Graphics processing units (GPUs) are widely available and have been used with
+great success to accelerate scientific computing in the last decade. These
+advances, however, are often not available to researchers interested in
+simulating spiking neural networks, but lacking the technical knowledge to
+write the necessary low-level code. Writing low-level code is not necessary
+when using the popular Brian simulator, which provides a framework to generate
+efficient &lt;span class="caps"&gt;CPU&lt;/span&gt; code from high-level model definitions in Python. Here, we
+present Brian2CUDA, an open-source software that extends the Brian simulator
+with a &lt;span class="caps"&gt;GPU&lt;/span&gt; backend. Our implementation generates efficient code for the
+numerical integration of neuronal states and for the propagation of synaptic
+events on GPUs, making use of their massively parallel arithmetic capabilities.
+We benchmark the performance improvements of our software for several model
+types and find that it can accelerate simulations by up to three orders of
+magnitude compared to Brian&amp;#8217;s &lt;span class="caps"&gt;CPU&lt;/span&gt; backend. Currently, Brian2CUDA is the only
+package that supports Brian&amp;#8217;s full feature set on GPUs, including arbitrary
+neuron and synapse models, plasticity rules, and heterogeneous delays. When
+comparing its performance with Brian2GeNN, another &lt;span class="caps"&gt;GPU&lt;/span&gt;-based backend for the
+Brian simulator with fewer features, we find that Brian2CUDA gives comparable
+speedups, while being typically slower for small and faster for large networks.
+By combining the flexibility of the Brian simulator with the simulation speed
+of GPUs, Brian2CUDA enables researchers to efficiently simulate spiking neural
+networks with minimal effort and thereby makes the advancements of &lt;span class="caps"&gt;GPU&lt;/span&gt;
+computing available to a larger audience of&amp;nbsp;neuroscientists.&lt;/p&gt;
+&lt;p&gt;References:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Publication: &lt;a class="reference external" href="https://www.frontiersin.org/articles/10.3389/fninf.2022.883700/abstract"&gt;Brian2CUDA: flexible and efficient simulation of spiking neural network models on GPUs (Frontiers in&amp;nbsp;Neuroinformatics)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Documentation: &lt;a class="reference external" href="https://brian2cuda.readthedocs.io/en/latest/"&gt;https://brian2cuda.readthedocs.io/en/latest/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Source code: &lt;a class="reference external" href="https://github.com/brian-team/brian2cuda"&gt;https://github.com/brian-team/brian2cuda&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content><category term="Events"></category><category term="Brian2CUDA"></category><category term="Dev session"></category><category term="GPU"></category><category term="Python"></category><category term="C++"></category><category term="CUDA"></category><category term="Nvidia"></category><category term="Simulation"></category><category term="Code generation"></category></entry><entry><title>Dev session: Joe Graham: NetPyNE</title><link href="https://ocns.github.io/SoftwareWG/2022/04/04/dev-session-joe-graham-netpyne.html" rel="alternate"></link><published>2022-04-04T18:00:00+01:00</published><updated>2022-11-07T13:50:24+00:00</updated><author><name>Joe Graham</name></author><id>tag:ocns.github.io,2022-04-04:/SoftwareWG/2022/04/04/dev-session-joe-graham-netpyne.html</id><summary type="html">&lt;p class="first last"&gt;&lt;a class="reference external" href="http://research.joegraham.name/"&gt;Joe Graham&lt;/a&gt; will introduce &lt;a class="reference external" href="http://netpyne.org/"&gt;NetPyNE&lt;/a&gt; and discuss its development in this dev&amp;nbsp;session.&lt;/p&gt;
+</summary><content type="html">&lt;center&gt;&lt;div class="figure"&gt;
+&lt;a class="reference external image-reference" href="http://netpyne.org/"&gt;
+&lt;img alt="NetPyNE" class="img-responsive" src="https://ocns.github.io/SoftwareWG/images/20220404-netpyne-logo-white.png" style="width: 50%;" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/center&gt;
+&lt;br /&gt;&lt;p&gt;&lt;a class="reference external" href="http://research.joegraham.name/"&gt;Joe Graham&lt;/a&gt; will introduce &lt;a class="reference external" href="http://netpyne.org/"&gt;NetPyNE&lt;/a&gt; and discuss its development in this dev&amp;nbsp;session.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Date: April 4, 2022, 1600 &lt;span class="caps"&gt;UTC&lt;/span&gt; (Click &lt;a class="reference external" href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Dev+session%3A+Joe+Graham%3A+NetPyNE&amp;amp;iso=20220404T16&amp;amp;p1=1440"&gt;here&lt;/a&gt; to see your local&amp;nbsp;time).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/center&gt;
+&lt;br /&gt;
+
+&lt;center&gt;
+ &lt;iframe width="560" height="315" style="height: 315px" src="https://www.youtube.com/embed/V3e_2OSfPsI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/center&gt;
+&lt;br /&gt;&lt;p&gt;The abstract for the talk is&amp;nbsp;below:&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://netpyne.org/"&gt;NetPyNE&lt;/a&gt; is an open-source Python package to facilitate the development, parallel simulation, analysis, and optimization of biological neuronal networks using the &lt;a class="reference external" href="https://neuron.yale.edu/neuron/"&gt;&lt;span class="caps"&gt;NEURON&lt;/span&gt;&lt;/a&gt; simulator.  The &lt;a class="reference external" href="http://gui.netpyne.org/"&gt;NetPyNE &lt;span class="caps"&gt;GUI&lt;/span&gt;&lt;/a&gt; is available from a variety of resources: Neuroscience Gateway Portal (&lt;a class="reference external" href="https://www.nsgportal.org/"&gt;&lt;span class="caps"&gt;NSG&lt;/span&gt;&lt;/a&gt;); Open Source Brain (&lt;a class="reference external" href="https://www.opensourcebrain.org/"&gt;&lt;span class="caps"&gt;OSB&lt;/span&gt;&lt;/a&gt;) ; Human Brain Project (&lt;span class="caps"&gt;HBP&lt;/span&gt;) &lt;a class="reference external" href="https://www.humanbrainproject.eu/en/hbp-platforms/ebrains/"&gt;&lt;span class="caps"&gt;EBRAINS&lt;/span&gt;&lt;/a&gt;; and the &lt;span class="caps"&gt;NIH&lt;/span&gt; &lt;a class="reference external" href="https://commonfund.nih.gov/Sparc/"&gt;&lt;span class="caps"&gt;SPARC&lt;/span&gt;&lt;/a&gt; initiative.  The &lt;a class="reference external" href="http://netpyne.org/"&gt;NetPyNE&lt;/a&gt; source code is available on &lt;a class="reference external" href="https://github.com/suny-downstate-medical-center/netpyne"&gt;GitHub&lt;/a&gt;.  More information is available on the &lt;a class="reference external" href="http://netpyne.org/"&gt;NetPyNE&lt;/a&gt;&amp;nbsp;website.&lt;/p&gt;
+&lt;p&gt;During this dev session, I will give an overview of NetPyNE, go through an interactive demo using the &lt;a class="reference external" href="http://gui.netpyne.org/"&gt;NetPyNE &lt;span class="caps"&gt;GUI&lt;/span&gt;&lt;/a&gt;, describe my personal development workflow using virtual environments, and then go through two big dev projects I worked on: (1) documenting code inline and online using docstrings, &lt;a class="reference external" href="https://www.sphinx-doc.org/en/master/"&gt;Sphinx&lt;/a&gt;, &lt;a class="reference external" href="https://sphinxcontrib-napoleon.readthedocs.io/en/latest/"&gt;Napoleon&lt;/a&gt;, and &lt;a class="reference external" href="https://autodocsumm.readthedocs.io/en/latest/"&gt;autodocsumm&lt;/a&gt;, and (2) separating and standardizing analysis and&amp;nbsp;plotting.&lt;/p&gt;
+</content><category term="Events"></category><category term="NetPyNE"></category><category term="Dev session"></category><category term="Python"></category><category term="Neuroscience"></category><category term="Simulations"></category><category term="Analysis"></category></entry><entry><title>Dev session: Daniel S Katz, Neil Chue Hong: Software Citation Principles</title><link href="https://ocns.github.io/SoftwareWG/2021/11/01/dev-session-daniel-s-katz-neil-chue-hong-software-citation-principles.html" rel="alternate"></link><published>2021-11-01T18:51:16+00:00</published><updated>2022-11-07T13:48:58+00:00</updated><author><name>Ankur Sinha</name></author><id>tag:ocns.github.io,2021-11-01:/SoftwareWG/2021/11/01/dev-session-daniel-s-katz-neil-chue-hong-software-citation-principles.html</id><summary type="html">&lt;p class="first last"&gt;&lt;a class="reference external" href="https://www.force11.org/users/daniel-s-katz"&gt;Daniel S Katz&lt;/a&gt; and &lt;a class="reference external" href="https://www.force11.org/users/neil-chue-hong"&gt;Neil Chue Hong&lt;/a&gt; will discuss principles of citing research software in this dev&amp;nbsp;session.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;&lt;a class="reference external" href="https://www.force11.org/users/daniel-s-katz"&gt;Daniel S Katz&lt;/a&gt; and &lt;a class="reference external" href="https://www.force11.org/users/neil-chue-hong"&gt;Neil Chue Hong&lt;/a&gt; will discuss principles of citing research software in this dev&amp;nbsp;session.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Date: November 22, 2021, 1600 &lt;span class="caps"&gt;UTC&lt;/span&gt; (Click &lt;a class="reference external" href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Dev+session%3A+Software+Citation+Principles&amp;amp;iso=20211122T16&amp;amp;p1=1440&amp;amp;ah=1"&gt;here&lt;/a&gt; to see your local&amp;nbsp;time).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/center&gt;
+&lt;br /&gt;
+
+&lt;center&gt;
+ &lt;iframe width="560" height="315" style="height: 315px" src="https://www.youtube.com/embed/0uiyk6obP5Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/center&gt;
+&lt;br /&gt;&lt;p&gt;The abstract for the talk is&amp;nbsp;below:&lt;/p&gt;
+&lt;p&gt;Today, software is a key part of almost all research, and the development and
+maintenance of this software is done by human beings, often in academia. It&amp;#8217;s
+essential that these activities be seen as a valued element of scholarly work
+so that the people who do it have career paths that encourage them to continue
+to do it. One means of accomplishing this is to use the existing scholarly
+citation&amp;nbsp;system.&lt;/p&gt;
+&lt;p&gt;The &lt;a class="reference external" href="https://www.force11.org/group/software-citation-working-group"&gt;&lt;span class="caps"&gt;FORCE11&lt;/span&gt; Software Citation working group&lt;/a&gt; developed a
+set of &lt;a class="reference external" href="https://www.force11.org/software-citation-principles"&gt;Software Citation Principles in 2016&lt;/a&gt;, and since then, the
+&lt;a class="reference external" href="https://www.force11.org/group/software-citation-implementation-working-group"&gt;&lt;span class="caps"&gt;FORCE11&lt;/span&gt; Software Citation Implementation working group&lt;/a&gt;
+has been working with many types of stakeholders, including publishers,
+repositories, and standards, to implement the principles.  We&amp;#8217;ll talk about
+this work, the changes we&amp;#8217;ve seen, what still needs to be done, and how the
+&lt;span class="caps"&gt;INCF&lt;/span&gt; community can&amp;nbsp;participate.&lt;/p&gt;
+&lt;p&gt;The slides from this talk are &lt;a class="reference external" href="https://doi.org/10.5281/zenodo.5718613"&gt;available&lt;/a&gt;.&lt;/p&gt;
+</content><category term="Events"></category><category term="Dev session"></category><category term="Software citation"></category><category term="F1000"></category></entry><entry><title>Dev session: Rick Gerkin: SciUnit</title><link href="https://ocns.github.io/SoftwareWG/2021/06/04/dev-session-rick-gerkin-sciunit.html" rel="alternate"></link><published>2021-06-04T18:00:00+01:00</published><updated>2021-06-14T16:21:12+01:00</updated><author><name>Shailesh Appukuttan</name></author><id>tag:ocns.github.io,2021-06-04:/SoftwareWG/2021/06/04/dev-session-rick-gerkin-sciunit.html</id><summary type="html">&lt;p class="first last"&gt;&lt;a class="reference external" href="https://sols.asu.edu/richard-gerkin"&gt;Rick Gerkin&lt;/a&gt; will introduce the &lt;a class="reference external" href="https://scidash.org/sciunit.html"&gt;SciUnit&lt;/a&gt; framework and discuss its development in this dev&amp;nbsp;session.&lt;/p&gt;
+</summary><content type="html">&lt;center&gt;&lt;div class="figure"&gt;
+&lt;a class="reference external image-reference" href="https://github.com/scidash/sciunit"&gt;
+&lt;img alt="SciUnit" class="img-responsive" src="https://ocns.github.io/SoftwareWG/images/20210621-sciunit.png" style="width: 50%;" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/center&gt;
+&lt;br /&gt;&lt;p&gt;&lt;a class="reference external" href="https://sols.asu.edu/richard-gerkin"&gt;Rick Gerkin&lt;/a&gt; will introduce the &lt;a class="reference external" href="https://scidash.org/sciunit.html"&gt;SciUnit&lt;/a&gt; framework and discuss its development in this dev&amp;nbsp;session.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Date: June 21, 2021, 1600 &lt;span class="caps"&gt;UTC&lt;/span&gt; (Click &lt;a class="reference external" href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Dev+session%3A+Rick+Gerkin+%3A+SciUnit&amp;amp;iso=20210621T18&amp;amp;p1=195&amp;amp;ah=1"&gt;here&lt;/a&gt; to see your local&amp;nbsp;time).&lt;/li&gt;
+&lt;li&gt;Location (Zoom): &lt;a class="reference external" href="https://ucl.zoom.us/j/91246735902?pwd=WVdVK3I5SGdlaDFZdllDQ0w2djVBdz09"&gt;https://ucl.zoom.us/j/91246735902?pwd=WVdVK3I5SGdlaDFZdllDQ0w2djVBdz09&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The abstract for the talk is&amp;nbsp;below:&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://scidash.org/sciunit.html"&gt;SciUnit&lt;/a&gt; is a discipline-agnostic framework for model validation, handling all of the testing workflow by using a implementation-independent interface to models.
+&lt;a class="reference external" href="https://scidash.org/sciunit.html"&gt;SciUnit&lt;/a&gt; also contains code for visualization of model results, and command line tools for incorporating testing into continuous integration&amp;nbsp;workflows.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://scidash.org/sciunit.html"&gt;SciUnit&lt;/a&gt; is used in model validation in neuroscience via &lt;a class="reference external" href="http://sciunit.io/neuronunit.html"&gt;NeuronUnit&lt;/a&gt;, which implements an interface to several simulators and model description languages, handles test calculations according to domain standards, and enables automated construction of tests based on data from several major public data&amp;nbsp;repositories.&lt;/p&gt;
+</content><category term="Events"></category><category term="SciUnit"></category><category term="Dev session"></category><category term="Python"></category><category term="Validation"></category><category term="Verification"></category><category term="Framework"></category></entry><entry><title>Dev session: James Knight, Thomas Nowotny: GeNN</title><link href="https://ocns.github.io/SoftwareWG/2021/02/26/dev-session-james-knight-thomas-nowotny-genn.html" rel="alternate"></link><published>2021-02-26T18:33:55+00:00</published><updated>2021-06-03T11:35:23+01:00</updated><author><name>Ankur Sinha</name></author><id>tag:ocns.github.io,2021-02-26:/SoftwareWG/2021/02/26/dev-session-james-knight-thomas-nowotny-genn.html</id><summary type="html">&lt;p class="first last"&gt;&lt;a class="reference external" href="http://www.sussex.ac.uk/profiles/415734"&gt;James Knight&lt;/a&gt; and &lt;a class="reference external" href="http://www.sussex.ac.uk/profiles/206151"&gt;Thomas Nowotny&lt;/a&gt; will introduce the &lt;a class="reference external" href="http://genn-team.github.io/genn/"&gt;GeNN&lt;/a&gt; simulation environment and discuss its development in this dev&amp;nbsp;session.&lt;/p&gt;
+</summary><content type="html">&lt;center&gt;&lt;div class="figure"&gt;
+&lt;a class="reference external image-reference" href="http://genn-team.github.io/genn/"&gt;
+&lt;img alt="The GeNN simulator" class="img-responsive" src="https://ocns.github.io/SoftwareWG/images/20210304-genn.png" style="width: 50%;" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/center&gt;
+&lt;br /&gt;
+
+&lt;center&gt;
+ &lt;iframe width="560" height="315" style="height: 315px;" src="https://www.youtube.com/embed/1ZHpKG41kp8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/center&gt;
+&lt;br /&gt;&lt;p&gt;&lt;a class="reference external" href="http://www.sussex.ac.uk/profiles/415734"&gt;James Knight&lt;/a&gt; and &lt;a class="reference external" href="http://www.sussex.ac.uk/profiles/206151"&gt;Thomas Nowotny&lt;/a&gt; will introduce the &lt;a class="reference external" href="http://genn-team.github.io/genn/"&gt;GeNN&lt;/a&gt; simulation environment and discuss its development in this dev&amp;nbsp;session.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Date: March 9, 2021, 1700 &lt;span class="caps"&gt;UTC&lt;/span&gt; (Click &lt;a class="reference external" href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Dev+session%3A+James+Knight%2CThomas+Nowotny%3A+GeNN&amp;amp;iso=20210309T17&amp;amp;p1=136&amp;amp;ah=1"&gt;here&lt;/a&gt; to see your local&amp;nbsp;time).&lt;/li&gt;
+&lt;li&gt;Location (Zoom): (link no longer&amp;nbsp;valid)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The abstract for the talk is&amp;nbsp;below:&lt;/p&gt;
+&lt;p&gt;Large-scale numerical simulations of brain circuit models are important for identifying hypotheses on brain functions and testing their consistency and plausibility.
+Similarly, spiking neural networks are also gaining traction in machine learning with the promise that neuromorphic hardware will eventually make them much more energy efficient than classical ANNs.
+In this dev session, we will present the &lt;a class="reference external" href="http://genn-team.github.io/genn/"&gt;GeNN&lt;/a&gt; (&lt;span class="caps"&gt;GPU&lt;/span&gt;-enhanced Neuronal Networks) framework [1], which aims to facilitate the use of graphics accelerators for computational models of large-scale spiking neuronal networks to address the challenge of efficient simulations.
+&lt;a class="reference external" href="http://genn-team.github.io/genn/"&gt;GeNN&lt;/a&gt; is an open source library that generates code to accelerate the execution of network simulations on &lt;span class="caps"&gt;NVIDIA&lt;/span&gt; GPUs through a flexible and extensible interface, which does not require in-depth technical knowledge from the users.
+&lt;a class="reference external" href="http://genn-team.github.io/genn/"&gt;GeNN&lt;/a&gt; was originally developed as a pure C++ and &lt;a class="reference external" href="https://www.nvidia.com/en-gb/geforce/technologies/cuda/"&gt;&lt;span class="caps"&gt;CUDA&lt;/span&gt;&lt;/a&gt; library but, subsequently, we have added a Python interface and &lt;a class="reference external" href="https://www.khronos.org/opencl/"&gt;OpenCL&lt;/a&gt; backend.
+The Python interface has enabled us to develop a &lt;a class="reference external" href="http://neuralensemble.org/PyNN/"&gt;PyNN&lt;/a&gt; [2] frontend and we are also working on a Keras-inspired frontend for spike-based machine learning&amp;nbsp;[3].&lt;/p&gt;
+&lt;p&gt;In the session we will briefly cover the history and basic philosophy of &lt;a class="reference external" href="http://genn-team.github.io/genn/"&gt;GeNN&lt;/a&gt; and show some simple examples of how it is used and how it works inside.
+We will then talk in more depth about its development with a focus on testing for &lt;span class="caps"&gt;GPU&lt;/span&gt; dependent software and some of the further developments such as Brian2GeNN&amp;nbsp;[4].&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;[1] &lt;a class="reference external" href="https://github.com/genn-team/genn"&gt;https://github.com/genn-team/genn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[2] &lt;a class="reference external" href="https://github.com/genn-team/pynn_genn"&gt;https://github.com/genn-team/pynn_genn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[3] &lt;a class="reference external" href="https://github.com/genn-team/ml_genn"&gt;https://github.com/genn-team/ml_genn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[4] &lt;a class="reference external" href="https://github.com/brian-team/brian2genn"&gt;https://github.com/brian-team/brian2genn&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content><category term="Events"></category><category term="GeNN"></category><category term="Dev session"></category><category term="GPU"></category><category term="Python"></category><category term="C++"></category><category term="CUDA"></category><category term="Nvidia"></category><category term="Simulation"></category><category term="Code generation"></category></entry><entry><title>Dev session: Caglar Cakan: neurolib</title><link href="https://ocns.github.io/SoftwareWG/2021/02/12/dev-session-caglar-cakan-neurolib.html" rel="alternate"></link><published>2021-02-12T20:27:22+00:00</published><updated>2021-06-03T11:12:57+01:00</updated><author><name>Ankur Sinha</name></author><id>tag:ocns.github.io,2021-02-12:/SoftwareWG/2021/02/12/dev-session-caglar-cakan-neurolib.html</id><summary type="html">&lt;p class="first last"&gt;&lt;a class="reference external" href="https://caglorithm.github.io/notebooks/"&gt;Caglar Cakan&lt;/a&gt; will introduce &lt;a class="reference external" href="https://neurolib-dev.github.io"&gt;neurolib&lt;/a&gt; and discuss its development in this developer&amp;nbsp;session.&lt;/p&gt;
+</summary><content type="html">&lt;center&gt;&lt;div class="figure"&gt;
+&lt;a class="reference external image-reference" href="https://neurolib-dev.github.io/"&gt;
+&lt;img alt="neurolib" class="img-responsive" src="https://ocns.github.io/SoftwareWG/images/20210216-neurolib.png" style="width: 75%;" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/center&gt;
+&lt;br /&gt;
+
+&lt;center&gt;
+    &lt;iframe width="500" height="320" style="height: 320px;" src="https://www.youtube.com/embed/ngvVtqiilVk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/center&gt;
+&lt;br /&gt;&lt;p&gt;&lt;a class="reference external" href="https://caglorithm.github.io/notebooks/"&gt;Caglar Cakan&lt;/a&gt; will introduce &lt;a class="reference external" href="https://neurolib-dev.github.io"&gt;neurolib&lt;/a&gt; and discuss its development in this developer&amp;nbsp;session.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Date: February 23, 2021. 1700 &lt;span class="caps"&gt;UTC&lt;/span&gt;/ 1800 Berlin time (Click &lt;a class="reference external" href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Dev+session%3A+Caglar+Cakan%3A+neurolib&amp;amp;iso=20210223T17&amp;amp;p1=136&amp;amp;ah=1"&gt;here&lt;/a&gt;  to see your local&amp;nbsp;time).&lt;/li&gt;
+&lt;li&gt;Location (Zoom): (link no longer&amp;nbsp;valid)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The abstract for the talk is&amp;nbsp;below:&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://neurolib-dev.github.io"&gt;neurolib&lt;/a&gt; is a computational framework for whole-brain modelling written in Python.
+It provides a set of neural mass models that represent the average activity of a brain region on a mesoscopic scale.
+In a whole-brain network model, brain regions are connected with each other based on structural connectivity data, i.e. the connectome of the brain.
+&lt;a class="reference external" href="https://neurolib-dev.github.io"&gt;neurolib&lt;/a&gt; can load structural and functional data sets, set up a whole-brain model, manage its parameters, simulate it, and organize its outputs for later analysis.
+The activity of each brain region can be converted into a simulated &lt;span class="caps"&gt;BOLD&lt;/span&gt; signal in order to calibrate the model to empirical data from functional magnetic resonance imaging (fMRI).
+Extensive model analysis is possible using a parameter exploration module, which allows to characterize the model&amp;#8217;s behaviour given a set of changing parameters.
+An optimization module allows for fitting a model to multimodal empirical data using an evolutionary algorithm.
+Besides its included functionality, &lt;a class="reference external" href="https://neurolib-dev.github.io"&gt;neurolib&lt;/a&gt; is designed to be extendable such that custom neural mass models can be implemented easily.
+&lt;a class="reference external" href="https://neurolib-dev.github.io"&gt;neurolib&lt;/a&gt; offers a versatile platform for computational neuroscientists for prototyping models, managing large numerical experiments, studying the structure-function relationship of brain networks, and for in-silico optimization of whole-brain&amp;nbsp;models.&lt;/p&gt;
+</content><category term="Events"></category><category term="Dev session"></category><category term="neurolib"></category><category term="Python"></category><category term="Whole-brain modelling"></category></entry><entry><title>Dev session: Marcel Stimberg: Brian Simulator</title><link href="https://ocns.github.io/SoftwareWG/2021/02/07/dev-session-marcel-stimberg-brian-simulator.html" rel="alternate"></link><published>2021-02-07T16:55:48+00:00</published><updated>2021-06-03T11:31:44+01:00</updated><author><name>Ankur Sinha</name></author><id>tag:ocns.github.io,2021-02-07:/SoftwareWG/2021/02/07/dev-session-marcel-stimberg-brian-simulator.html</id><summary type="html">&lt;p class="first last"&gt;&lt;a class="reference external" href="http://www.computational-neuroscience-of-sensory-systems.org/people/marcel-stimberg/"&gt;Marcel Stimberg&lt;/a&gt; will introduce the &lt;a class="reference external" href="https://briansimulator.org/"&gt;Brian Simulator&lt;/a&gt; and discuss its development for the first developer session of the year. Please read the full post for the Zoom&amp;nbsp;link.&lt;/p&gt;
+</summary><content type="html">&lt;center&gt;&lt;div class="figure"&gt;
+&lt;a class="reference external image-reference" href="https://briansimulator.org/"&gt;
+&lt;img alt="The Brian Simulator" class="img-responsive" src="https://ocns.github.io/SoftwareWG/images/20210208-brian-logo.webp" style="width: 25%;" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/center&gt;
+&lt;br /&gt;
+
+&lt;center&gt;
+    &lt;iframe width="560" height="315" style="height: 315px;" src="https://www.youtube.com/embed/fy6Hs5uQ7aQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/center&gt;
+&lt;br /&gt;&lt;p&gt;&lt;a class="reference external" href="http://www.computational-neuroscience-of-sensory-systems.org/people/marcel-stimberg/"&gt;Marcel Stimberg&lt;/a&gt; will introduce the &lt;a class="reference external" href="https://briansimulator.org/"&gt;Brian Simulator&lt;/a&gt; and discuss its development for the first developer session of the&amp;nbsp;year.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Date: Feb 11, 2021 1700 &lt;span class="caps"&gt;UTC&lt;/span&gt; (Click &lt;a class="reference external" href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Dev+session%3A+Marcel+Stimberg%3A+Brian+Simulator&amp;amp;iso=20210211T17&amp;amp;p1=136&amp;amp;ah=1"&gt;here&lt;/a&gt;  to see your local&amp;nbsp;time).&lt;/li&gt;
+&lt;li&gt;Location (Zoom): (link no longer&amp;nbsp;valid)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The abstract for the talk is&amp;nbsp;below:&lt;/p&gt;
+&lt;p&gt;The &lt;a class="reference external" href="https://briansimulator.org/"&gt;Brian Simulator&lt;/a&gt; is a free, open-source simulator for spiking neural networks, written in Python.
+It provides researchers with the means to express any kind of neural model in mathematical notation and takes care of translating these model descriptions into efficient executable code.
+During this dev session I will first give a quick introduction to the simulator itself and its code generation mechanism.
+I will then walk through Brian&amp;#8217;s code structure, our automatic systems for tests and documentation, and demonstrate how we work on its development.
+The Brian simulator welcome contributions on many levels, hopefully this dev session will give you an idea where to&amp;nbsp;start.&lt;/p&gt;
+</content><category term="Events"></category><category term="Dev session"></category><category term="Brian Simulator"></category><category term="Code generation"></category><category term="Python"></category><category term="Free/Open Source Software"></category><category term="Neuroscience"></category><category term="Computational Neuroscience"></category><category term="Automation"></category><category term="Documentation"></category></entry></feed>

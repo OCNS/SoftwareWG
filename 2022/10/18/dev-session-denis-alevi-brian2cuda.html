@@ -1,0 +1,151 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <title>  Dev session: Denis Alevi: Brian2CUDA | INCF/OCNS Software WG
+</title>
+  <link rel="canonical" href="https://ocns.github.io/SoftwareWG/2022/10/18/dev-session-denis-alevi-brian2cuda.html">
+
+
+  <link rel="stylesheet" href="https://ocns.github.io/SoftwareWG/theme/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://ocns.github.io/SoftwareWG/theme/css/fontawesome.min.css">
+  <link rel="stylesheet" href="https://ocns.github.io/SoftwareWG/theme/css/pygments/default.min.css">
+  <link rel="stylesheet" href="https://ocns.github.io/SoftwareWG/theme/css/theme.css">
+
+  <link rel="alternate" type="application/atom+xml" title="Full Atom Feed"
+        href="https://ocns.github.io/SoftwareWG//feeds/all.atom.xml">
+  <link rel="alternate" type="application/rss+xml" title="Full RSS Feed"
+        href="https://ocns.github.io/SoftwareWG//feeds/all.rss.xml">  <link rel="alternate" type="application/atom+xml" title="Categories Atom Feed"
+        href="https://ocns.github.io/SoftwareWG//feeds/categories/events.atom.xml">  <link rel="alternate" type="application/rss+xml" title="Categories RSS Feed"
+        href="https://ocns.github.io/SoftwareWG//feeds/categories/events.rss.xml">  
+  <meta name="description" content="Denis Alevi will introduce the Brian2CUDA tool in this session, and discuss its development. We will also have a discussion on GPU based simulation in neuroscience after the presentation.">
+
+
+</head>
+
+<body>
+  <header class="header">
+    <div class="container">
+<div class="row">
+  <div class="col-sm-12">
+    <h1 class="title"><a href="https://ocns.github.io/SoftwareWG/">INCF/OCNS Software WG</a></h1>
+      <p class="text-muted">The INCF/OCNS Software Working Group</p>
+      <ul class="list-inline">
+        <li class="list-inline-item"><a href="https://ocns.github.io/SoftwareWG/index.html" title="Home">Home</a></li>
+        <li class="list-inline-item"><a href="https://ocns.github.io/SoftwareWG/blog_index.html" title="Updates">Updates</a></li>
+        <li class="list-inline-item"><a href="https://ocns.github.io/SoftwareWG/pages/members.html" title="Membership">Membership</a></li>
+        <li class="list-inline-item"><a href="https://ocns.github.io/SoftwareWG/pages/resources.html" title="Resources">Resources</a></li>
+        <li class="list-inline-item"><a href="https://ocns.github.io/SoftwareWG/pages/contact.html" title="Contact">Contact</a></li>
+        <li class="list-inline-item"><a href="https://www.incf.org/" title="INCF">INCF</a></li>
+        <li class="list-inline-item"><a href="https://www.cnsorg.org/" title="OCNS">OCNS</a></li>
+            <li class=" list-inline-item text-muted">|</li>
+          <li class="list-inline-item"><a class="fas fa-mail-bulk" href="https://lists.incf.org/cgi-bin/mailman/listinfo/incf-ocns-software-wg" title="Subscribe to the mailing list"></a></li>
+          <li class="list-inline-item"><a class="fas fa-comments" href="https://matrix.to/#/#OCNS_SoftwareWG:gitter.im" title="Chat to us on Matrix"></a></li>
+          <li class="list-inline-item"><a class="fas fa-mail-bulk" href="https://github.com/OCNS/SoftwareWG/discussions/12" title="Join us on GitHub discussions"></a></li>
+          <li class="list-inline-item"><a class="fab fa-github" href="https://github.com/OCNS/SoftwareWG" title="Join us on GitHub"></a></li>
+          <li class="list-inline-item"><a class="fab fa-twitter" href="https://twitter.com/INCForg/" title="Follow INCF on Twitter"></a></li>
+          <li class="list-inline-item"><a class="fab fa-twitter" href="https://twitter.com/CNSorg/" title="Follow OCNS on Twitter"></a></li>
+          <li class="list-inline-item"><a class="fas fa-rss" href="https://ocns.github.io/SoftwareWG/feeds/all.atom.xml" title="View RSS feeds"></a></li>
+          <li class="list-inline-item"><a class="fas fa-search" href="https://duckduckgo.com/?q=site%3Aocns.github.io/SoftwareWG/&ia=web" title="Search the website using DuckDuckGo"></a></li>
+      </ul>
+  </div>
+</div>    </div>
+  </header>
+
+  <div class="main">
+    <div class="container">
+      <h1>  Dev session: Denis Alevi:&nbsp;Brian2CUDA
+</h1>
+      <hr>
+  <article class="article">
+    <header>
+      <ul class="list-inline">
+        <li class="list-inline-item text-muted" title="2022-10-18T10:38:20+01:00">
+          <i class="fas fa-clock"></i>
+          Tue 18 October 2022
+        </li>
+        <li class="list-inline-item">
+          <i class="fas fa-folder-open"></i>
+          <a href="https://ocns.github.io/SoftwareWG/category/events/">Events</a>
+        </li>
+          <li class="list-inline-item">
+            <i class="fas fa-user"></i>
+              <a href="https://ocns.github.io/SoftwareWG/author/ankur-sinha.html">Ankur Sinha</a>          </li>
+          <li class="list-inline-item">
+            <i class="fas fa-tag"></i>
+              <a href="https://ocns.github.io/SoftwareWG/tag/brian2cuda/">#Brian2CUDA</a>,               <a href="https://ocns.github.io/SoftwareWG/tag/dev-session/">#Dev session</a>,               <a href="https://ocns.github.io/SoftwareWG/tag/gpu/">#GPU</a>,               <a href="https://ocns.github.io/SoftwareWG/tag/python/">#Python</a>,               <a href="https://ocns.github.io/SoftwareWG/tag/c/">#C++</a>,               <a href="https://ocns.github.io/SoftwareWG/tag/cuda/">#CUDA</a>,               <a href="https://ocns.github.io/SoftwareWG/tag/nvidia/">#Nvidia</a>,               <a href="https://ocns.github.io/SoftwareWG/tag/simulation/">#Simulation</a>,               <a href="https://ocns.github.io/SoftwareWG/tag/code-generation/">#Code generation</a>          </li>
+<ul class="list-inline">
+  <li class="list-inline-item text-muted" title="Share"><i class="fas fa-share-alt" title="Share this post"></i> Share this post:</li>
+  <li class="list-inline-item"><a class="fab fa-twitter" href="https://twitter.com/intent/tweet?text=Dev%20session%3A%20Denis%20Alevi%3A%C2%A0Brian2CUDA&url=https%3A//ocns.github.io/SoftwareWG/2022/10/18/dev-session-denis-alevi-brian2cuda.html&hashtags=brian2cuda,dev-session,gpu,python,c,cuda,nvidia,simulation,code-generation" target="_blank" title="Share on Twitter"></a></li>
+  <li class="list-inline-item"><a class="fab fa-facebook" href="https://www.facebook.com/sharer/sharer.php?u=https%3A//ocns.github.io/SoftwareWG/2022/10/18/dev-session-denis-alevi-brian2cuda.html" target="_blank" title="Share on Facebook"></a></li>
+  <li class="list-inline-item"><a class="fab fa-reddit" href="https://www.reddit.com/submit?url=https%3A//ocns.github.io/SoftwareWG/2022/10/18/dev-session-denis-alevi-brian2cuda.html&title=Dev%20session%3A%20Denis%20Alevi%3A%C2%A0Brian2CUDA" target="_blank" title="Share on Reddit"></a></li>
+  <li class="list-inline-item"><a class="fas fa-mail-bulk" href="mailto:?subject=Dev%20session%3A%20Denis%20Alevi%3A%C2%A0Brian2CUDA&amp;body=https%3A//ocns.github.io/SoftwareWG/2022/10/18/dev-session-denis-alevi-brian2cuda.html" target="_blank" title="Share via E-mail"></a></li>
+</ul>
+      </ul>
+    </header>
+    <div class="content">
+      <p><a class="reference external" href="https://www.sprekelerlab.org/denis/">Denis Alevi</a> will introduce the <a class="reference external" href="https://brian2cuda.readthedocs.io/en/latest/">Brian2CUDA</a> tool in this session, and discuss its development. We will also have a discussion on <span class="caps">GPU</span> based simulation in neuroscience after the&nbsp;presentation.</p>
+<ul class="simple">
+<li>Date: Thursday, November 3, 2022, 1600 <span class="caps">UTC</span> (Click <a class="reference external" href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Dev+session%3A+Denis+Alevi+Brian2CUDA&amp;iso=20221103T16&amp;p1=136&amp;ah=1">here</a> to see your local&nbsp;time).</li>
+<li>Location (Zoom): <a class="reference external" href="https://ucl.zoom.us/j/95692778384?pwd=VldIQ3hPTU1zczNpYjQxSSt4Z25xdz09">Link</a> (Zoom login&nbsp;required)</li>
+<li><a class="reference external" href="/extras/ics/20221103-dev-session-denis-alevi-brian2cuda.ics">Click here to download the calendar invite to add this meeting your&nbsp;calendar</a></li>
+</ul>
+<p>The abstract for the talk is&nbsp;below:</p>
+<p>Graphics processing units (GPUs) are widely available and have been used with
+great success to accelerate scientific computing in the last decade. These
+advances, however, are often not available to researchers interested in
+simulating spiking neural networks, but lacking the technical knowledge to
+write the necessary low-level code. Writing low-level code is not necessary
+when using the popular Brian simulator, which provides a framework to generate
+efficient <span class="caps">CPU</span> code from high-level model definitions in Python. Here, we
+present Brian2CUDA, an open-source software that extends the Brian simulator
+with a <span class="caps">GPU</span> backend. Our implementation generates efficient code for the
+numerical integration of neuronal states and for the propagation of synaptic
+events on GPUs, making use of their massively parallel arithmetic capabilities.
+We benchmark the performance improvements of our software for several model
+types and find that it can accelerate simulations by up to three orders of
+magnitude compared to Brian&#8217;s <span class="caps">CPU</span> backend. Currently, Brian2CUDA is the only
+package that supports Brian&#8217;s full feature set on GPUs, including arbitrary
+neuron and synapse models, plasticity rules, and heterogeneous delays. When
+comparing its performance with Brian2GeNN, another <span class="caps">GPU</span>-based backend for the
+Brian simulator with fewer features, we find that Brian2CUDA gives comparable
+speedups, while being typically slower for small and faster for large networks.
+By combining the flexibility of the Brian simulator with the simulation speed
+of GPUs, Brian2CUDA enables researchers to efficiently simulate spiking neural
+networks with minimal effort and thereby makes the advancements of <span class="caps">GPU</span>
+computing available to a larger audience of&nbsp;neuroscientists.</p>
+<p>References:</p>
+<ul class="simple">
+<li>Publication: <a class="reference external" href="https://www.frontiersin.org/articles/10.3389/fninf.2022.883700/abstract">Brian2CUDA: flexible and efficient simulation of spiking neural network models on GPUs (Frontiers in&nbsp;Neuroinformatics)</a></li>
+<li>Documentation: <a class="reference external" href="https://brian2cuda.readthedocs.io/en/latest/">https://brian2cuda.readthedocs.io/en/latest/</a></li>
+<li>Source code: <a class="reference external" href="https://github.com/brian-team/brian2cuda">https://github.com/brian-team/brian2cuda</a></li>
+</ul>
+
+    </div>
+  </article>
+    </div>
+  </div>
+
+  <footer class="footer">
+    <div class="container">
+<div class="row">
+  <ul class="col-sm-6 list-inline">
+    <li class="list-inline-item"><a href="https://ocns.github.io/SoftwareWG/authors.html" title="Authors">Authors</a></li>
+    <li class="list-inline-item"><a href="https://ocns.github.io/SoftwareWG/pages/archives.html" title="Archives">Archives</a></li>
+    <li class="list-inline-item"><a href="https://ocns.github.io/SoftwareWG/categories.html" title="Categories">Categories</a></li>
+      <li class="list-inline-item"><a href="https://ocns.github.io/SoftwareWG/tags.html" title="Tags">Tags</a></li>
+  </ul>
+  <p class="col-sm-6 text-sm-right text-muted">
+    Generated by <a href="https://github.com/getpelican/pelican" target="_blank" title="Pelican">Pelican</a>
+    / <a href="https://github.com/nairobilug/pelican-alchemy" target="_blank">&#x2728;</a>
+  </p>
+</div>    </div>
+  </footer>
+
+</body>
+
+</html>

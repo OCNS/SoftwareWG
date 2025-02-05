@@ -1,0 +1,58 @@
+BEGIN:VCALENDAR
+PRODID:-//zoom.us//iCalendar Event//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+CLASS:PUBLIC
+BEGIN:VTIMEZONE
+TZID:Europe/London
+LAST-MODIFIED:20230104T023643Z
+TZURL:https://www.tzurl.org/zoneinfo-outlook/Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:DAYLIGHT
+TZNAME:BST
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:GMT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20230217T115438Z
+DTSTART;TZID=Europe/London:20230228T160000
+DTEND;TZID=Europe/London:20230228T170000
+SUMMARY:INCF/OCNS Software Highlight: Kay Robbins: HED (Hierarchical Even
+ t Descriptors)
+UID:20230217T115438Z-99321986413@fe80:0:0:0:495:4fff:fe04:8888ens5
+TZID:Europe/London
+DESCRIPTION:Ankur Sinha (he/him/his) is inviting you to a scheduled Zoom 
+ meeting.\n\nJoin Zoom Meeting\nhttps://ucl.zoom.us/j/99321986413?pwd=OUd
+ FTlJ3NVloUmJ1U0Q3WE9vRERMZz09\n\nMeeting ID: 993 2198 6413\nPasscode: 04
+ 5014\nOne tap mobile\n+12532050468\,\,99321986413#\,\,\,\,*045014# US\n+
+ 12532158782\,\,99321986413#\,\,\,\,*045014# US (Tacoma)\n\nDial by your 
+ location\n        +1 253 205 0468 US\n        +1 253 215 8782 US (Tacoma
+ )\n        +1 301 715 8592 US (Washington DC)\n        +1 305 224 1968 U
+ S\n        +1 309 205 3325 US\n        +1 312 626 6799 US (Chicago)\n   
+      +1 346 248 7799 US (Houston)\n        +1 360 209 5623 US\n        +
+ 1 386 347 5053 US\n        +1 507 473 4847 US\n        +1 564 217 2000 U
+ S\n        +1 646 931 3860 US\n        +1 669 444 9171 US\n        +1 66
+ 9 900 6833 US (San Jose)\n        +1 689 278 1000 US\n        +1 719 359
+  4580 US\n        +1 929 205 6099 US (New York)\nMeeting ID: 993 2198 64
+ 13\nPasscode: 045014\nFind your local number: https://ucl.zoom.us/u/acjn
+ ZcOx87\n\n
+LOCATION:https://ucl.zoom.us/j/99321986413?pwd=OUdFTlJ3NVloUmJ1U0Q3WE9vRE
+ RMZz09
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

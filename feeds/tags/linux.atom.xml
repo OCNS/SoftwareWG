@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>INCF/OCNS Software WG - Linux</title><link href="https://ocns.github.io/SoftwareWG/" rel="alternate"></link><link href="https://ocns.github.io/SoftwareWG/feeds/tags/linux.atom.xml" rel="self"></link><id>https://ocns.github.io/SoftwareWG/</id><updated>2021-07-19T16:59:38+01:00</updated><subtitle>The INCF/OCNS Software Working Group</subtitle><entry><title>Software WG tutorials at CNS*2021 Online: Bash, Git, and Python</title><link href="https://ocns.github.io/SoftwareWG/2021/06/09/software-wg-tutorials-at-cns-2021-online-bash-git-and-python.html" rel="alternate"></link><published>2021-06-09T10:47:23+01:00</published><updated>2021-07-19T16:59:38+01:00</updated><author><name>Ankur Sinha</name></author><id>tag:ocns.github.io,2021-06-09:/SoftwareWG/2021/06/09/software-wg-tutorials-at-cns-2021-online-bash-git-and-python.html</id><summary type="html">&lt;p class="first last"&gt;The Software Working Group is holding three beginner/intermediate level tutorials at the upcoming &lt;span class="caps"&gt;CNS&lt;/span&gt;*2021 Online conference. These will cover using the command line (&lt;a class="reference external" href="https://www.gnu.org/software/bash/"&gt;Bash&lt;/a&gt;), using &lt;a class="reference external" href="https://git-scm.com"&gt;Git&lt;/a&gt; and &lt;a class="reference external" href="https://github.com"&gt;GitHub&lt;/a&gt;, and development in the &lt;a class="reference external" href="https://python.org"&gt;Python&lt;/a&gt; programming&amp;nbsp;language.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;The Software Working Group is holding three beginner/intermediate level tutorials at the upcoming &lt;span class="caps"&gt;CNS&lt;/span&gt;*2021 Online conference. These will cover using the command line (&lt;a class="reference external" href="https://www.gnu.org/software/bash/"&gt;Bash&lt;/a&gt;), using &lt;a class="reference external" href="https://git-scm.com"&gt;Git&lt;/a&gt; and &lt;a class="reference external" href="https://github.com"&gt;GitHub&lt;/a&gt;, and development in the &lt;a class="reference external" href="https://python.org"&gt;Python&lt;/a&gt; programming&amp;nbsp;language.&lt;/p&gt;
+&lt;p&gt;To attend these, and other tutorials at &lt;a class="reference external" href="https://www.cnsorg.org/cns-2021"&gt;&lt;span class="caps"&gt;CNS&lt;/span&gt;*2021&lt;/a&gt;, please register for the conference &lt;a class="reference external" href="https://www.cnsorg.org/cns-2021-registration-fees"&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;div class="section" id="effective-use-of-bash"&gt;
+&lt;h2&gt;Effective use of Bash&lt;a class="headerlink" href="#effective-use-of-bash" title="Permalink to this headline"&gt;⋆&lt;/a&gt;&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Instructor(s): Felix B. Kern (&lt;a class="reference external" href="https://github.com/kernfel"&gt;&amp;#64;kernfel&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Date/Time: &lt;a class="reference external" href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CNS%2A2021%3A+Effective+use+of+Bash&amp;amp;iso=20210628T08&amp;amp;p1=179&amp;amp;ah=3"&gt;28 June, 2021 1200 &lt;span class="caps"&gt;UTC&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/center&gt;
+&lt;br /&gt;
+
+&lt;center&gt;
+ &lt;iframe width="560" height="315" style="height: 315px;" src="https://www.youtube.com/embed/yQQC-6HnBtU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/center&gt;
+&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The purpose of this tutorial is to introduce participants to the tools they need in order to comfortably and confidently work with a Unix/Linux command line terminal.
+Unlike graphical user interfaces, which are often self-explanatory or have obvious built-in help options, the purely text-based nature of a command line terminal can be intimidating and confusing to novice users.
+Yet, once mastered, the command line offers more flexibility and smoother workflows for many tasks, while being entirely irreplaceable for things such as cluster&amp;nbsp;access.&lt;/p&gt;
+&lt;p&gt;In this tutorial, we aim to introduce participants to the concepts and tools they need to confidently operate within a Unix/Linux command line environment.
+In particular, the tutorial is developed for Bash (as per the title), which should cover most Linux and MacOS* use cases.
+We hope to provide participants with a firm understanding of the basics of using a shell, as well as an understanding of the advantages of working from a command&amp;nbsp;line.&lt;/p&gt;
+&lt;p&gt;The tutorial is aimed not only at novices who have rarely or never used a command line, but also at occasional or even regular users of bash who seek to expand or refresh their repertoire of everyday commands and the kinds of quality-of-life tricks and shortcuts that are rarely covered on StackExchange&amp;nbsp;questions.&lt;/p&gt;
+&lt;p&gt;* While MacOS has switched&amp;nbsp;from &lt;code&gt;bash&lt;/code&gt; to &lt;code&gt;zsh&lt;/code&gt; as its default&amp;nbsp;shell, &lt;code&gt;zsh&lt;/code&gt;&lt;span class="quo"&gt;&amp;#8216;&lt;/span&gt;s operation is sufficiently similar for the purposes of this&amp;nbsp;tutorial.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Prerequisites&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A working copy of bash; participants on Linux and MacOS are all&amp;nbsp;set.&lt;/p&gt;
+&lt;p&gt;Participants on Windows have several options to get hold of a bash environment without leaving familiar&amp;nbsp;territory:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Install &lt;a class="reference external" href="https://gitforwindows.org/"&gt;Git for Windows&lt;/a&gt;, which includes a Git Bash emulation with most of the standard tools you might expect in a Linux/Unix environment, plus of course&amp;nbsp;Git.&lt;/li&gt;
+&lt;li&gt;Alternatively, &lt;a class="reference external" href="https://docs.microsoft.com/en-us/windows/wsl/install-win10#install-the-windows-subsystem-for-linux"&gt;enable &lt;span class="caps"&gt;WSL2&lt;/span&gt;&lt;/a&gt; and &lt;a class="reference external" href="https://www.microsoft.com/en-gb/p/ubuntu/9nblggh4msv6"&gt;install Ubuntu&lt;/a&gt; as a virtual machine hosted by Windows. Somewhat ironically, this requires at least one use of a command line terminal (though not bash); on the upside, the Linux-on-Windows experience can be a smooth and safe first step into Linux&amp;nbsp;territory.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Topics&lt;/strong&gt;&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Basics to refer back to: Operating your bash shell (with key bindings and&amp;nbsp;patience)&lt;/li&gt;
+&lt;li&gt;The grammar of a shell command&amp;nbsp;line&lt;/li&gt;
+&lt;li&gt;Getting around: navigating within and beyond your&amp;nbsp;computer: &lt;code&gt;~&lt;/code&gt;, &lt;code&gt;pwd&lt;/code&gt;, &lt;code&gt;cd&lt;/code&gt;, &lt;code&gt;pushd&lt;/code&gt;/&lt;code&gt;popd&lt;/code&gt;, &lt;code&gt;ssh&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Seeing what&amp;#8217;s&amp;nbsp;there: &lt;code&gt;ls&lt;/code&gt;, globbing, and strategies for naming your&amp;nbsp;files&lt;/li&gt;
+&lt;li&gt;File system&amp;nbsp;manipulations: &lt;code&gt;mv&lt;/code&gt;, &lt;code&gt;cp&lt;/code&gt;/&lt;code&gt;scp&lt;/code&gt;, &lt;code&gt;rm&lt;/code&gt;, &lt;code&gt;mkdir&lt;/code&gt;, &lt;code&gt;rmdir&lt;/code&gt;, &lt;code&gt;ln -s&lt;/code&gt;, &lt;code&gt;touch&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Looking into&amp;nbsp;files: &lt;code&gt;cat&lt;/code&gt;, &lt;code&gt;head&lt;/code&gt; &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; &lt;code&gt;tail&lt;/code&gt;, &lt;code&gt;more&lt;/code&gt; or &lt;code&gt;less&lt;/code&gt;, &lt;code&gt;grep&lt;/code&gt;, &lt;code&gt;diff&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Text&amp;nbsp;manipulation: &lt;code&gt;sed&lt;/code&gt;, &lt;code&gt;sort&lt;/code&gt;, &lt;code&gt;uniq&lt;/code&gt;, &lt;code&gt;cut&lt;/code&gt;, &lt;code&gt;column&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Putting things together: piping and&amp;nbsp;redirection&lt;/li&gt;
+&lt;li&gt;What to do when&amp;nbsp;stuck: &lt;code&gt;man&lt;/code&gt;, I need&amp;nbsp;some &lt;code&gt;help&lt;/code&gt; here &lt;code&gt;apropos&lt;/code&gt; of this&amp;nbsp;command&amp;#8230;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="effective-use-of-git"&gt;
+&lt;h2&gt;Effective use of Git&lt;a class="headerlink" href="#effective-use-of-git" title="Permalink to this headline"&gt;⋆&lt;/a&gt;&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Instructor(s): Ankur Sinha (&lt;a class="reference external" href="https://github.com/sanjayankur31"&gt;&amp;#64;sanjayankur31&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Date/time: &lt;a class="reference external" href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CNS%2A2021%3A+Effective+use+of+Git&amp;amp;iso=20210628T13&amp;amp;p1=179&amp;amp;ah=3"&gt;June 28, 2021 1700 &lt;span class="caps"&gt;UTC&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://hackmd.io/&amp;#64;sanjayankur31/SkpuMdDh_"&gt;Notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/center&gt;
+&lt;br /&gt;
+
+&lt;center&gt;
+ &lt;iframe width="560" height="315" style="height: 315px;" src="https://www.youtube.com/embed/CRCtRilX3NA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/center&gt;
+&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Version control is a necessary skill that users writing any amount of code should possess.
+Git is a popular version control tool that is used ubiquitously in software&amp;nbsp;development.&lt;/p&gt;
+&lt;p&gt;This hands-on session is aimed at beginners who have little or no experience with version control systems and Git.
+It will introduce the basics of version control and walk through a common daily Git workflow before moving on to show how Git is used for collaborative development on popular Git forges such as GitHub.
+Finally, it will show some advanced features of Git that aid in debugging code&amp;nbsp;errors.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Prerequisites&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The session is intended to be a hands-on session, so all attendees will be expected to run Git commands.
+A working installation of Git is, therefore, required for this session.
+We will use GitHub as our Git remote for forking and pull/merge requests.
+So a GitHub account will also be&amp;nbsp;required.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Linux users can generally install Git from their default package manager:&lt;ul&gt;
+&lt;li&gt;Fedora: &lt;code&gt;sudo dnf install git&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Ubuntu: &lt;code&gt;sudo apt-get install git&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Windows users should use &lt;a class="reference external" href="https://gitforwindows.org/"&gt;Git for Windows&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;MacOS users should&amp;nbsp;use &lt;code&gt;brew&lt;/code&gt; to&amp;nbsp;install &lt;code&gt;git&lt;/code&gt;: &lt;code&gt;brew install git&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;More information on installing Git can be found on the project website: &lt;a class="reference external" href="https://git-scm.com/"&gt;https://git-scm.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Topics&lt;/strong&gt;&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;a brief introduction to Git&lt;ul&gt;
+&lt;li&gt;references,&amp;nbsp;options&lt;/li&gt;
+&lt;li&gt;where to get&amp;nbsp;help&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;using Git on a daily basis:&lt;ul&gt;
+&lt;li&gt;creating a new&amp;nbsp;repository &lt;code&gt;init&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;adding files and staging&amp;nbsp;files: &lt;code&gt;add, add -i&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;ignoring&amp;nbsp;files: &lt;code&gt;.gitingore&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;stashing: &lt;code&gt;stash&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;viewing&amp;nbsp;changes: &lt;code&gt;diff, log&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;committing&amp;nbsp;files: &lt;code&gt;commit&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;using branches to organise the development&amp;nbsp;workflow: &lt;code&gt;branch, checkout&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;tagging: &lt;code&gt;tag&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;creating an&amp;nbsp;archive: &lt;code&gt;archive&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;using Git for collaborative development&lt;ul&gt;
+&lt;li&gt;remotes,&amp;nbsp;forks: &lt;code&gt;remote&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;pushing and&amp;nbsp;pulling: &lt;code&gt;push, pull&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;pull requests and&amp;nbsp;merging: &lt;code&gt;merge&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;merge conflicts and resolving&amp;nbsp;them&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;slightly advanced git&lt;ul&gt;
+&lt;li&gt;Git&amp;nbsp;worktrees: &lt;code&gt;worktree&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;interactive&amp;nbsp;rebasing: &lt;code&gt;rebase -i&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;cherry-picking: &lt;code&gt;cherry-pick&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;debugging with&amp;nbsp;git-bisect: &lt;code&gt;bisect&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="python-for-beginners"&gt;
+&lt;h2&gt;Python for beginners&lt;a class="headerlink" href="#python-for-beginners" title="Permalink to this headline"&gt;⋆&lt;/a&gt;&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Instructors: Joe Graham (&lt;a class="reference external" href="https://github.com/joewgraham"&gt;&amp;#64;joewgraham&lt;/a&gt;), Shailesh Appukuttan (&lt;a class="reference external" href="https://github.com/appukuttan-shailesh"&gt;&amp;#64;appukuttan-shailesh&lt;/a&gt;), Ankur Sinha (&lt;a class="reference external" href="https://github.com/sanjayankur31"&gt;&amp;#64;sanjayankur31&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Date/time: &lt;a class="reference external" href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CNS%2A2021%3A+Python+for+beginners&amp;amp;iso=20210629T09&amp;amp;p1=179&amp;amp;ah=3"&gt;29 June, 2021 1300 &lt;span class="caps"&gt;UTC&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Jupyter notebooks: &lt;a class="reference external" href="https://github.com/OCNS/SoftwareWG-events/blob/main/20210703-CNS2021/03_python/"&gt;https://github.com/&lt;span class="caps"&gt;OCNS&lt;/span&gt;/SoftwareWG-events/blob/main/20210703-&lt;span class="caps"&gt;CNS2021&lt;/span&gt;/03_python/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/center&gt;
+&lt;br /&gt;
+
+&lt;center&gt;
+ &lt;iframe width="560" height="315" style="height: 315px;" src="https://www.youtube.com/embed/Z4OohWlehH4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/center&gt;
+&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Python is amongst the most widely used programming languages today, and is increasingly popular in the scientific domain.
+A large number of tools and simulators in use currently are either implemented in Python, or offer interfaces for their use via Python.
+Python programming is therefore a very sought after skill in the scientific&amp;nbsp;community.&lt;/p&gt;
+&lt;p&gt;This tutorial is targeted towards people who have some experience with programming languages (e.g. &lt;span class="caps"&gt;MATLAB&lt;/span&gt;, C, C++, etc), but are relatively new to Python.
+It is structured to have you quickly up-and-running, giving you a feel of how things work in Python.
+We shall begin by demonstrating how to setup and manage virtual environments on your system, to help you keep multiple projects isolated.
+We&amp;#8217;ll show you how to install Python packages in virtual environments and how to manage them.
+This will be followed by a quick overview of very basic Python constructs, leading finally to a neuroscience-themed project that will give you the opportunity to bring together various programming concepts with some hands-on&amp;nbsp;practice.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Prerequisites&lt;/strong&gt;&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;shell (participants on Linux and MacOS are all set; see below for Windows&amp;nbsp;users)&lt;/li&gt;
+&lt;li&gt;Python 3.6.9 or higher (see below for info on&amp;nbsp;installation)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Participants on Windows have several options to get hold of a shell environment without leaving familiar&amp;nbsp;territory:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Install &lt;a class="reference external" href="https://gitforwindows.org/"&gt;Git for Windows&lt;/a&gt;, which includes a Git Bash emulation with most of the standard tools you might expect in a Linux/Unix environment, plus of course&amp;nbsp;Git.&lt;/li&gt;
+&lt;li&gt;Alternatively, &lt;a class="reference external" href="https://docs.microsoft.com/en-us/windows/wsl/install-win10#install-the-windows-subsystem-for-linux"&gt;enable &lt;span class="caps"&gt;WSL2&lt;/span&gt;&lt;/a&gt; and &lt;a class="reference external" href="https://www.microsoft.com/en-gb/p/ubuntu/9nblggh4msv6"&gt;install Ubuntu&lt;/a&gt; as a virtual machine hosted by Windows. This Linux-on-Windows experience can be a smooth and safe first step into Linux&amp;nbsp;territory.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You will find several resources online for info on installing Python. e.g. &lt;a class="reference external" href="https://realpython.com/installing-python/"&gt;https://realpython.com/installing-python/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Topics&lt;/strong&gt;&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Setting up and managing virtual&amp;nbsp;environments&lt;/li&gt;
+&lt;li&gt;Installing packages using PyPI&amp;nbsp;(&lt;code&gt;pip&lt;/code&gt;) and from Git repositories (e.g.&amp;nbsp;GitHub)&lt;/li&gt;
+&lt;li&gt;Quick Python 101 - lists, dicts, if&amp;#8230;else, loops, functions, error handling, import, help, numpy,&amp;nbsp;matplotlib&lt;/li&gt;
+&lt;li&gt;Short neuroscience-themed project - modularizing the&amp;nbsp;code&lt;/li&gt;
+&lt;li&gt;Good practices - lint&amp;nbsp;(Flake8)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</content><category term="Events"></category><category term="CNS2021Online"></category><category term="Community"></category><category term="Linux"></category><category term="Python"></category><category term="Software development"></category><category term="Bash"></category><category term="Tutorials"></category><category term="Git"></category><category term="GitHub"></category></entry><entry><title>Dev session: Ankur Sinha: NeuroFedora</title><link href="https://ocns.github.io/SoftwareWG/2021/02/07/dev-session-ankur-sinha-neurofedora.html" rel="alternate"></link><published>2021-02-07T17:27:54+00:00</published><updated>2021-06-03T11:33:33+01:00</updated><author><name>Ankur Sinha</name></author><id>tag:ocns.github.io,2021-02-07:/SoftwareWG/2021/02/07/dev-session-ankur-sinha-neurofedora.html</id><summary type="html">&lt;p class="first last"&gt;&lt;a class="reference external" href="https://ankursinha.in"&gt;Ankur Sinha&lt;/a&gt; will introduce the &lt;a class="reference external" href="https://www.fsf.org/blogs/community/user-liberation-watch-and-share-our-new-video/"&gt;Free/Open Source Software&lt;/a&gt; &lt;a class="reference external" href="https://neuro.fedoraproject.org"&gt;NeuroFedora&lt;/a&gt; project and discuss its development in this developer&amp;nbsp;session.&lt;/p&gt;
+</summary><content type="html">&lt;center&gt;&lt;div class="figure"&gt;
+&lt;a class="reference external image-reference" href="https://neuro.fedoraproject.org"&gt;
+&lt;img alt="The NeuroFedora project" class="img-responsive" src="https://ocns.github.io/SoftwareWG/images/20210207-NeuroFedoraLogo.png" style="width: 25%;" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/center&gt;
+&lt;br /&gt;
+
+&lt;center&gt;
+ &lt;iframe width="560" height="315" style="height: 315px;" src="https://www.youtube.com/embed/d8wO-ekFw5M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/center&gt;
+&lt;br /&gt;&lt;p&gt;&lt;a class="reference external" href="https://ankursinha.in"&gt;Ankur Sinha&lt;/a&gt; will introduce the &lt;a class="reference external" href="https://www.fsf.org/blogs/community/user-liberation-watch-and-share-our-new-video/"&gt;Free/Open Source Software&lt;/a&gt; &lt;a class="reference external" href="https://neuro.fedoraproject.org"&gt;NeuroFedora&lt;/a&gt; project and discuss its development in this developer&amp;nbsp;session.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Date: Feb 16, 2021 1700 &lt;span class="caps"&gt;UTC&lt;/span&gt; (Click &lt;a class="reference external" href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Dev+session%3A+Ankur+Sinha%3A+NeuroFedora&amp;amp;iso=20210216T17&amp;amp;p1=136&amp;amp;ah=1"&gt;here&lt;/a&gt;  to see your local&amp;nbsp;time).&lt;/li&gt;
+&lt;li&gt;Location (Zoom): (link no longer&amp;nbsp;valid)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The abstract for the talk is&amp;nbsp;below:&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://neuro.fedoraproject.org"&gt;NeuroFedora&lt;/a&gt; is an initiative to provide a ready to use Fedora based Free/Open source software platform for neuroscience.
+We believe that similar to Free software, science should be free for all to use, share, modify, and study.
+The use of Free software also aids reproducibility, data sharing, and collaboration in the research community.
+By making the tools used in the scientific process easier to use, NeuroFedora aims to take a step to enable this ideal.
+In this session, I will talk about the deliverables of the &lt;a class="reference external" href="https://neuro.fedoraproject.org"&gt;NeuroFedora&lt;/a&gt; project and then go over the complete pipeline that we use to produce, test, and disseminate&amp;nbsp;them.&lt;/p&gt;
+</content><category term="Events"></category><category term="NeuroFedora"></category><category term="Linux"></category><category term="Free/Open Source Software"></category><category term="Python"></category><category term="Neuroscience"></category><category term="Computational Neuroscience"></category></entry></feed>
